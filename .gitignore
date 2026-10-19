@@ -1,0 +1,31 @@
+# Secretos y credenciales locales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Dependencias y salidas de compilación
+node_modules/
+dist/
+build/
+.cache/
+.wrangler/
+.parcel-cache/
+.vite/
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
