@@ -24,9 +24,9 @@ Workers Builds no aplica los comandos de Custom Builds declarados en `wrangler.j
 
 El sitio mantiene la URL de Workers `https://opoclaro.santi2326ph.workers.dev`. Para validar una publicación, comprueba la portada, las dos herramientas, las guías, `sitemap.xml`, `robots.txt` y que una ruta inexistente muestre la página 404. Los archivos fuente, `.git`, `.wrangler`, README, scripts locales y configuración de Wrangler quedan fuera de `dist`. Workers procesa `_headers` como reglas del despliegue; no lo sirve como archivo descargable.
 
-Antes de publicar, sustituye todas las apariciones de `TU-DOMINIO.pages.dev` por el hostname Pages asignado o tu dominio personalizado. Reemplaza también `REEMPLAZAR_CON_EL_CODIGO_DE_SEARCH_CONSOLE` en `index.html` con la etiqueta de verificación HTML de Search Console, si vas a verificar la propiedad por ese método.
+El dominio público configurado es `https://opoclaro.santi2326ph.workers.dev`. Si lo cambias en el futuro, actualiza las URL canónicas, los metadatos de `index.html` y las direcciones de `sitemap.xml` y `robots.txt`. La etiqueta HTML de Google Search Console ya está configurada en `index.html`.
 
-Comprueba `https://tu-dominio/sitemap.xml` y `https://tu-dominio/robots.txt` después del despliegue. Añade `https://tu-dominio/sitemap.xml` en Search Console. Las rutas internas enlazan a los archivos HTML directamente y funcionan sin reglas de reescritura.
+Comprueba `https://opoclaro.santi2326ph.workers.dev/sitemap.xml` y `https://opoclaro.santi2326ph.workers.dev/robots.txt` después del despliegue. Añade `https://opoclaro.santi2326ph.workers.dev/sitemap.xml` en Search Console. Las rutas internas enlazan a los archivos HTML directamente y funcionan sin reglas de reescritura.
 
 ## Contenido
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-DOMINIO.pages.dev/sitemap.xml
+Sitemap: https://opoclaro.santi2326ph.workers.dev/sitemap.xml
