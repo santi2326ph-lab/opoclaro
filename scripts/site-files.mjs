@@ -1,0 +1,19 @@
+export const publicFiles = [
+  '_headers',
+  '404.html',
+  'despliegue.html',
+  'guias/calcular-nota-oposicion.html',
+  'guias/metodo-de-estudio.html',
+  'guias/plan-de-estudio-realista.html',
+  'guias/repaso-activo.html',
+  'herramientas/calculadora.html',
+  'herramientas/planificador.html',
+  'index.html',
+  'robots.txt',
+  'sitemap.xml',
+  'assets/calculadora.js',
+  'assets/favicon.svg',
+  'assets/planificador.js',
+  'assets/site.js',
+  'assets/styles.css'
+];

@@ -8,11 +8,21 @@ Web estática gratuita de herramientas y guías originales para opositores. Solo
 - Para desarrollar con URLs HTTP como en producción, abre PowerShell en esta carpeta y ejecuta `./start-local.ps1`. Requiere Python 3 y sirve el sitio en `http://localhost:8000/`; usa `Ctrl+C` para detenerlo. Si Windows bloquea scripts locales, ejecuta `powershell -ExecutionPolicy Bypass -File .\start-local.ps1` en esa sesión.
 - Si ya tienes Python instalado, también puedes ejecutar `python -m http.server 8000 --bind 127.0.0.1` desde esta carpeta.
 
-La web estática no tiene compilación ni suite de pruebas configurada.
+La web fuente sigue siendo HTML, CSS y JavaScript sin framework. Para Workers se genera `dist` mediante un script de Node.js sin dependencias externas; solo incluye una lista explícita de archivos públicos.
 
-## Publicación rápida
+## Publicación segura en Cloudflare Workers
 
-En Cloudflare Pages, crea un proyecto mediante carga directa y sube el contenido de esta carpeta. Puedes usar el subdominio `*.pages.dev` que se asigna al proyecto; un dominio personalizado es opcional y puede tener coste de compra. Cloudflare no permite convertir después un proyecto de carga directa a integración Git, así que elige Git desde el inicio si quieres despliegues automáticos. No configures un proceso de compilación ni `dist`: el directorio raíz contiene `index.html` y está listo para publicar.
+Wrangler está configurado en `wrangler.jsonc` para servir únicamente `dist`. No ejecutes `npx wrangler deploy .` ni cambies el directorio de assets a `.`: eso puede incluir el repositorio Git y archivos locales.
+
+1. Instala Node.js si aún no está instalado y abre una terminal en esta carpeta.
+2. Ejecuta `npm run build`. El script elimina y vuelve a crear solo la salida generada `dist`, copiando los archivos públicos permitidos y `_headers` para conservar las cabeceras de seguridad de Workers.
+3. Ejecuta `npm test` para comprobar enlaces, recursos, archivos publicados y sintaxis JavaScript.
+4. Para despliegues automáticos desde GitHub, antes de subir cambios abre el Worker `opoclaro` en Cloudflare y ve a **Settings > Builds > Build configuration**. Deja el directorio raíz en `/`, configura **Build command** como `npm run build && npm test` y **Deploy command** como `npx wrangler deploy`; confirma que la rama de producción sea `main`. No dejes vacío el comando de compilación: Cloudflare ejecuta ese paso antes del despliegue. Como alternativa, configura el comando de despliegue como `npm run deploy`, que compila antes de llamar a Wrangler.
+5. Para publicar manualmente desde una terminal local, ejecuta `npm run deploy`; reconstruye `dist` y después publica. `npx wrangler deploy` por sí solo usa el directorio configurado `./dist`, pero no ejecuta el script de `package.json`.
+
+Workers Builds no aplica los comandos de Custom Builds declarados en `wrangler.jsonc`; por eso, para una integración Git, configura el Build command en el panel de Cloudflare o usa `npm run deploy` como Deploy command. No publiques el commit hasta confirmar esa configuración en el panel.
+
+El sitio mantiene la URL de Workers `https://opoclaro.santi2326ph.workers.dev`. Para validar una publicación, comprueba la portada, las dos herramientas, las guías, `sitemap.xml`, `robots.txt` y que una ruta inexistente muestre la página 404. Los archivos fuente, `.git`, `.wrangler`, README, scripts locales y configuración de Wrangler quedan fuera de `dist`. Workers procesa `_headers` como reglas del despliegue; no lo sirve como archivo descargable.
 
 Antes de publicar, sustituye todas las apariciones de `TU-DOMINIO.pages.dev` por el hostname Pages asignado o tu dominio personalizado. Reemplaza también `REEMPLAZAR_CON_EL_CODIGO_DE_SEARCH_CONSOLE` en `index.html` con la etiqueta de verificación HTML de Search Console, si vas a verificar la propiedad por ese método.
 
@@ -30,5 +40,5 @@ La canonical y las URL del sitemap empiezan con un dominio de ejemplo. Reempláz
 
 ## Referencias oficiales
 
-- [Inicio de Cloudflare Pages](https://developers.cloudflare.com/pages/get-started/), [carga directa](https://developers.cloudflare.com/pages/get-started/direct-upload/) y [límites del plan gratuito](https://developers.cloudflare.com/pages/platform/limits/).
+- [Cloudflare Workers Static Assets](https://developers.cloudflare.com/workers/static-assets/) y [configuración de Wrangler](https://developers.cloudflare.com/workers/wrangler/configuration/).
 - [Documentación de Google Search Console](https://developers.google.com/search/docs/monitor-debug/search-console-start) y [cómo crear y enviar un sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap).

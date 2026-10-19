@@ -1,0 +1,11 @@
+{
+  "name": "opoclaro",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/check-site.mjs && node scripts/test-functionality.mjs",
+    "preview": "node scripts/serve-dist.mjs",
+    "deploy": "npm run build && npx wrangler deploy"
+  }
+}
