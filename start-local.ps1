@@ -16,10 +16,10 @@ if ($python -and $python.Source -notlike '*\Microsoft\WindowsApps\python.exe') {
 }
 
 $python3 = Get-Command python3 -ErrorAction SilentlyContinue
-if ($python3) {
+if ($python3 -and $python3.Source -notlike '*\Microsoft\WindowsApps\*') {
     Write-Host 'OpoClaro disponible en http://localhost:8000/ (Ctrl+C para detener).'
     & $python3.Source -m http.server 8000 --bind 127.0.0.1 --directory $siteRoot
     exit $LASTEXITCODE
 }
 
-Write-Error 'No se encontró Python. Instala Python 3 o abre index.html directamente en el navegador.'
+Write-Error 'No se encontró una instalación real de Python 3. Los alias de Microsoft Store no sirven como servidor. Instala Python 3 o usa Node con: node .\scripts\serve-dist.mjs'

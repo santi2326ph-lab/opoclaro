@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "gramatica-lengua-espanola",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Gramática de la lengua española · Tema 36",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T36-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Cuál es el núcleo característico de un grupo nominal según la RAE?",
+      "opciones": [
+        "Un sustantivo",
+        "Una preposición",
+        "Una conjunción",
+        "Una interjección necesariamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La RAE describe el grupo nominal como construido en torno a un sustantivo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿En torno a qué categoría se construye un grupo verbal?",
+      "opciones": [
+        "Un adjetivo",
+        "Un verbo",
+        "Una preposición",
+        "Un determinante"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La RAE identifica los grupos verbales como construcciones cuyo núcleo es un verbo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿En torno a qué categoría se forma un grupo adjetival?",
+      "opciones": [
+        "Un adjetivo",
+        "Un sustantivo siempre",
+        "Una preposición siempre",
+        "Una conjunción"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La RAE indica que el grupo adjetival se construye en torno a un adjetivo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Cuál es el núcleo típico de un grupo adverbial?",
+      "opciones": [
+        "Un adverbio",
+        "Un sustantivo",
+        "Una preposición",
+        "Un pronombre personal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Los grupos adverbiales se constituyen en torno a un adverbio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Cómo describe la RAE un grupo preposicional?",
+      "opciones": [
+        "Construcción formada por una preposición y su término",
+        "Grupo formado solo por un verbo",
+        "Conjunto obligatorio de dos sustantivos",
+        "Una oración sin núcleo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La gramática básica denomina grupo preposicional a la construcción de preposición y término.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Puede un grupo sintáctico constar de una sola palabra?",
+      "opciones": [
+        "Sí; puede constar de uno o varios elementos",
+        "No, siempre requiere cuatro palabras",
+        "Solo si es verbal",
+        "Únicamente en textos literarios"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La RAE señala que un grupo puede tener un solo elemento o varios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué elemento puede recibir modificadores y complementos en un grupo sintáctico?",
+      "opciones": [
+        "El núcleo, perteneciente a una categoría gramatical",
+        "Solo el último complemento",
+        "Únicamente una preposición",
+        "Cualquier palabra sin relación sintáctica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los grupos se organizan alrededor de un núcleo que puede recibir modificadores y complementos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Cómo se forma un grupo interjectivo?",
+      "opciones": [
+        "Con una interjección y sus posibles complementos",
+        "Con un adjetivo y un sustantivo obligatorios",
+        "Solo con una preposición",
+        "Con dos verbos conjugados"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La RAE define el grupo interjectivo como la interjección y sus complementos posibles.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Puede un grupo sintáctico insertarse dentro de otro de distinta clase?",
+      "opciones": [
+        "Sí; por ejemplo, grupos nominales pueden integrarse en grupos verbales",
+        "No; cada grupo aparece aislado",
+        "Solo los grupos adverbiales",
+        "Únicamente en preguntas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La RAE explica que los grupos pueden formar parte de otros distintos de los que les dan nombre.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué puede acompañar al núcleo de un grupo sintáctico?",
+      "opciones": [
+        "Modificadores y complementos",
+        "Solo artículos",
+        "Únicamente signos de puntuación",
+        "Nada, por definición"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La definición de grupo sintáctico permite que el núcleo reciba modificadores y complementos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica, grupos sintácticos",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/la-gram%C3%A1tica/la-sintaxis/los-grupos-sint%C3%A1cticos-sus-clases"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "Según el Glosario de términos gramaticales de la RAE, ¿qué formas pueden desempeñar la función de complemento indirecto?",
+      "opciones": [
+        "Un pronombre átono de dativo o un grupo preposicional con «a» sustituible por ese pronombre",
+        "Solo un adverbio",
+        "Únicamente un grupo nominal sin preposición",
+        "Solo una oración subordinada adjetiva"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La RAE considera complemento indirecto al pronombre átono de dativo o al grupo preposicional con «a» que puede reemplazarse por ese pronombre.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Glosario de términos gramaticales: complemento indirecto",
+        "url": "https://www.rae.es/gtg/complemento-indirecto"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "En «Entregaron los certificados a los asistentes», ¿qué función cumple «a los asistentes» según la RAE?",
+      "opciones": [
+        "Atributo",
+        "Complemento indirecto",
+        "Complemento de régimen",
+        "Sujeto"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el ejemplo, «a los asistentes» es el grupo preposicional que funciona como complemento indirecto y expresa los destinatarios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Glosario de términos gramaticales: complemento indirecto",
+        "url": "https://www.rae.es/gtg/complemento-indirecto"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué pronombre átono de dativo puede sustituir «a un joven escritor» en «Concedieron el premio a un joven escritor»?",
+      "opciones": [
+        "Lo",
+        "La",
+        "Le",
+        "Se"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El grupo preposicional «a un joven escritor» puede duplicarse o sustituirse por el pronombre átono de dativo «le».",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Glosario de términos gramaticales: complemento indirecto",
+        "url": "https://www.rae.es/gtg/complemento-indirecto"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué papel semántico puede expresar un complemento indirecto en «Donó sus bienes a una sobrina»?",
+      "opciones": [
+        "Agente de la donación",
+        "Instrumento",
+        "Lugar",
+        "Destinatario"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La RAE describe al destinatario como una de las interpretaciones semánticas frecuentes del complemento indirecto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Nueva gramática básica: complemento indirecto, introducción",
+        "url": "https://www.rae.es/gram%C3%A1tica-b%C3%A1sica/complemento-directo-complemento-indirecto-complemento-de-r%C3%A9gimen/el-complemento-indirecto-ci/introducci%C3%B3n"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "En «Le gusta el chocolate a Luis», ¿qué relación existe entre «le» y «a Luis» según la RAE?",
+      "opciones": [
+        "El pronombre duplica el complemento indirecto con la misma referencia",
+        "Son dos complementos directos distintos",
+        "«Le» es el sujeto y «a Luis» el atributo",
+        "El grupo con «a» es siempre complemento circunstancial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "En la duplicación pronominal, «le» y «a Luis» comparten referente y no constituyen dos complementos indirectos independientes.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Glosario de términos gramaticales: complemento indirecto",
+        "url": "https://www.rae.es/gtg/complemento-indirecto"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "Según la RAE, ¿qué caracteriza al atributo en una oración como «La palma es símbolo de la victoria»?",
+      "opciones": [
+        "Un complemento introducido siempre por «de»",
+        "Un adjetivo o nombre del predicado que, con verbo copulativo o equivalente, expresa una cualidad del sujeto",
+        "Un complemento exclusivo de verbos transitivos",
+        "Un sujeto omitido"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El atributo es un adjetivo o nombre del predicado que se une a un verbo copulativo o equivalente y expresa una cualidad del sujeto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Diccionario del estudiante: atributo",
+        "url": "https://www.rae.es/diccionario-estudiante/atributo"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "En la definición académica del atributo, ¿con qué elemento concuerda?",
+      "opciones": [
+        "Con el complemento indirecto",
+        "Con el adverbio más próximo",
+        "Con el sujeto",
+        "Con el objeto de una preposición"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La definición académica señala que el atributo concuerda con el sujeto.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE, Diccionario del estudiante: atributo",
+        "url": "https://www.rae.es/diccionario-estudiante/atributo"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué es el dequeísmo según el Diccionario panhispánico de dudas?",
+      "opciones": [
+        "Omitir siempre «de» ante una subordinada",
+        "Usar «que» como pronombre relativo",
+        "Duplicar un complemento indirecto",
+        "Anteponer indebidamente «de» a «que» cuando ninguna palabra exige esa preposición"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El dequeísmo consiste en anteponer «de» a «que» cuando esa preposición no está exigida por ninguna palabra del enunciado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Diccionario panhispánico de dudas: dequeísmo",
+        "url": "https://www.rae.es/dpd/deque%C3%ADsmo"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Qué construcción identifica la RAE como dequeísta en «Pienso de que conseguiremos ganar»?",
+      "opciones": [
+        "La preposición «de» ante una subordinada sustantiva que funciona como complemento directo",
+        "El uso de «que» como conjunción",
+        "El sujeto expreso antes del verbo",
+        "La ausencia de complemento indirecto"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El DPD censura «Pienso de que…»: la subordinada es complemento directo y no debe anteponerse «de».",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Diccionario panhispánico de dudas: dequeísmo",
+        "url": "https://www.rae.es/dpd/deque%C3%ADsmo"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T36-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "gramatica-lengua-espanola",
+      "temaNumero": 36,
+      "enunciado": "¿Cómo define la RAE el leísmo?",
+      "opciones": [
+        "Uso de «lo» como complemento indirecto femenino",
+        "Uso de «le» o «les» como complemento directo masculino cuando corresponderían «lo» o «los»",
+        "Omisión del artículo ante un sustantivo",
+        "Anteposición indebida de «de» ante «que»"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Diccionario del estudiante define el leísmo como el empleo de «le» o «les» como complemento directo masculino en lugar de «lo» o «los».",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Diccionario del estudiante: leísmo",
+        "url": "https://www.rae.es/diccionario-estudiante/le%C3%ADsmo"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

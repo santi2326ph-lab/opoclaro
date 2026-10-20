@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "desarrollo-sostenible",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Desarrollo sostenible · Tema 35",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T35-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Cuántos Objetivos de Desarrollo Sostenible incluye la Agenda 2030 de Naciones Unidas?",
+      "opciones": [
+        "Diecisiete",
+        "Doce",
+        "Quince",
+        "Veinte"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Agenda 2030 comprende 17 ODS y 169 metas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivos de Desarrollo Sostenible",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué dimensiones suelen integrarse en el desarrollo sostenible de la Agenda 2030?",
+      "opciones": [
+        "Exclusivamente económica y financiera",
+        "Económica, social y ambiental",
+        "Militar, policial y judicial",
+        "Solo conservación ambiental"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La Agenda 2030 articula dimensiones económicas, sociales y ambientales del desarrollo sostenible.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué pretende el ODS 1?",
+      "opciones": [
+        "Poner fin a la pobreza en todas sus formas en todo el mundo",
+        "Garantizar únicamente el crecimiento industrial",
+        "Proteger solo los océanos",
+        "Regular el comercio electrónico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ODS 1 se centra en poner fin a la pobreza en todas sus formas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 1",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Cuál es el propósito central del ODS 2?",
+      "opciones": [
+        "Poner fin al hambre, lograr seguridad alimentaria y mejorar la nutrición y agricultura sostenible",
+        "Aumentar el consumo de combustibles fósiles",
+        "Regular la navegación aérea",
+        "Proteger exclusivamente patrimonio cultural"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El ODS 2 trata hambre, seguridad alimentaria, nutrición y agricultura sostenible.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 2",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué promueve el ODS 3?",
+      "opciones": [
+        "Salud y bienestar para todas las personas y a todas las edades",
+        "Solo la educación universitaria",
+        "La urbanización sin planificación",
+        "El crecimiento del transporte privado"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El ODS 3 se refiere a garantizar vidas saludables y promover el bienestar para todas las edades.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 3",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿A qué se refiere el ODS 4?",
+      "opciones": [
+        "Educación inclusiva y equitativa de calidad y oportunidades de aprendizaje permanente",
+        "Acceso universal a internet de pago",
+        "Producción de energía nuclear",
+        "Conservación de los océanos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ODS 4 promueve educación inclusiva y equitativa de calidad y aprendizaje permanente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 4",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Cuál es el objetivo del ODS 5?",
+      "opciones": [
+        "Lograr la igualdad de género y empoderar a mujeres y niñas",
+        "Garantizar empleo solo en el sector público",
+        "Reducir la pesca artesanal",
+        "Aumentar el comercio de armas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ODS 5 se centra en la igualdad de género y el empoderamiento de mujeres y niñas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 5",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué ámbito recoge el ODS 6?",
+      "opciones": [
+        "Disponibilidad y gestión sostenible del agua y saneamiento",
+        "Protección de datos personales",
+        "Defensa de fronteras",
+        "Transporte ferroviario"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El ODS 6 aborda agua y saneamiento para todas las personas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 6",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué finalidad tiene el ODS 7?",
+      "opciones": [
+        "Acceso a energía asequible, fiable, sostenible y moderna",
+        "Acceso universal a armas",
+        "Aumentar la extracción de combustibles sin límite",
+        "Eliminar las energías renovables"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El ODS 7 se refiere al acceso a energía asequible, fiable, sostenible y moderna.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 7",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué promueve el ODS 8?",
+      "opciones": [
+        "Crecimiento económico sostenido, inclusivo y sostenible, empleo pleno y trabajo decente",
+        "La sustitución del empleo por trabajo infantil",
+        "La reducción de la educación laboral",
+        "El crecimiento económico sin consideración social"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ODS 8 combina crecimiento económico sostenible, empleo pleno y trabajo decente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Objetivo de Desarrollo Sostenible 8",
+        "url": "https://sdgs.un.org/goals"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿A qué se refiere el ODS 9 de la Agenda 2030?",
+      "opciones": [
+        "Trabajo decente y crecimiento económico",
+        "Agua limpia y saneamiento",
+        "Acción por el clima",
+        "Industria, innovación e infraestructura"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ODS 9 se titula «Industria, innovación e infraestructura».",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué propósito general identifica el ODS 10?",
+      "opciones": [
+        "Reducir la desigualdad en los países y entre ellos",
+        "Garantizar energía asequible y no contaminante",
+        "Proteger la vida submarina",
+        "Promover la paz y la justicia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El ODS 10 busca reducir la desigualdad dentro de los países y entre ellos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué ámbito aborda el ODS 11?",
+      "opciones": [
+        "Producción y consumo responsables",
+        "Ciudades y comunidades sostenibles",
+        "Alianzas para lograr los objetivos",
+        "Educación de calidad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El ODS 11 se refiere a lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Cuál es el título del ODS 12?",
+      "opciones": [
+        "Hambre cero",
+        "Igualdad de género",
+        "Producción y consumo responsables",
+        "Vida de ecosistemas terrestres"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ODS 12 promueve modalidades de consumo y producción sostenibles.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué pide el ODS 13?",
+      "opciones": [
+        "Aumentar la industrialización en todos los países",
+        "Garantizar una educación superior universal",
+        "Promover la igualdad de género en el empleo",
+        "Adoptar medidas urgentes para combatir el cambio climático y sus efectos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ODS 13 es Acción por el clima y llama a adoptar medidas urgentes frente al cambio climático y sus efectos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué ecosistema constituye el objeto principal del ODS 14?",
+      "opciones": [
+        "Océanos, mares y recursos marinos",
+        "Bosques y suelos agrícolas",
+        "Ciudades y asentamientos",
+        "Ríos y aguas subterráneas exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El ODS 14 se refiere a conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué ámbito protege el ODS 15?",
+      "opciones": [
+        "Energía nuclear y redes eléctricas",
+        "Ecosistemas terrestres, bosques y biodiversidad",
+        "Comercio internacional",
+        "Instituciones penitenciarias"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El ODS 15 trata sobre la vida de ecosistemas terrestres, incluidos bosques y biodiversidad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué objetivo recoge el ODS 16?",
+      "opciones": [
+        "Trabajo decente y crecimiento económico",
+        "Agua limpia y saneamiento",
+        "Paz, justicia e instituciones sólidas",
+        "Alianzas para los objetivos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ODS 16 promueve sociedades pacíficas e inclusivas, acceso a la justicia e instituciones eficaces y responsables.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Qué plantea el ODS 17 como medio para alcanzar los demás objetivos?",
+      "opciones": [
+        "Sustituir los objetivos nacionales por un modelo único",
+        "Limitar la cooperación a la financiación privada",
+        "Reducir las asociaciones entre países",
+        "Fortalecer los medios de implementación y revitalizar la alianza mundial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ODS 17 se centra en fortalecer los medios de implementación y revitalizar la alianza mundial para el desarrollo sostenible.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T35-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "desarrollo-sostenible",
+      "temaNumero": 35,
+      "enunciado": "¿Cómo define la Agenda 2030 el carácter de los Objetivos y metas respecto de su aplicación?",
+      "opciones": [
+        "Son integrados e indivisibles, de alcance mundial y universalmente aplicables, considerando las realidades nacionales",
+        "Son independientes y jurídicamente idénticos en cada país",
+        "Se aplican solo a países en desarrollo",
+        "Son exclusivamente ambientales y no consideran prioridades nacionales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Agenda 2030 los describe como integrados e indivisibles, mundiales y universalmente aplicables, atendiendo a las distintas realidades, capacidades y prioridades nacionales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Agenda 2030 para el Desarrollo Sostenible, objetivos 9–17",
+        "url": "https://sdgs.un.org/2030agenda"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

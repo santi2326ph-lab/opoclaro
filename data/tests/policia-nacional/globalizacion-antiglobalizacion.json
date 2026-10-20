@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "globalizacion-antiglobalizacion",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Globalización y antiglobalización · Tema 28",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T28-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "Según la definición de trabajo del FMI, ¿qué proceso caracteriza la globalización económica?",
+      "opciones": [
+        "La creciente integración de economías mediante comercio, inversión transfronteriza y flujos financieros",
+        "La desaparición de todo comercio internacional",
+        "La sustitución de las economías nacionales por un único gobierno mundial",
+        "La prohibición de movimientos internacionales de capital"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El FMI describe la globalización económica como creciente división internacional del trabajo e integración de economías mediante comercio, inversión y flujos financieros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "FMI, definición y naturaleza de la globalización",
+        "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/sp051503"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué factor facilitador destaca el FMI en el proceso de globalización?",
+      "opciones": [
+        "La supresión de los intercambios culturales",
+        "El progreso tecnológico en transporte y comunicaciones",
+        "El cierre de mercados nacionales",
+        "La eliminación de toda movilidad de personas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El FMI señala que los avances en transporte y comunicaciones impulsan la integración internacional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "FMI, definición y naturaleza de la globalización",
+        "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/sp051503"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué caracteriza a la Organización Mundial del Comercio según su propia descripción institucional?",
+      "opciones": [
+        "Es un banco central mundial",
+        "Es la organización internacional que trata las reglas del comercio entre naciones",
+        "Es un órgano judicial de Naciones Unidas",
+        "Es una agencia de ayuda bilateral"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OMC se describe como la única organización internacional dedicada a las reglas del comercio entre naciones.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMC, ¿Qué es la OMC?",
+        "url": "https://www.wto.org/english/thewto_e/Whatis_e/whatis_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué objetivo fundamental atribuye la OMC a los acuerdos comerciales de la organización?",
+      "opciones": [
+        "Eliminar cualquier regulación estatal",
+        "Uniformar todas las políticas nacionales",
+        "Mejorar niveles de vida, crear empleos y promover el desarrollo sostenible mediante el comercio",
+        "Sustituir los parlamentos nacionales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La OMC vincula sus acuerdos con mejoras de los niveles de vida, creación de empleo y desarrollo sostenible.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMC, ¿Qué es la OMC?",
+        "url": "https://www.wto.org/english/thewto_e/Whatis_e/whatis_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué significa el principio de nación más favorecida en el sistema de la OMC?",
+      "opciones": [
+        "Excluir del comercio a los países en desarrollo",
+        "Dar siempre trato preferente a los países más grandes",
+        "Aplicar aranceles distintos sin notificación",
+        "Extender en principio a los demás miembros el trato comercial favorable otorgado a un miembro, conforme a las reglas y excepciones aplicables"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OMC identifica la no discriminación y el trato de nación más favorecida como principio central: las ventajas concedidas a un socio se extienden en principio a los demás, sujeto a excepciones previstas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OMC, Principios del sistema de comercio",
+        "url": "https://www.wto.org/English/thewto_e/whatis_e/tif_e/fact2_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué aporta la transparencia de las políticas comerciales al sistema multilateral según la OMC?",
+      "opciones": [
+        "Permite observar y revisar las políticas comerciales de los miembros",
+        "Obliga a publicar datos personales de los importadores",
+        "Elimina la necesidad de acuerdos",
+        "Sustituye las negociaciones entre miembros"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La OMC señala que la vigilancia regular mediante el Mecanismo de Examen de las Políticas Comerciales promueve la transparencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMC, Principios del sistema de comercio",
+        "url": "https://www.wto.org/English/thewto_e/whatis_e/tif_e/fact2_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué mecanismo institucional utiliza la OMC para revisar periódicamente políticas comerciales nacionales?",
+      "opciones": [
+        "Procedimiento de adhesión al euro",
+        "Mecanismo de Examen de las Políticas Comerciales",
+        "Examen Universal Periódico",
+        "Mecanismo de tipos de cambio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OMC describe el Trade Policy Review Mechanism como mecanismo de examen periódico y transparencia de las políticas comerciales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMC, Principios del sistema de comercio",
+        "url": "https://www.wto.org/English/thewto_e/whatis_e/tif_e/fact2_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué alternativa presenta el Informe sobre el Comercio Mundial 2023 frente a la fragmentación del comercio?",
+      "opciones": [
+        "Reducir toda cooperación internacional",
+        "Abolir todas las normas comerciales",
+        "Re-globalización, con mayor integración de personas, economías y cooperación multilateral",
+        "Sustituir el comercio por autarquía completa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El informe de 2023 analiza la re-globalización —integración de más personas y economías y cooperación— y la propone como respuesta más eficaz que la fragmentación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMC, Informe sobre el Comercio Mundial 2023, resumen",
+        "url": "https://www.wto.org/english/res_e/publications_e/wtr23_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué relación señala el Informe sobre el Comercio Mundial 2023 entre comercio y pobreza?",
+      "opciones": [
+        "El comercio solo beneficia a los países sin industria",
+        "El comercio garantiza que desaparezca toda desigualdad",
+        "El informe afirma que comercio y pobreza no guardan relación",
+        "El comercio puede contribuir a la reducción de la pobreza"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El resumen del informe señala que el comercio ha sido un motor de reducción de la pobreza, sin afirmar que elimine por sí solo todas las desigualdades.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMC, Informe sobre el Comercio Mundial 2023, resumen",
+        "url": "https://www.wto.org/english/res_e/publications_e/wtr23_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué función atribuye la OMC al sistema multilateral de comercio frente a los desacuerdos comerciales?",
+      "opciones": [
+        "Ofrecer reglas, un foro de cooperación y mecanismos de solución de diferencias",
+        "Imponer una política fiscal común",
+        "Resolver litigios penales nacionales",
+        "Reemplazar los tribunales internos en toda materia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La OMC explica que su sistema ofrece reglas para el comercio y un marco para abordar desacuerdos entre miembros mediante procedimientos acordados.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OMC, Qué hacemos",
+        "url": "https://www.wto.org/english/thewto_e/what_we_do_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué exige el principio de trato nacional del artículo III del GATT respecto de productos importados?",
+      "opciones": [
+        "No recibir un trato menos favorable que el concedido a productos nacionales similares en las materias cubiertas",
+        "Recibir siempre una subvención estatal",
+        "Quedar exentos de todos los impuestos internos",
+        "Tener prioridad frente a cualquier producto nacional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo III.4 exige trato no menos favorable para productos importados similares en normas y requisitos que afecten a su venta, distribución o uso internos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo III.4",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué principio contiene el artículo III.2 del GATT sobre impuestos internos?",
+      "opciones": [
+        "Los bienes importados quedan siempre exentos de impuestos",
+        "Los impuestos internos sustituyen a los aranceles",
+        "Cada país debe aplicar impuestos idénticos a todos los productos",
+        "Los productos importados no deben soportar impuestos internos superiores a los aplicados a productos nacionales similares"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo III.2 prohíbe gravar los productos importados con impuestos internos superiores a los aplicados a productos nacionales similares.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo III.2",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué libertad regula el artículo V del GATT?",
+      "opciones": [
+        "La libre circulación de trabajadores",
+        "La eliminación de todo control aduanero",
+        "La libertad de tránsito a través del territorio de los miembros",
+        "La libertad de establecimiento de empresas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo V establece reglas sobre libertad de tránsito para el tráfico que atraviesa el territorio de los miembros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo V",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué materia regula el artículo VI del GATT?",
+      "opciones": [
+        "La libre circulación de personas",
+        "Derechos antidumping y derechos compensatorios frente a determinadas prácticas comerciales",
+        "La propiedad intelectual",
+        "La creación de una moneda común"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo VI contiene las disposiciones sobre derechos antidumping y derechos compensatorios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo VI",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué objetivo general expresa el artículo XXIV.4 del GATT sobre uniones aduaneras y zonas de libre comercio?",
+      "opciones": [
+        "Facilitar el comercio entre los territorios que las integran, sin elevar barreras al comercio de otros miembros",
+        "Imponer mayores barreras al comercio de terceros miembros",
+        "Sustituir todas las normas de la OMC",
+        "Unificar las monedas de los territorios participantes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo XXIV.4 reconoce que esos acuerdos deben facilitar el comercio interno y no elevar barreras al comercio de otros miembros.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo XXIV.4",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué permite expresamente el artículo XXIV del GATT entre territorios de miembros?",
+      "opciones": [
+        "Eliminar unilateralmente todos los acuerdos comerciales",
+        "Restringir el comercio con los miembros que no participen",
+        "Eximir de toda obligación a las uniones regionales",
+        "Formar una unión aduanera o una zona de libre comercio sujeta a las condiciones del artículo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo XXIV.5 reconoce que el Acuerdo no impide formar uniones aduaneras o zonas de libre comercio cuando se cumplen las condiciones establecidas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo XXIV.5",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué tipo de acuerdo puede preceder a la formación de una unión aduanera o zona de libre comercio?",
+      "opciones": [
+        "Una decisión unilateral sin participación de los territorios implicados",
+        "Una exención permanente de todas las reglas del GATT",
+        "Un acuerdo provisional con plan y calendario para su formación dentro de un plazo razonable",
+        "Un acuerdo sin plazo ni objetivos comerciales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo XXIV.5 exige que los acuerdos provisionales incluyan un plan y calendario de formación dentro de un plazo razonable.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo XXIV.5(c)",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué clase de medidas contempla el artículo XX del GATT entre sus excepciones generales?",
+      "opciones": [
+        "Aranceles sin base en ninguna excepción del Acuerdo",
+        "Medidas necesarias para proteger, entre otros fines enumerados, la moral pública, la salud o los recursos naturales agotables",
+        "Medidas para discriminar arbitrariamente entre países",
+        "Restricciones que encubran protección comercial sin condiciones"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo XX enumera excepciones generales, entre ellas medidas para proteger moral pública, vida o salud y recursos naturales agotables, sujetas a sus condiciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo XX",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué obligación de transparencia establece el artículo X del GATT?",
+      "opciones": [
+        "Publicar prontamente las leyes, reglamentos y decisiones de aplicación general sobre comercio exterior",
+        "Publicar datos personales de todas las empresas importadoras",
+        "Aprobar secretamente normas comerciales",
+        "Notificar solo las medidas que beneficien a productores nacionales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo X.1 exige publicar prontamente las normas y decisiones de aplicación general relativas a materias comprendidas por el GATT.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Organización Mundial del Comercio, GATT 1994 y acuerdos de la OMC GATT 1994, artículo X.1",
+        "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T28-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "globalizacion-antiglobalizacion",
+      "temaNumero": 28,
+      "enunciado": "¿Qué herramienta ofrece el sistema de solución de diferencias de la OMC a sus miembros?",
+      "opciones": [
+        "La imposición automática de sanciones penales",
+        "La sustitución de tribunales nacionales en toda materia",
+        "La anulación directa de normas constitucionales",
+        "Un procedimiento multilateral para resolver controversias comerciales conforme a los acuerdos de la organización"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Entendimiento sobre Solución de Diferencias organiza el procedimiento multilateral de consultas y resolución de diferencias entre miembros.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Entendimiento sobre Solución de Diferencias de la OMC, artículos 3 y 4",
+        "url": "https://www.wto.org/english/docs_e/legal_e/28-dsu_e.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

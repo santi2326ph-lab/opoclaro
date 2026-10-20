@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "delitos-informaticos-prueba-digital",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Delitos informáticos y prueba digital · Tema 20",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T20-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué protege específicamente el artículo 197 bis frente a accesos a sistemas informáticos?",
+      "opciones": [
+        "La seguridad de sistemas de información frente a accesos o permanencias no autorizados en las condiciones previstas",
+        "La propiedad de cualquier dispositivo físico",
+        "El secreto de las comunicaciones postales",
+        "La autenticidad de documentos notariales exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 197 bis tipifica el acceso o mantenimiento no autorizado en sistemas de información vulnerando medidas de seguridad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 197 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué conducta castiga el artículo 264 del Código Penal?",
+      "opciones": [
+        "Acceder a una web pública sin modificar datos",
+        "Borrar, dañar, deteriorar, alterar, suprimir o hacer inaccesibles datos o programas ajenos de forma grave y sin autorización",
+        "Usar un ordenador propio sin conexión",
+        "Enviar un mensaje comercial no solicitado"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 264 regula daños informáticos graves sobre datos, programas o documentos electrónicos ajenos sin autorización.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué exige, con carácter general, el artículo 197 bis para el acceso ilícito a un sistema?",
+      "opciones": [
+        "Que el sistema pertenezca necesariamente a una Administración pública",
+        "Que se cause siempre un perjuicio económico cuantificable",
+        "Vulnerar medidas de seguridad y actuar sin autorización",
+        "Que el acceso se realice desde otro país"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El precepto requiere acceso o permanencia sin autorización vulnerando las medidas de seguridad establecidas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 197 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué criterio debe respetarse al obtener prueba digital en una investigación penal?",
+      "opciones": [
+        "La obtención libre de cualquier dato público o privado sin control judicial",
+        "La publicación inmediata de todo el contenido incautado",
+        "La eliminación de los metadatos antes de documentar la evidencia",
+        "La legalidad y las garantías procesales aplicables a las medidas de investigación tecnológica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las medidas tecnológicas están sujetas a los requisitos y garantías de la Ley de Enjuiciamiento Criminal, incluidos los artículos 588 bis y siguientes.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 588",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué contempla el artículo 197 ter del Código Penal?",
+      "opciones": [
+        "El mantenimiento de redes públicas",
+        "Actos de producción o facilitación de medios destinados a facilitar determinados delitos de descubrimiento y revelación de secretos",
+        "El uso ordinario de un ordenador propio",
+        "La publicación autorizada de datos propios"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 197 ter tipifica conductas relativas a herramientas creadas o adaptadas para facilitar delitos de los artículos precedentes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué bien protege el artículo 264 bis frente a determinados ataques?",
+      "opciones": [
+        "La correspondencia postal",
+        "La imagen de una persona en un documento",
+        "El funcionamiento de un sistema informático ajeno cuando se obstaculiza o interrumpe gravemente",
+        "La propiedad de cualquier teclado"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 264 bis contempla la obstaculización o interrupción grave de sistemas informáticos ajenos, con los requisitos legales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué regula el artículo 264 ter?",
+      "opciones": [
+        "El acceso autorizado a un sistema",
+        "La recuperación de una contraseña propia",
+        "La publicación de estadísticas anónimas",
+        "La producción, adquisición o facilitación de herramientas destinadas a cometer daños informáticos tipificados"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 264 ter castiga ciertos actos relativos a programas, contraseñas o códigos dirigidos a facilitar los delitos del artículo 264.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué principio rige la autorización judicial de medidas tecnológicas de investigación?",
+      "opciones": [
+        "Especialidad, idoneidad, excepcionalidad, necesidad y proporcionalidad",
+        "Publicidad irrestricta de los datos",
+        "Aplicación automática por cualquier delito",
+        "Ausencia de motivación judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 588 bis a de la LECrim enumera los principios rectores de estas medidas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 588 bis a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué debe expresar la solicitud de autorización de una medida tecnológica según la LECrim?",
+      "opciones": [
+        "La publicación previa de la evidencia",
+        "La descripción del hecho, indicios, identificación de afectados cuando sea posible y razones de la medida",
+        "La condena que se espera obtener",
+        "Las contraseñas de todas las personas investigadas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 588 bis b regula el contenido de la solicitud, que debe justificar la medida y aportar los datos legalmente exigidos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 588 bis b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué puede acordar el juez cuando desaparezcan las razones que justificaron una medida tecnológica?",
+      "opciones": [
+        "La destrucción de todo el expediente",
+        "Su extensión indefinida",
+        "Su cese, conforme a las reglas de duración y control previstas en la LECrim",
+        "Su conversión automática en pena"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los artículos 588 bis j y siguientes regulan el cese y control judicial de las medidas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 588 bis j",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué medios menciona el artículo 197 ter para facilitar los delitos allí enumerados?",
+      "opciones": [
+        "Programas diseñados o adaptados principalmente para cometerlos y contraseñas o códigos que permitan acceder a sistemas",
+        "Únicamente teléfonos móviles adquiridos legalmente",
+        "Solo programas de uso general sin finalidad delictiva",
+        "Equipos informáticos entregados voluntariamente al titular"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 197 ter incluye programas concebidos o adaptados para facilitar los delitos indicados y contraseñas, códigos de acceso o datos similares.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué regla establece el artículo 197 quater cuando una persona jurídica responde por los delitos comprendidos en los artículos 197, 197 bis y 197 ter?",
+      "opciones": [
+        "Se extingue automáticamente sin proceso",
+        "Se impone únicamente una sanción administrativa",
+        "No puede exigirse responsabilidad a la persona jurídica",
+        "Se le impone la pena de multa prevista en el precepto"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 197 quater establece pena de multa para la persona jurídica responsable conforme al artículo 31 bis.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 197 quater",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué resultado exige el artículo 264.1 para el delito de daños informáticos allí regulado?",
+      "opciones": [
+        "Cambiar la configuración del equipo propio",
+        "Enviar un mensaje de correo no solicitado",
+        "Borrar, dañar, deteriorar, alterar, suprimir o hacer inaccesibles datos, programas o documentos electrónicos ajenos con la gravedad prevista",
+        "Consultar cualquier web sin autorización expresa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 264.1 describe conductas sobre datos, programas o documentos electrónicos ajenos que causen daños graves en los términos del tipo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 264.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué protege el artículo 264 bis frente a los daños informáticos del artículo 264?",
+      "opciones": [
+        "La integridad física del titular del sistema",
+        "El funcionamiento de un sistema informático ajeno, cuando se obstaculiza o interrumpe gravemente",
+        "La propiedad de un ordenador frente a una avería accidental",
+        "La confidencialidad de cualquier conversación presencial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 264 bis sanciona la obstaculización o interrupción grave del funcionamiento de un sistema informático ajeno.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 264 bis.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué conducta relacionada con herramientas informáticas tipifica el artículo 264 ter?",
+      "opciones": [
+        "Producir, adquirir, importar o facilitar programas, contraseñas o códigos con intención de facilitar los delitos de los dos artículos anteriores",
+        "Publicar software de uso general sin intención delictiva",
+        "Cambiar la contraseña propia por razones de seguridad",
+        "Adquirir un dispositivo sin conexión a Internet"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 264 ter tipifica facilitar determinados medios con intención de facilitar los delitos previstos en los artículos 264 y 264 bis.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 264 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué prevé el artículo 264 quater para personas jurídicas responsables de determinados delitos de daños informáticos?",
+      "opciones": [
+        "La exención automática de responsabilidad",
+        "Solo una advertencia administrativa",
+        "La responsabilidad exclusiva del administrador sin excepción",
+        "La imposición de las penas previstas para personas jurídicas conforme al artículo 31 bis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 264 quater regula las consecuencias para personas jurídicas cuando concurren los presupuestos del artículo 31 bis.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 264 quater",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué principio rector exige que la medida de investigación tecnológica se refiera a un delito concreto?",
+      "opciones": [
+        "Disponibilidad",
+        "Subsidiariedad administrativa",
+        "Especialidad",
+        "Publicidad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 588 bis a define especialidad como la relación de la medida con la investigación de un delito concreto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 588 bis a.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿Qué regla impone el artículo 588 bis e sobre la duración de las medidas de investigación tecnológica?",
+      "opciones": [
+        "Prorrogarse automáticamente cada mes",
+        "No exceder del tiempo imprescindible para esclarecer los hechos y cesar al vencer el plazo si no se prorroga",
+        "Mantenerse hasta la sentencia aunque desaparezcan sus motivos",
+        "Durar siempre un año sin posibilidad de prórroga"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las medidas duran el tiempo imprescindible; una prórroga requiere auto motivado y, vencido el plazo sin ella, cesan.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 588 bis e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿A quién informa la Policía Judicial del desarrollo y resultados de una medida tecnológica?",
+      "opciones": [
+        "Al juez de instrucción, con la forma y periodicidad que determine y al finalizarla",
+        "Al afectado diariamente, incluso si la medida sigue secreta",
+        "A la autoridad administrativa municipal",
+        "A los medios de comunicación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 588 bis g obliga a informar al juez de instrucción sobre el desarrollo y resultados, también cuando termina la medida.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 588 bis g",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T20-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-informaticos-prueba-digital",
+      "temaNumero": 20,
+      "enunciado": "¿La incautación de un dispositivo durante un registro domiciliario autoriza por sí sola a acceder a su contenido?",
+      "opciones": [
+        "Sí, siempre y automáticamente",
+        "Sí, si el dispositivo es propiedad del investigado",
+        "No, porque nunca puede examinarse un dispositivo digital",
+        "No; la resolución judicial debe justificar el acceso y la incautación por sí sola no lo legitima"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 588 sexies a.2 aclara que la simple incautación no legitima el acceso al contenido; este puede autorizarse posteriormente por el juez.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal / Ley de Enjuiciamiento Criminal artículo 588 sexies a.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

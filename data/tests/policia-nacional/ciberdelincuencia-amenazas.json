@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "ciberdelincuencia-amenazas",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Ciberdelincuencia y amenazas · Tema 41",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T41-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué exige el artículo 197 bis para el acceso ilícito a un sistema de información?",
+      "opciones": [
+        "Actuar sin autorización y vulnerar medidas de seguridad establecidas para impedir ese acceso",
+        "Que se cause siempre daño físico a un equipo",
+        "Que el sistema pertenezca a una persona jurídica pública",
+        "Que se obtenga beneficio económico"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 197 bis sanciona el acceso o mantenimiento no autorizado en sistemas vulnerando medidas de seguridad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 197 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué propiedad de los datos puede resultar afectada por un ataque de denegación de servicio tipificado en el artículo 264 bis?",
+      "opciones": [
+        "La titularidad de una marca registrada",
+        "La disponibilidad de datos o sistemas informáticos",
+        "La validez de un contrato en papel",
+        "La autenticidad de una firma manuscrita"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 264 bis incluye obstaculizar o interrumpir gravemente el funcionamiento de un sistema informático mediante las conductas previstas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué técnica describe INCIBE como phishing?",
+      "opciones": [
+        "Mensajes que suplantan a entidades legítimas para obtener información, dinero o infectar dispositivos",
+        "Un sistema de cifrado de archivos",
+        "Una copia de seguridad externa",
+        "Un protocolo de nombres de dominio"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "INCIBE describe el phishing como suplantación de entidades mediante mensajes para engañar a la víctima y obtener datos u ocasionar otros daños.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INCIBE, Phishing",
+        "url": "https://www.incibe.es/aprendeciberseguridad/phishing"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué conducta relativa a sistemas informáticos contempla el artículo 197 bis?",
+      "opciones": [
+        "Acceder o mantenerse sin autorización vulnerando medidas de seguridad en los términos del precepto",
+        "Consultar un sitio web público",
+        "Instalar una actualización autorizada",
+        "Cambiar la contraseña propia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 197 bis tipifica acceso o permanencia no autorizados cuando se vulneran medidas de seguridad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 197 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué conducta puede constituir daños informáticos del artículo 264?",
+      "opciones": [
+        "Borrar, dañar, alterar o hacer inaccesibles datos o programas ajenos de forma grave y sin autorización",
+        "Abrir un archivo propio",
+        "Usar un buscador público",
+        "Actualizar software con permiso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 264 tipifica conductas graves y no autorizadas contra datos, programas o documentos electrónicos ajenos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué protege el artículo 264 bis frente a una interrupción grave?",
+      "opciones": [
+        "El funcionamiento de un sistema informático ajeno",
+        "La velocidad de conexión privada",
+        "El nombre de dominio de una empresa",
+        "El acceso físico a un edificio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 264 bis tipifica obstaculizar o interrumpir gravemente un sistema informático ajeno en los supuestos legales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué uso de datos personales agrava ciertos ataques del artículo 264 bis?",
+      "opciones": [
+        "Utilizarlos ilícitamente para facilitar acceso al sistema o ganar confianza de otra persona",
+        "Publicar estadísticas agregadas",
+        "Corregir datos de contacto propios",
+        "Suprimir datos con autorización"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 264 bis prevé una consecuencia agravada si se emplean ilícitamente datos personales ajenos para facilitar el acceso o ganar confianza.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué puede abarcar el artículo 264 ter?",
+      "opciones": [
+        "Facilitar herramientas, programas o códigos con intención de facilitar daños informáticos de los artículos anteriores",
+        "Compartir un programa de ofimática sin intención delictiva",
+        "Usar una contraseña propia",
+        "Actualizar un sistema operativo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 264 ter sanciona determinadas conductas sobre herramientas dirigidas a facilitar los delitos de daños informáticos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué requisitos generales menciona el artículo 264 bis para la interrupción del sistema?",
+      "opciones": [
+        "Falta de autorización y gravedad de la obstaculización o interrupción",
+        "Que el sistema sea propiedad pública",
+        "Que el ataque dure más de un mes",
+        "Que se utilice siempre malware"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tipo exige actuar sin autorización y obstaculizar o interrumpir de manera grave el funcionamiento de un sistema ajeno.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 264 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué objetivo suele perseguir el phishing descrito por INCIBE?",
+      "opciones": [
+        "Robar información privada, inducir un cargo económico o infectar el dispositivo",
+        "Aumentar la seguridad del correo",
+        "Verificar actualizaciones oficiales",
+        "Cifrar voluntariamente copias propias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "INCIBE enumera robo de información, cargos económicos e infección entre los objetivos del phishing.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INCIBE, Phishing",
+        "url": "https://www.incibe.es/aprendeciberseguridad/phishing"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué conducta describe el artículo 197 bis.1 del Código Penal?",
+      "opciones": [
+        "Acceder sin autorización a un sistema, vulnerando medidas de seguridad, o mantenerse contra la voluntad de quien puede excluir al autor",
+        "Enviar un correo publicitario no solicitado",
+        "Conservar una copia de seguridad propia",
+        "Consultar una página web de acceso público"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 197 bis.1 sanciona el acceso o permanencia no autorizados en un sistema de información cuando se vulneran medidas de seguridad o se contradice la voluntad de quien tiene derecho a excluir.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículos 197 bis y 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué comportamiento informático contempla el artículo 197 bis.2 del Código Penal?",
+      "opciones": [
+        "Leer una noticia publicada en una web",
+        "Interceptar sin autorización transmisiones no públicas de datos informáticos mediante artificios o instrumentos técnicos",
+        "Recibir un mensaje dirigido al propio usuario",
+        "Descargar una actualización oficial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El apartado 2 se refiere a la interceptación no autorizada de transmisiones no públicas desde, hacia o dentro de sistemas de información.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículos 197 bis y 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué finalidad exige el artículo 197 ter respecto de programas o credenciales informáticas?",
+      "opciones": [
+        "La intención de realizar una copia de seguridad",
+        "La actualización ordinaria de un sistema",
+        "La intención de facilitar determinados delitos previstos en los artículos 197 o 197 bis",
+        "La difusión pública de una guía de seguridad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 197 ter exige que la producción, adquisición, importación o facilitación se realice con intención de facilitar los delitos especificados en el precepto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículos 197 bis y 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué elemento puede quedar comprendido en el artículo 197 ter del Código Penal?",
+      "opciones": [
+        "Cualquier contraseña divulgada sin otra circunstancia",
+        "La clave de un dispositivo propiedad del usuario",
+        "Una contraseña generada para una demostración inocua",
+        "Una contraseña o código de acceso que permita acceder a un sistema"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 197 ter incluye contraseñas y códigos de acceso cuando se facilitan con la intención delictiva que describe.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículos 197 bis y 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Cómo define INCIBE el phishing?",
+      "opciones": [
+        "Un engaño que suplanta a una entidad legítima para robar información, realizar cargos o infectar un dispositivo",
+        "Una técnica para cifrar legalmente copias locales",
+        "Un protocolo que traduce nombres de dominio",
+        "Una herramienta de actualización del sistema"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "INCIBE explica que el phishing suele presentarse como comunicación de una entidad legítima y busca robar información, obtener beneficio económico o infectar dispositivos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INCIBE, Aprende ciberseguridad: phishing",
+        "url": "https://www.incibe.es/aprendeciberseguridad/phishing"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Cuál es una vía de infección por phishing descrita por INCIBE?",
+      "opciones": [
+        "Una actualización firmada del sistema operativo",
+        "Un enlace o adjunto engañoso que instala malware",
+        "El uso de un gestor de contraseñas",
+        "La autenticación multifactor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "INCIBE describe correos falsos con enlaces o adjuntos que aparentan ser legítimos y pueden instalar malware.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INCIBE, Aprende ciberseguridad: phishing",
+        "url": "https://www.incibe.es/aprendeciberseguridad/phishing"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué efecto caracteriza al ransomware en la guía de INCIBE?",
+      "opciones": [
+        "Mejora la disponibilidad mediante copias automáticas",
+        "Reemplaza los registros DNS del sistema",
+        "Bloquea el uso de un equipo o de información y exige un rescate",
+        "Aumenta la velocidad de conexión"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La guía de INCIBE define el ransomware como malware que bloquea el uso de equipos o información para solicitar un rescate a cambio de liberarlos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INCIBE, Guía de ransomware",
+        "url": "https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ransomware.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué engaño puede utilizarse para obtener credenciales que luego faciliten la instalación de malware?",
+      "opciones": [
+        "Cifrado de extremo a extremo",
+        "Segmentación de red",
+        "Autenticación multifactor",
+        "Phishing o ingeniería social"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La guía de INCIBE señala que los atacantes pueden obtener credenciales mediante engaños como phishing, vulnerabilidades o malas prácticas de credenciales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INCIBE, Guía de ransomware",
+        "url": "https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ransomware.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué conducta tipifica el Código Penal respecto de programas informáticos en el artículo 197 ter?",
+      "opciones": [
+        "Producir, adquirir, importar o facilitar a terceros un programa destinado principalmente a facilitar los delitos indicados, con esa intención",
+        "Usar cualquier programa de administración de sistemas",
+        "Distribuir software libre de propósito general",
+        "Crear una herramienta de diagnóstico con autorización"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El precepto exige ausencia de autorización e intención de facilitar los delitos enumerados; no prohíbe genéricamente el software técnico.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículos 197 bis y 197 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T41-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "ciberdelincuencia-amenazas",
+      "temaNumero": 41,
+      "enunciado": "¿Qué medida recomienda INCIBE para reducir el impacto de un ransomware?",
+      "opciones": [
+        "Reutilizar la misma contraseña en todos los equipos",
+        "Mantener copias de seguridad aisladas y protegidas",
+        "Conservar las únicas copias conectadas con permisos de escritura",
+        "Desactivar las actualizaciones de seguridad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las guías de INCIBE recomiendan copias de seguridad separadas y medidas de protección para disponer de una vía de recuperación frente al cifrado malicioso.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INCIBE, Guía de ransomware",
+        "url": "https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ransomware.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

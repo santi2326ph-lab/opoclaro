@@ -5,6 +5,10 @@ import { publicFiles } from './site-files.mjs';
 
 const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const outputDir = path.join(projectRoot, 'dist');
+const privateFilePattern = /(^|\/)(?:material-privado|materia-privado)(?:\/|$)|\.pdf$/i;
+if (publicFiles.some(file => privateFilePattern.test(file))) {
+  throw new Error('La lista pública incluye material privado o un PDF. Se cancela la compilación.');
+}
 
 async function listFiles(directory, prefix = '') {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -34,6 +38,8 @@ for (const relative of publicFiles) {
 }
 
 const builtFiles = await listFiles(outputDir);
+const leakedPrivateFiles = builtFiles.filter(file => privateFilePattern.test(file));
+if (leakedPrivateFiles.length) throw new Error(`Se detectó material privado en dist: ${leakedPrivateFiles.join(', ')}`);
 const expectedFiles = [...publicFiles].sort();
 if (JSON.stringify(builtFiles) !== JSON.stringify(expectedFiles)) {
   throw new Error(`El contenido de dist no coincide con la lista pública permitida. Recibidos: ${builtFiles.join(', ')}`);

@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "proteccion-internacional",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Protección internacional · Tema 12",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T12-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué dos formas de protección internacional regula la Ley 12/2009 en su objeto?",
+      "opciones": [
+        "El derecho de asilo y la protección subsidiaria",
+        "La residencia temporal y la nacionalidad",
+        "La protección consular y el refugio temporal",
+        "La reagrupación familiar y la residencia de larga duración"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1 fija como objeto el asilo y la protección subsidiaria.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿A quién puede reconocerse el derecho de asilo según el artículo 2?",
+      "opciones": [
+        "A cualquier persona que solicite residencia por estudios",
+        "A nacionales de terceros países o apátridas a quienes se reconozca la condición de refugiado",
+        "Solo a ciudadanos de la Unión Europea",
+        "Únicamente a personas con nacionalidad española"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2 vincula el asilo al reconocimiento de la condición de refugiado a nacionales no comunitarios o apátridas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Cuál de estos motivos figura en el artículo 3 como posible motivo de persecución para reconocer la condición de refugiado?",
+      "opciones": [
+        "Nivel de ingresos",
+        "Profesión elegida",
+        "Opiniones políticas",
+        "Lugar de nacimiento dentro de España"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 3 enumera motivos como raza, religión, nacionalidad, opiniones políticas, pertenencia a grupo social y motivos de género, orientación o identidad sexual.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué riesgo puede fundamentar la protección subsidiaria del artículo 4?",
+      "opciones": [
+        "Una dificultad para encontrar empleo",
+        "La falta de pasaporte en vigor",
+        "Un desacuerdo administrativo sin riesgo de daño grave",
+        "Un riesgo real de sufrir daños graves del artículo 10 al regresar al país correspondiente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 4 exige motivos fundados de riesgo real de daños graves enumerados en el artículo 10 y que la persona no pueda o no quiera acogerse a la protección del país.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué requisito general define la condición de refugiado en el artículo 3?",
+      "opciones": [
+        "Temor fundado de persecución por motivos enumerados y falta o imposibilidad de acogerse a la protección nacional",
+        "Una solicitud de residencia por trabajo",
+        "La estancia superior a cinco años",
+        "La pérdida de un documento de viaje"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3 establece la condición de refugiado y sus motivos de persecución.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué actos pueden constituir persecución conforme al artículo 6?",
+      "opciones": [
+        "Solo daños materiales",
+        "Actos suficientemente graves o acumulación suficientemente grave de medidas que vulneren derechos fundamentales",
+        "Cualquier desacuerdo administrativo",
+        "Solo sentencias penales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 6 exige gravedad suficiente por naturaleza, reiteración o acumulación de medidas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Cuál es un motivo de persecución previsto en el artículo 7?",
+      "opciones": [
+        "Nacionalidad",
+        "Nivel de ingresos",
+        "Profesión del abogado",
+        "Lugar de presentación de la solicitud"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 7 enumera raza, religión, nacionalidad, opiniones políticas, grupo social, género y orientación sexual.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Cuál de estas situaciones puede dar lugar a exclusión del derecho de asilo conforme al artículo 8?",
+      "opciones": [
+        "Haber cometido un delito grave común fuera de España antes de ser admitido como refugiado, en los términos legales",
+        "Haber solicitado intérprete",
+        "No tener empleo",
+        "No haber renovado un documento municipal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8 recoge causas de exclusión, entre ellas determinados delitos graves cometidos fuera del país de refugio antes de la admisión.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Cuál es una forma de daño grave que puede justificar protección subsidiaria?",
+      "opciones": [
+        "Riesgo real de tortura o trato inhumano en el país de origen",
+        "Falta de una oferta de empleo",
+        "Una multa administrativa pendiente",
+        "No disponer de vivienda en España"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18 recoge, entre otros, la suspensión de procedimientos de devolución, expulsión o extradición que pudieran afectar a quien solicita protección internacional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 18",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué efecto protector contempla el artículo 5 tras el reconocimiento del asilo o protección subsidiaria?",
+      "opciones": [
+        "No devolución ni expulsión de la persona reconocida, conforme a la ley",
+        "Concesión automática de ciudadanía",
+        "Prohibición de viajar al extranjero",
+        "Archivo de cualquier proceso penal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5 incluye la no devolución ni expulsión entre los efectos de la protección concedida.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 12/2009, artículo 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "Tras presentar una solicitud de asilo, ¿qué documento puede recibir la persona solicitante?",
+      "opciones": [
+        "Un documento que la acredita como solicitante de protección internacional",
+        "Un pasaporte español provisional",
+        "Una autorización automática de residencia permanente",
+        "Un documento de nacionalidad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18 reconoce el derecho a ser documentado como solicitante de protección internacional.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué asistencia menciona expresamente el artículo 18.1 de la Ley 12/2009?",
+      "opciones": [
+        "Asistencia jurídica gratuita e intérprete",
+        "Defensa privada obligatoria",
+        "Alojamiento municipal en todos los casos",
+        "Exención general de tasas judiciales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Entre los derechos del solicitante están la asistencia jurídica gratuita y la asistencia de intérprete.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿A qué organismo debe comunicarse la solicitud conforme al artículo 18.1.c?",
+      "opciones": [
+        "A la Agencia Europea de Defensa",
+        "Al ACNUR",
+        "Al Tribunal Europeo de Derechos Humanos",
+        "A la Organización Mundial del Comercio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ley reconoce el derecho a que la solicitud se comunique al Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR).",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.1.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué efecto prevé la ley respecto de procesos de devolución, expulsión o extradición que puedan afectar al solicitante?",
+      "opciones": [
+        "Se suspenden en los términos previstos por la ley",
+        "Se ejecutan antes de admitir la solicitud",
+        "Se convierten automáticamente en sanciones",
+        "Solo se suspenden por decisión municipal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.1.d reconoce el derecho a la suspensión de cualquier proceso de devolución, expulsión o extradición que pudiera afectarle.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.1.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Puede el solicitante conocer el contenido de su expediente?",
+      "opciones": [
+        "Sí, en cualquier momento",
+        "Solo después de la resolución firme",
+        "Únicamente a través del ACNUR",
+        "No, por tratarse de información reservada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.1.e incluye el derecho a conocer el contenido del expediente en cualquier momento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.1.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Cuál es una obligación de quien solicita protección internacional?",
+      "opciones": [
+        "Cooperar con las autoridades españolas en el procedimiento",
+        "Renunciar a recibir asistencia jurídica",
+        "Entregar siempre el pasaporte de un tercer país",
+        "Abandonar España antes de la admisión"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La cooperación con las autoridades españolas durante el procedimiento figura entre las obligaciones del artículo 18.2.a.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué debe hacer el solicitante con los elementos que puedan fundamentar su solicitud?",
+      "opciones": [
+        "Presentarlos lo antes posible junto con su declaración",
+        "Esperar necesariamente a la resolución final",
+        "Presentarlos solo si se los pide un tribunal extranjero",
+        "Aportar únicamente documentos de viaje"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.2.b ordena aportar lo antes posible los elementos que, junto con la declaración, contribuyan a fundamentar la solicitud.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.2.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "¿Qué prevé la Ley 12/2009 sobre las impresiones dactilares?",
+      "opciones": [
+        "El solicitante debe proporcionarlas",
+        "Solo pueden tomarse con autorización de un juzgado penal",
+        "Son voluntarias en todo caso",
+        "Solo se recaban si se concede el asilo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Proporcionar las impresiones dactilares es una obligación prevista en el artículo 18.2.c.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 18.2.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "Mientras no se resuelva o no se admita la solicitud, ¿qué regla establece el artículo 19.1?",
+      "opciones": [
+        "La persona no podrá ser objeto de retorno, devolución o expulsión",
+        "La persona obtiene automáticamente la nacionalidad",
+        "La persona debe permanecer siempre en un centro cerrado",
+        "La persona pierde el derecho a recurrir"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 19.1 impide el retorno, devolución o expulsión hasta que se resuelva la solicitud o esta no sea admitida.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 19.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T12-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-internacional",
+      "temaNumero": 12,
+      "enunciado": "Si la tramitación pudiera exceder de seis meses, ¿qué actuación prevé el artículo 19.7?",
+      "opciones": [
+        "Informar a la persona interesada del motivo de la demora",
+        "Archivar automáticamente la solicitud",
+        "Conceder automáticamente protección subsidiaria",
+        "Iniciar un procedimiento sancionador"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La ley dispone informar a la persona interesada del motivo de la demora cuando la tramitación pueda superar seis meses.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, artículo 19.7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17242"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

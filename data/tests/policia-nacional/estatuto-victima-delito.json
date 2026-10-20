@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "estatuto-victima-delito",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Estatuto de la víctima del delito · Tema 22",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T22-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué entiende el Estatuto por víctima directa?",
+      "opciones": [
+        "La persona física que sufre un daño o perjuicio causado directamente por un delito",
+        "Cualquier testigo presencial",
+        "Toda persona que haya denunciado un delito ajeno",
+        "Solo quien ya esté personado como acusación particular"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 define víctima directa como la persona física que sufre directamente daños o perjuicios por la comisión de un delito.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 4/2015, Estatuto de la víctima, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué principio general rige el trato a las víctimas según la Ley 4/2015?",
+      "opciones": [
+        "Obligación de participar en el proceso penal",
+        "Respeto, protección, información y apoyo en los términos legales",
+        "Publicidad de su identidad como regla general",
+        "Pérdida automática de derechos si no denuncia de inmediato"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ley recoge derechos de información, apoyo, protección y participación, y exige un trato respetuoso, profesional, individualizado y no discriminatorio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, Estatuto de la víctima, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Para qué sirve la evaluación individual prevista en el Estatuto?",
+      "opciones": [
+        "Decidir si la víctima es culpable",
+        "Fijar la pena sin intervención judicial",
+        "Determinar necesidades especiales de protección de la víctima",
+        "Sustituir la investigación del delito"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los artículos 23 y 24 regulan la evaluación individual para identificar necesidades de protección y medidas adecuadas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, Estatuto de la víctima, artículo 23",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué criterio orienta las medidas de protección del artículo 25?",
+      "opciones": [
+        "Hacer pública la declaración para acelerar el proceso",
+        "Aplicar una medida uniforme a todas las víctimas",
+        "Excluir a la víctima de la información procesal",
+        "Evitar la victimización secundaria o repetida y proteger dignidad, intimidad y seguridad conforme a la evaluación"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 25 contempla medidas para prevenir victimización secundaria o repetida, intimidación o represalias, atendiendo a la valoración individual.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, Estatuto de la víctima, artículo 25",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué derecho se reconoce a la víctima como denunciante?",
+      "opciones": [
+        "Obtener copia certificada de la denuncia",
+        "Elegir la pena",
+        "Nombrar al juez",
+        "Impedir la investigación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 6 reconoce copia certificada y asistencia lingüística en los términos legales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué información sobre el proceso debe comunicarse a la víctima conforme al artículo 7?",
+      "opciones": [
+        "Fecha, hora y lugar del juicio y las resoluciones que enumera la ley",
+        "La identidad de todos los testigos protegidos",
+        "Las deliberaciones secretas",
+        "Datos privados de otros perjudicados"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 7 prevé información y notificación de determinadas resoluciones a la víctima.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Cuánto dura el periodo de reflexión del artículo 8 para ofertas profesionales a víctimas de ciertos sucesos con muchas víctimas?",
+      "opciones": [
+        "45 días, salvo que la víctima solicite expresamente el servicio",
+        "15 días en todos los casos",
+        "90 días sin excepción",
+        "No existe periodo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 8 prohíbe durante 45 días ciertas ofertas de servicios de abogados y procuradores, salvo solicitud expresa.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué garantía se reconoce a quien no comprende la lengua de la actuación?",
+      "opciones": [
+        "Traducción e interpretación en las condiciones del artículo 9",
+        "Traducción universal de todo expediente",
+        "Suspensión automática de la causa",
+        "Exención de denunciar"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9 reconoce el derecho a traducción e interpretación gratuita en los supuestos regulados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 9",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué participación permite el artículo 11 a la víctima en la investigación?",
+      "opciones": [
+        "Aportar fuentes de prueba e información a las autoridades investigadoras",
+        "Ordenar registros",
+        "Decidir sobre la culpabilidad",
+        "Imponer una condena"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 11 permite comparecer y aportar información y fuentes de prueba relevantes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué aspecto deben proteger las autoridades conforme al artículo 22?",
+      "opciones": [
+        "La intimidad de la víctima y sus familiares",
+        "La identidad de cualquier persona investigada en todos los casos",
+        "La publicidad de datos médicos",
+        "La reserva de estadísticas agregadas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 22 exige medidas para proteger la intimidad de víctimas y familiares.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, artículo 22",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué derechos reconoce el artículo 10 del Estatuto respecto de los servicios de asistencia y apoyo?",
+      "opciones": [
+        "Acceder gratuitamente y de forma confidencial a los servicios de asistencia y apoyo facilitados por las Administraciones Públicas",
+        "Acceder solo mediante autorización judicial y previo pago",
+        "Recibir únicamente apoyo durante la vista oral",
+        "Elegir cualquier servicio privado con cargo automático al Estado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10 reconoce el derecho de las víctimas a acceder gratuita y confidencialmente a los servicios de asistencia y apoyo facilitados por las Administraciones Públicas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿En qué momento pueden prestarse los servicios de asistencia y apoyo a las víctimas?",
+      "opciones": [
+        "Solo después de dictarse sentencia firme",
+        "Únicamente cuando la víctima se persone como acusación",
+        "Solo en la fase de juicio oral",
+        "Con anterioridad al proceso penal, durante él y después de su conclusión, durante el tiempo necesario"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 10 establece acceso antes, durante y después del proceso penal por el tiempo adecuado a las necesidades de la víctima.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué principio rige la asistencia de los servicios de apoyo según el artículo 10?",
+      "opciones": [
+        "Depende de una condena penal firme",
+        "Requiere que la víctima participe como testigo",
+        "No está condicionada a la presentación previa de denuncia",
+        "Exige denuncia admitida a trámite"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Estatuto dispone que el acceso a los servicios de apoyo no se condiciona a la presentación previa de denuncia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué derecho reconoce el artículo 12 a la víctima respecto del reembolso de gastos?",
+      "opciones": [
+        "Reembolso exclusivo de transporte urbano",
+        "Obtener el reembolso de los gastos necesarios para el ejercicio de sus derechos y las costas procesales, en los términos legales",
+        "Recibir automáticamente cualquier gasto privado",
+        "No pagar nunca costas, aunque exista condena en costas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 12 regula el reembolso de gastos necesarios y costas procesales conforme a la legislación aplicable.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 12",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué puede solicitar la víctima para evitar el contacto directo con el infractor durante el proceso?",
+      "opciones": [
+        "Que las dependencias estén dispuestas para evitar ese contacto, en los términos del Estatuto y de la LECrim",
+        "La celebración obligatoria de todas las diligencias por escrito",
+        "La expulsión del investigado antes del juicio",
+        "La suspensión automática del procedimiento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 20 establece que las dependencias deben organizarse para evitar el contacto directo entre víctimas y familiares y el sospechoso o acusado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué medidas puede adoptar la autoridad para proteger la intimidad de la víctima durante la investigación?",
+      "opciones": [
+        "Publicar siempre el nombre para garantizar transparencia",
+        "Limitar la protección a la fase de juicio",
+        "Divulgar datos personales si lo solicita un medio",
+        "Evitar la difusión de información que permita identificar a la víctima menor o con discapacidad necesitada de especial protección, conforme a la ley"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 22 permite adoptar medidas para proteger la intimidad y prevenir la difusión de datos que identifiquen a determinadas víctimas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 22",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Quién realiza la valoración de las necesidades de protección de la víctima durante la investigación, según el artículo 23.1.a?",
+      "opciones": [
+        "El jurado popular antes del juicio",
+        "La víctima exclusivamente, sin intervención institucional",
+        "El juez de instrucción o el de violencia sobre la mujer, sin perjuicio de valoraciones provisionales del fiscal o de la policía en la fase inicial",
+        "El órgano municipal de consumo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 23.1.a atribuye la valoración en investigación a los jueces indicados, sin perjuicio de evaluaciones y decisiones provisionales del fiscal o policía en sus ámbitos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 23.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué debe tenerse en cuenta en la evaluación individual de las necesidades de protección?",
+      "opciones": [
+        "La repercusión mediática del caso como único criterio",
+        "Las características personales de la víctima, la naturaleza del delito y sus circunstancias",
+        "Solo la pena solicitada por la acusación",
+        "La nacionalidad del denunciado exclusivamente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 23 requiere atender a características personales, naturaleza y circunstancias del delito, así como a la gravedad del perjuicio y riesgo de reiteración.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 23.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué objetivo persigue el artículo 24 respecto de las medidas especiales de protección?",
+      "opciones": [
+        "Determinar la necesidad de medidas especiales durante la investigación y el juicio, atendiendo a la evaluación individual",
+        "Sustituir la investigación por una mediación obligatoria",
+        "Evitar que la víctima pueda declarar",
+        "Impedir toda comunicación entre víctima y autoridad judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 24 vincula las medidas especiales a la evaluación individual, tanto para la investigación como para el juicio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 24",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T22-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "estatuto-victima-delito",
+      "temaNumero": 22,
+      "enunciado": "¿Qué evita especialmente el artículo 25.1 para víctimas con necesidades especiales de protección?",
+      "opciones": [
+        "Que la víctima tenga abogado",
+        "Que la víctima declare por videoconferencia",
+        "Que se emplee una sala distinta para la declaración",
+        "El contacto visual entre la víctima y el supuesto autor y que la víctima sea interrogada innecesariamente sobre su vida privada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Entre las medidas del artículo 25.1 figuran evitar el contacto visual con el supuesto autor y limitar preguntas sobre la vida privada que no sean necesarias.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito artículo 25.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

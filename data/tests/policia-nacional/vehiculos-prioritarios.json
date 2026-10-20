@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "vehiculos-prioritarios",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Vehículos prioritarios · Tema 43",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T43-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué servicios incluyen los vehículos prioritarios del artículo 68 del Reglamento General de Circulación?",
+      "opciones": [
+        "Policía, extinción de incendios, protección civil y salvamento, y asistencia sanitaria en servicio urgente",
+        "Solo Policía Nacional y Guardia Civil",
+        "Cualquier vehículo con luces de emergencia",
+        "Únicamente ambulancias públicas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 68 enumera esos servicios cuando circulan en servicio urgente y advierten su presencia con las señales exigidas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué límite se mantiene siempre para los conductores de vehículos prioritarios aunque puedan apartarse de ciertas normas en servicio urgente?",
+      "opciones": [
+        "Pueden ignorar señales de agentes si activan las luces",
+        "Deben cerciorarse de no poner en peligro a ningún usuario y obedecer siempre las órdenes y señales de los agentes",
+        "Pueden conducir en sentido contrario en cualquier vía",
+        "Quedan exentos de toda responsabilidad por daños"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 68 permite excepciones condicionadas a no poner en peligro a usuarios y mantiene siempre obligatorias las órdenes y señales de los agentes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué combinación de señales deben emplear ordinariamente los vehículos prioritarios en servicio urgente para advertir su presencia?",
+      "opciones": [
+        "Señal luminosa y aparato emisor de señales acústicas especiales simultáneamente",
+        "Solo la señal acústica",
+        "Luces de emergencia ordinarias y claxon",
+        "Únicamente la señal luminosa, en todos los casos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 68.2 exige simultáneamente señal luminosa y señales acústicas especiales; solo permite usar la luminosa aislada si omitir la acústica no entraña peligro.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Cuándo puede un vehículo prioritario utilizar únicamente la señal luminosa?",
+      "opciones": [
+        "Siempre que circule por vía urbana",
+        "Cuando la omisión de la señal acústica especial no entrañe peligro para los demás usuarios",
+        "Cuando lo decida cualquier ocupante",
+        "Solo cuando esté detenido"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La excepción está condicionada a que omitir las señales acústicas especiales no entrañe peligro para los demás usuarios.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "En autopista o autovía y en servicio urgente, ¿qué maniobra excepcional puede realizarse si no se compromete la seguridad?",
+      "opciones": [
+        "Atravesar una mediana sin valorar riesgos",
+        "Circular en sentido contrario por cualquier carril",
+        "Circular en sentido contrario por el arcén",
+        "Ignorar las órdenes de los agentes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En autopistas y autovías, el artículo 68.1 permite excepcionalmente estas maniobras en servicio urgente solo sin comprometer la seguridad y para circular en sentido contrario por el arcén.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "Al percibir las señales especiales de un vehículo prioritario, ¿qué deben hacer los demás conductores?",
+      "opciones": [
+        "Mantener su trayectoria sin cambios",
+        "Acelerar para despejar cualquier carril",
+        "Detenerse siempre en el centro de la calzada",
+        "Facilitarle el paso según las circunstancias, apartándose normalmente a la derecha o deteniéndose si es preciso"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 69 ordena facilitar el paso según las circunstancias, normalmente apartándose a la derecha o deteniéndose si fuera preciso.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 69",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "Si un vehículo policial se coloca detrás y activa el dispositivo delantero amarillo intermitente previsto en el artículo 69, ¿qué debe hacer el conductor requerido?",
+      "opciones": [
+        "Detenerse con precaución a la derecha, delante del vehículo policial, en un lugar seguro y permanecer dentro",
+        "Detenerse en el carril izquierdo y bajar del vehículo",
+        "Continuar hasta la siguiente localidad en cualquier caso",
+        "Apartarse y abandonar el vehículo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 69 establece la parada con precaución en el lado derecho, por delante del vehículo policial, en un punto que no genere mayor riesgo o molestia, y la permanencia en el interior.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 69",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Quién determina en cada caso dónde deben situarse los vehículos de urgencia u otros servicios especiales cuando intervienen en la vía?",
+      "opciones": [
+        "El primer usuario que llegue al lugar",
+        "Los agentes de la autoridad responsable de vigilancia, regulación y control del tráfico",
+        "El conductor del vehículo prioritario sin coordinación",
+        "La empresa aseguradora"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 68.1 encomienda a los agentes de tráfico determinar los lugares de ubicación de vehículos de urgencia u otros servicios especiales en cada caso.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué consecuencia clasifica el artículo 68.3 para las infracciones a sus normas?",
+      "opciones": [
+        "No constituyen infracción",
+        "Son siempre leves",
+        "Tienen consideración de infracciones graves",
+        "Son siempre muy graves"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 68.3 califica como graves las infracciones a las normas del precepto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué vehículos sanitarios pueden ser prioritarios si cumplen las condiciones del artículo 68?",
+      "opciones": [
+        "Cualquier vehículo particular con una luz azul",
+        "Solo los de titularidad estatal",
+        "Solo ambulancias hospitalarias públicas",
+        "Los de asistencia sanitaria pública o privada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La norma incluye asistencia sanitaria pública o privada entre los servicios cuyos vehículos pueden tener carácter prioritario si circulan en servicio urgente y advierten su presencia como exige el artículo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 68.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Cuándo tienen prioridad de paso los vehículos de servicios de urgencia públicos o privados?",
+      "opciones": [
+        "Cuando se hallan en servicio de urgencia",
+        "Siempre que estén matriculados como vehículos de emergencia",
+        "Solo en autopista",
+        "Cuando circulen con cualquier señal luminosa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 67 del Reglamento reconoce prioridad cuando estos vehículos se hallan en servicio de urgencia.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Cómo deben usar su régimen especial los conductores de vehículos destinados a servicios de urgencia?",
+      "opciones": [
+        "En cualquier desplazamiento de servicio",
+        "De forma ponderada y solo durante un servicio urgente",
+        "Solo si reciben una orden de otro conductor",
+        "Sin atender a la seguridad de la vía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 67.2 exige uso ponderado del régimen especial únicamente en prestación de servicio urgente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "Antes de franquear un semáforo en rojo en servicio urgente, ¿qué obligación mantiene el conductor prioritario?",
+      "opciones": [
+        "Continuar sin reducir la velocidad",
+        "Confiar en que los demás vehículos se detendrán siempre",
+        "Adoptar extremadas precauciones y cerciorarse de que no existe riesgo de atropello ni de colisión",
+        "Apagar las señales especiales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 67.2 exige extremar precauciones y comprobar que no hay riesgo antes de vulnerar prioridad o señal semafórica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué autorización requiere instalar luces y señales acústicas especiales en un vehículo prioritario?",
+      "opciones": [
+        "Autorización de cualquier ayuntamiento",
+        "Autorización del fabricante del vehículo",
+        "No requiere autorización",
+        "Autorización de la Jefatura Provincial de Tráfico correspondiente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 67.3 del Reglamento requiere autorización de la Jefatura Provincial de Tráfico conforme a las normas de vehículos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué títulos del Reglamento pueden dejar de cumplir excepcionalmente los conductores prioritarios si no ponen en peligro a ningún usuario?",
+      "opciones": [
+        "Preceptos de los títulos II, III y IV, bajo su exclusiva responsabilidad y salvo órdenes de agentes",
+        "Cualquier norma, incluidas las órdenes de agentes",
+        "Solo las normas del título I",
+        "Las señales de los agentes cuando hay urgencia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 68.1 permite apartarse de preceptos de los títulos II, III y IV bajo condiciones de seguridad; las órdenes y señales de agentes siguen siendo obligatorias.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "En autopista o autovía y servicio urgente, ¿qué maniobras excepcionales permite el artículo 68 si no se compromete la seguridad?",
+      "opciones": [
+        "Circular en sentido contrario por cualquier carril a velocidad libre",
+        "Dar media vuelta o marcha atrás, circular en sentido contrario por el arcén o penetrar en mediana o pasos transversales",
+        "Detenerse en cualquier carril sin señalizar",
+        "Usar la mediana para estacionar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 68 enumera esas maniobras excepcionales y condiciona su uso a no comprometer la seguridad de usuarios.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué deben hacer normalmente los demás conductores al advertir señales de proximidad de un vehículo prioritario?",
+      "opciones": [
+        "Acelerar para abandonar la vía por la izquierda",
+        "Seguir su marcha sin modificar posición",
+        "Facilitarle el paso apartándose normalmente a la derecha o deteniéndose si fuera preciso",
+        "Detenerse siempre en mitad del carril"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 69 ordena adoptar las medidas adecuadas para facilitar el paso, normalmente apartándose a la derecha o deteniéndose si fuera necesario.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué regla limita el uso de señales acústicas especiales por un vehículo prioritario?",
+      "opciones": [
+        "Debe usar solo la acústica de noche",
+        "Nunca puede omitir la señal acústica",
+        "La señal luminosa se usa únicamente con el vehículo parado",
+        "Puede usar solo la luminosa cuando omitir la acústica no entrañe peligro para los demás"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 68.2 permite excepcionalmente usar la señal luminosa aislada si omitir las acústicas no genera peligro.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué consecuencia atribuye el artículo 68.3 a las infracciones de sus normas?",
+      "opciones": [
+        "Tienen consideración de graves",
+        "Son siempre leves",
+        "Constituyen automáticamente delito",
+        "No tienen clasificación reglamentaria"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 68.3 califica como graves las infracciones a las normas de ese precepto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T43-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "vehiculos-prioritarios",
+      "temaNumero": 43,
+      "enunciado": "¿Qué debe hacer un conductor cuando un vehículo policial detrás activa la luz roja intermitente dirigida hacia delante?",
+      "opciones": [
+        "Salir del vehículo y acercarse a la patrulla",
+        "Detenerse con precaución a la derecha, delante del vehículo policial, en un lugar seguro y permanecer dentro",
+        "Acelerar hasta el próximo cruce",
+        "Detenerse en el carril izquierdo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El segundo párrafo del artículo 69 regula la señal roja dirigida hacia delante y prescribe una detención segura a la derecha, delante del vehículo policial.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento General de Circulación, artículos 67–69, texto consolidado BOE",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

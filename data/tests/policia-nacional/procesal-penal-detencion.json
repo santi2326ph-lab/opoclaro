@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "procesal-penal-detencion",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Derecho Procesal Penal y detención · Tema 21",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T21-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Cuál es el límite máximo general de la detención preventiva antes de poner al detenido en libertad o a disposición judicial?",
+      "opciones": [
+        "Setenta y dos horas",
+        "Veinticuatro horas en todo caso",
+        "Cinco días en todo caso",
+        "Una semana"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 520 de la Ley de Enjuiciamiento Criminal fija el límite máximo general de 72 horas, sin perjuicio del tiempo estrictamente necesario y de regímenes constitucionales específicos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 520",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué órgano conoce ordinariamente del procedimiento de habeas corpus?",
+      "opciones": [
+        "La autoridad policial que practicó la detención",
+        "El juez de instrucción del lugar donde se encuentre la persona privada de libertad, con las reglas legales de competencia",
+        "El Ministerio Fiscal en exclusiva",
+        "El alcalde del municipio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La Ley Orgánica 6/1984 establece las reglas de competencia judicial en su artículo segundo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 6/1984, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Quién puede instar habeas corpus conforme al artículo tercero de la LO 6/1984?",
+      "opciones": [
+        "Cualquier ciudadano sin relación ni representación",
+        "Solo el abogado de oficio",
+        "La persona privada de libertad y determinados familiares, el Ministerio Fiscal, el Defensor del Pueblo o su abogado",
+        "Únicamente el juez, siempre de oficio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo tercero establece esas personas legitimadas y permite además la iniciación de oficio por el juez.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 6/1984, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué debe hacer la policía con una persona detenida cuando termina el tiempo estrictamente necesario de averiguación y rige el plazo máximo?",
+      "opciones": [
+        "Mantenerla hasta que finalice toda la instrucción",
+        "Esperar a que la víctima solicite su puesta a disposición",
+        "Trasladarla a otro centro para reiniciar el plazo",
+        "Ponerla en libertad o a disposición de la autoridad judicial, sin exceder el máximo legal general"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 520 exige libertad o puesta a disposición judicial dentro del plazo legal y, en general, como máximo en 72 horas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 520",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿En qué situación permite el artículo 490 detener a un particular?",
+      "opciones": [
+        "A quien adeude una cantidad privada",
+        "A la persona sorprendida en flagrante delito",
+        "A cualquier persona que no lleve documentación",
+        "A un testigo que no recuerde los hechos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 490 enumera los casos en que cualquier persona puede detener, entre ellos la flagrancia.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 490",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué debe hacer la autoridad o agente de policía judicial en los casos del artículo 492?",
+      "opciones": [
+        "Interrogar sin asistencia letrada",
+        "Resolver sobre la prisión provisional",
+        "Detener a las personas comprendidas en los supuestos legales",
+        "Retener a cualquier persona identificada durante tres días"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 492 establece los supuestos de detención obligatoria para autoridades y agentes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 492",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué derecho reconoce el artículo 520 a una persona detenida?",
+      "opciones": [
+        "Elegir la calificación penal",
+        "Impedir toda diligencia judicial",
+        "Exigir el archivo inmediato",
+        "Guardar silencio y no declarar si no quiere"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 520 recoge, entre otros, el derecho a guardar silencio y a no declarar contra sí mismo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 520",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué asistencia se reconoce a una persona detenida que no comprende la lengua del procedimiento?",
+      "opciones": [
+        "Asistencia gratuita de intérprete en los términos legales",
+        "Traducción de cualquier libro a su elección",
+        "Exención indefinida de comparecer",
+        "Asistencia consular obligatoria en todos los casos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 520 reconoce el derecho a intérprete cuando la persona no comprende o no habla la lengua del procedimiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley de Enjuiciamiento Criminal, artículo 520",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Cuál es una finalidad del procedimiento de habeas corpus?",
+      "opciones": [
+        "Anular antecedentes administrativos",
+        "Control judicial rápido de la legalidad de una privación de libertad",
+        "Revisar sentencias firmes",
+        "Determinar indemnizaciones civiles"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La LO 6/1984 regula un procedimiento para obtener la inmediata puesta a disposición judicial de personas detenidas ilegalmente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 6/1984, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Quién puede instar habeas corpus según la Ley Orgánica 6/1984?",
+      "opciones": [
+        "Solo el Ministerio Fiscal",
+        "Únicamente el juez que dictó una sentencia",
+        "La persona privada de libertad, su cónyuge o persona unida por análoga relación, descendientes, ascendientes, hermanos y, en su caso, representante legal",
+        "Cualquier empresa sin relación con la persona"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 3 enumera quiénes están legitimados para instar el procedimiento.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 6/1984, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué debe comunicarse inmediatamente a la persona detenida conforme al artículo 520.2 de la LECrim?",
+      "opciones": [
+        "Los hechos que se le imputan, las razones de la privación de libertad y los derechos que le asisten, de modo comprensible",
+        "Solo el número de diligencias",
+        "La identidad de todos los testigos",
+        "La pena que impondrá el tribunal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La información debe ser inmediata y comprensible e incluir hechos imputados, razones de la privación de libertad y derechos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué derecho tiene la persona detenida respecto de su silencio?",
+      "opciones": [
+        "A contestar únicamente ante la policía",
+        "A elegir qué pruebas se incorporan al procedimiento",
+        "A impedir la comunicación de los hechos al juez",
+        "A guardar silencio, no declarar si no quiere y no contestar alguna o algunas preguntas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 520.2.a reconoce el derecho a guardar silencio, a no declarar si no quiere y a no contestar alguna o algunas preguntas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué derecho reconoce el artículo 520.2.b a la persona detenida?",
+      "opciones": [
+        "A retirar por sí misma la denuncia",
+        "A decidir la calificación jurídica del hecho",
+        "A no declarar contra sí misma y a no confesarse culpable",
+        "A impedir que se le atribuyan hechos en la investigación"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 520.2.b garantiza no declarar contra sí mismo y no confesarse culpable.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué comunicación puede solicitar la persona detenida conforme al artículo 520.2.e?",
+      "opciones": [
+        "Que se avise solo a su empleador",
+        "Que se comunique, sin demora injustificada, a un familiar o persona de su elección el hecho de la detención y el lugar de custodia",
+        "Que se comunique únicamente cuando termine el proceso",
+        "Que se publique la detención en un registro abierto"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 520.2.e reconoce la comunicación sin demora injustificada a un familiar o persona elegida, además de la custodia y lugar.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué derecho de comunicación contempla el artículo 520.2.f?",
+      "opciones": [
+        "Comunicarse telefónicamente con un tercero de su elección, sin demora injustificada y en presencia de un funcionario",
+        "Realizar llamadas ilimitadas sin supervisión",
+        "Comunicarse solo con otros detenidos",
+        "Usar cualquier medio de comunicación sin control"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La persona detenida puede comunicarse telefónicamente con un tercero elegido, sin demora injustificada y en presencia de un funcionario.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.f",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué derecho asiste a quien no comprenda o no hable el castellano o la lengua oficial de la actuación?",
+      "opciones": [
+        "Solo traducción privada si puede pagarla",
+        "Suspensión automática de toda investigación",
+        "Derecho a elegir el idioma del tribunal",
+        "Asistencia gratuita de intérprete"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 520.2.h reconoce asistencia gratuita de intérprete cuando la persona no comprende o no habla la lengua de la actuación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.h",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué asistencia médica puede solicitar quien está detenido?",
+      "opciones": [
+        "Únicamente atención cuando exista sentencia",
+        "Ningún reconocimiento durante la detención",
+        "Reconocimiento por el médico forense o sustituto, el de la institución de custodia o cualquier otro dependiente del Estado o de otras Administraciones",
+        "Solo una consulta privada a su costa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 520.2.i reconoce el derecho al reconocimiento médico por los profesionales que enumera.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.i",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué acceso reconoce la ley para impugnar la legalidad de la detención?",
+      "opciones": [
+        "Acceso únicamente mediante autorización del denunciante",
+        "Acceso a los elementos de las actuaciones que sean esenciales para impugnarla",
+        "Acceso ilimitado a todo el expediente en cualquier momento",
+        "Acceso solo después de la sentencia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 520.2.d garantiza acceso a los elementos de las actuaciones esenciales para impugnar la legalidad de la detención.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.2.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué puede hacer la persona detenida respecto del abogado antes de declarar?",
+      "opciones": [
+        "Designar abogado y entrevistarse reservadamente con él, también antes de que se le reciba declaración policial",
+        "Elegir al juez instructor",
+        "Exigir que su abogado esté presente en cualquier diligencia ajena a su caso",
+        "Renunciar a toda asistencia sin límites legales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 520.6 permite la entrevista reservada con el abogado antes y después de la declaración, con las salvedades legales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.6.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T21-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "procesal-penal-detencion",
+      "temaNumero": 21,
+      "enunciado": "¿Qué debe ocurrir con la persona detenida al cumplirse el plazo máximo legal de detención?",
+      "opciones": [
+        "Permanecer detenida hasta que finalice la investigación policial",
+        "Ser trasladada automáticamente a prisión",
+        "Ser sancionada administrativamente",
+        "Ser puesta en libertad o a disposición de la autoridad judicial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Constitución y la LECrim exigen puesta en libertad o a disposición judicial dentro del plazo máximo de detención preventiva.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, artículo 520.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

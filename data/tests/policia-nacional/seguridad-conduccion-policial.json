@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "seguridad-conduccion-policial",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Seguridad en la conducción policial · Tema 44",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T44-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Cuál es el objetivo principal de la seguridad activa del vehículo?",
+      "opciones": [
+        "Ayudar a evitar que se produzca un accidente",
+        "Reducir las lesiones solo después de un accidente",
+        "Aumentar la potencia del motor",
+        "Sustituir la atención del conductor"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT distingue sistemas activos, orientados a prevenir el siniestro, de sistemas pasivos, que reducen sus consecuencias.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT/INTRAS, Programa de intervención vial, volumen 3: seguridad activa y pasiva",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/nuestros_servicios/permisos-de-conducir/recupera-puntos/2017-1165_INCOVIA_manual_alumno_Volumen_3_EE_en_linea.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Cuál es la función principal de la seguridad pasiva?",
+      "opciones": [
+        "Evitar toda necesidad de mantenimiento",
+        "Reducir las lesiones y consecuencias cuando el accidente ya se ha producido",
+        "Aumentar la velocidad de respuesta del motor",
+        "Impedir que el vehículo necesite neumáticos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los elementos de seguridad pasiva, como cinturón y airbags, reducen las consecuencias de un accidente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT/INTRAS, Programa de intervención vial, volumen 3: seguridad activa y pasiva",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/nuestros_servicios/permisos-de-conducir/recupera-puntos/2017-1165_INCOVIA_manual_alumno_Volumen_3_EE_en_linea.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "Según la guía de la DGT, ¿qué diferencia básica hay entre seguridad activa y pasiva?",
+      "opciones": [
+        "La activa intenta evitar la colisión; la pasiva reduce sus consecuencias",
+        "La activa se usa solo tras el choque; la pasiva evita que arranque el vehículo",
+        "Ambas se refieren únicamente al mantenimiento",
+        "La pasiva sustituye a la conducción atenta"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT considera seguridad activa la que trata de evitar la colisión y pasiva la que reduce las lesiones una vez que ocurre.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Guía de consejo sanitario en seguridad vial laboral 2024, apartado 20",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/conocimiento-e-investigacion/Guia-Consejo-Sanitario_vr.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Cuál de estos elementos identifica la DGT como sistema de seguridad pasiva?",
+      "opciones": [
+        "Control de crucero",
+        "Cinturón de seguridad",
+        "GPS",
+        "Dirección asistida"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La guía de la DGT incluye el cinturón entre los elementos pasivos que ayudan a limitar las lesiones en una colisión.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Guía de consejo sanitario en seguridad vial laboral 2024, apartado 20",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/conocimiento-e-investigacion/Guia-Consejo-Sanitario_vr.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué función atribuye la guía al habitáculo de seguridad?",
+      "opciones": [
+        "Evitar que sea necesario el cinturón",
+        "Aumentar la velocidad máxima",
+        "Proporcionar espacio de supervivencia, absorbiendo energía y protegiendo a los ocupantes",
+        "Reducir el consumo de combustible"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El habitáculo proporciona espacio de supervivencia: las estructuras deformables absorben energía y las rígidas protegen a los ocupantes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Guía de consejo sanitario en seguridad vial laboral 2024, apartado 20",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/conocimiento-e-investigacion/Guia-Consejo-Sanitario_vr.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué conjunto identifica la DGT como una tríada básica de prevención pasiva?",
+      "opciones": [
+        "Luces, bocina y retrovisores",
+        "ABS, control de tracción y dirección asistida",
+        "Neumáticos, suspensión y limpiaparabrisas",
+        "Cinturón, reposacabezas y airbag"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La guía identifica cinturón, reposacabezas y airbag como la tríada básica de prevención pasiva, con posible interacción conjunta.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Guía de consejo sanitario en seguridad vial laboral 2024, apartado 20",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/conocimiento-e-investigacion/Guia-Consejo-Sanitario_vr.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué sistema de seguridad pasiva se exige utilizar debidamente abrochado conforme al artículo 117 del Reglamento General de Circulación?",
+      "opciones": [
+        "Cinturón de seguridad homologado",
+        "Airbag del acompañante",
+        "Reposacabezas activo",
+        "Casco de bicicleta en turismos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 117 obliga a conductor y ocupantes a usar debidamente abrochados los cinturones homologados cuando el vehículo los tenga instalados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 117",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué obligación contempla el artículo 117 para menores de edad de estatura igual o inferior a 135 cm?",
+      "opciones": [
+        "Viajar siempre en el asiento delantero",
+        "Utilizar sistemas de retención infantil y viajar conforme a las reglas de colocación aplicables",
+        "Usar solo el cinturón de adulto sin adaptación",
+        "No viajar en vehículos particulares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para menores de edad de estatura igual o inferior a 135 cm, el artículo 117 exige sistemas de retención infantil y la colocación prevista en sus apartados.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 117",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué elemento de protección exige el artículo 118 a ocupantes de motocicletas, ciclomotores y vehículos enumerados, salvo las condiciones reglamentarias previstas?",
+      "opciones": [
+        "Cinturón de seguridad de tres puntos",
+        "Chaleco reflectante en todo trayecto",
+        "Casco de protección homologado o certificado",
+        "Airbag exterior"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 118 exige casco homologado o certificado a conductores y pasajeros de las categorías de vehículos que enumera, conforme a la regulación vigente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 1428/2003, artículo 118",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Por qué deben interactuar cinturón, reposacabezas y airbag como conjunto?",
+      "opciones": [
+        "Porque sustituyen el mantenimiento preventivo",
+        "Porque el airbag hace innecesario el cinturón",
+        "Porque son sistemas de entretenimiento del vehículo",
+        "Porque contribuyen conjuntamente a limitar el desplazamiento y las lesiones del ocupante en una colisión"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cinturón, reposacabezas y airbag colaboran para limitar el desplazamiento del ocupante y las lesiones; la DGT señala que pueden interactuar como un sistema.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DGT, Guía de consejo sanitario en seguridad vial laboral 2024, apartado 20",
+        "url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/conoce_la_dgt/que-hacemos/conocimiento-e-investigacion/Guia-Consejo-Sanitario_vr.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué es la distancia de reacción según la DGT?",
+      "opciones": [
+        "El espacio recorrido desde que se percibe un peligro hasta que se inicia la frenada",
+        "El espacio recorrido durante la frenada",
+        "La distancia entre dos vehículos estacionados",
+        "El espacio que recorre el coche tras detenerse"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT define distancia de reacción como el recorrido durante el tiempo entre percibir el peligro y accionar el freno.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Cómo se calcula la distancia de detención?",
+      "opciones": [
+        "Multiplicando la distancia de reacción por la masa",
+        "Sumando distancia de reacción y distancia de frenado",
+        "Restando la distancia de frenado a la de reacción",
+        "Sumando velocidad y tiempo de viaje"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT expresa la distancia de detención como la suma de la distancia de reacción más la distancia de frenado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué factores pueden aumentar la distancia de frenado además de la velocidad?",
+      "opciones": [
+        "Solo la edad del vehículo",
+        "Únicamente el color de la calzada",
+        "Estado de frenos, neumáticos, vía, carga y condiciones ambientales",
+        "Solo la experiencia del conductor"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La DGT enumera estado del vehículo, firme, condiciones meteorológicas, carga y sistemas de asistencia entre los factores que inciden en la frenada.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué acción recomienda la DGT para anticiparse a un obstáculo detectado con antelación?",
+      "opciones": [
+        "Acelerar para pasar antes",
+        "Frenar de golpe en todos los casos",
+        "Cambiar de carril sin observar",
+        "Levantar el pie del acelerador y evitar una frenada brusca si es posible"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La DGT recomienda anticipar, dejar de acelerar y aprovechar la retención del motor para evitar frenadas bruscas cuando las circunstancias lo permiten.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, conducción eficiente y segura",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-eficiente/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué distancia temporal mínima sugiere la DGT en condiciones ordinarias para prevenir alcances?",
+      "opciones": [
+        "Al menos dos segundos respecto de un punto fijo",
+        "Medio segundo",
+        "Diez segundos exactos en toda circunstancia",
+        "Una longitud de vehículo con independencia de la velocidad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT propone usar dos segundos como referencia y ampliar la separación con mal tiempo o asfalto mojado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducción preventiva",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-preventiva/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Cómo recomienda la DGT ajustar la separación frontal con mal tiempo o firme mojado?",
+      "opciones": [
+        "Reducirla a un segundo para evitar incorporaciones",
+        "Ampliarla a tres o más segundos",
+        "Mantener siempre dos segundos exactos",
+        "No dejar separación si se circula despacio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT recomienda ampliar la distancia a tres o más segundos con mal tiempo o asfalto mojado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducción preventiva",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-preventiva/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué define la DGT como velocidad adecuada?",
+      "opciones": [
+        "La velocidad máxima señalizada en cualquier circunstancia",
+        "La velocidad media del resto del tráfico",
+        "La que permite dominar el vehículo ante obstáculos e imprevistos atendiendo a vía, tráfico, vehículo y conductor",
+        "La velocidad que maximiza la rapidez de llegada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La DGT diferencia velocidad adecuada del mero límite: debe permitir controlar el vehículo dadas las condiciones concretas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué efecto tiene aumentar la velocidad sobre la distancia de reacción?",
+      "opciones": [
+        "La elimina en vehículos modernos",
+        "La reduce en proporción directa",
+        "No cambia porque depende solo del conductor",
+        "Aumenta el espacio recorrido durante el tiempo de reacción"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La distancia de reacción crece con la velocidad porque durante el tiempo de reacción se recorre más espacio.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Qué hábito de observación destaca la DGT para la conducción preventiva?",
+      "opciones": [
+        "Ampliar el campo visual y anticiparse a situaciones de la vía",
+        "Mirar solo el vehículo precedente",
+        "Fijar la vista en el velocímetro",
+        "Evitar revisar espejos para no distraerse"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT destaca observación y anticipación como bases para detectar imprevistos con margen de respuesta.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducción preventiva",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-preventiva/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T44-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-conduccion-policial",
+      "temaNumero": 44,
+      "enunciado": "¿Por qué debe ampliarse la distancia de seguridad con lluvia?",
+      "opciones": [
+        "La lluvia reduce siempre el tiempo de reacción",
+        "La distancia de frenado aumenta y disminuye la adherencia",
+        "El vehículo pesa menos sobre el firme",
+        "El sistema de frenos deja de funcionar necesariamente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT advierte que con lluvia aumenta la distancia de frenado y recomienda incrementar la separación con el vehículo precedente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducción preventiva",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-preventiva/"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

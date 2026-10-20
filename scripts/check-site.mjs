@@ -35,6 +35,12 @@ try {
 }
 
 const actualFiles = await walk(distDir);
+const forbiddenPublishedFiles = actualFiles.filter(file => /(^|\/)(?:material-privado|materia-privado)(?:\/|$)|\.pdf$/i.test(file));
+if (forbiddenPublishedFiles.length) failures.push(`dist incluye material privado o PDFs: ${forbiddenPublishedFiles.join(', ')}`);
+const ignoreRules = await readFile(path.join(projectRoot, '.gitignore'), 'utf8');
+for (const folder of ['/material-privado/', '/materia-privado/']) {
+  if (!ignoreRules.includes(folder)) failures.push(`.gitignore debe excluir ${folder}`);
+}
 const expectedFiles = [...publicFiles].sort();
 if (JSON.stringify(actualFiles) !== JSON.stringify(expectedFiles)) {
   failures.push(`Lista de publicación distinta a la permitida. Encontrados: ${actualFiles.join(', ')}`);
@@ -86,11 +92,17 @@ for (const script of [
   'assets/calculadora.js',
   'assets/planificador.js',
   'assets/site.js',
+  'assets/test-engine.mjs',
+  'assets/tests.js',
   'scripts/build.mjs',
   'scripts/check-site.mjs',
   'scripts/serve-dist.mjs',
   'scripts/site-files.mjs',
-  'scripts/test-functionality.mjs'
+  'scripts/test-functionality.mjs',
+  'scripts/test-tests.mjs',
+  'scripts/validate-question-banks.mjs',
+  'scripts/test-performance.mjs',
+  'scripts/generate-question-candidates.mjs'
 ]) {
   const result = spawnSync(process.execPath, ['--check', path.join(projectRoot, ...script.split('/'))], { encoding: 'utf8' });
   if (result.status !== 0) failures.push(`${script}: ${result.stderr.trim() || result.stdout.trim()}`);

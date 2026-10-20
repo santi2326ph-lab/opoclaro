@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "proteccion-seguridad-ciudadana",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Protección de la seguridad ciudadana · Tema 14",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "PSC-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué finalidad expresa la Ley Orgánica 4/2015 como objeto de la protección de la seguridad ciudadana?",
+      "opciones": [
+        "Proteger personas y bienes y mantener la tranquilidad de los ciudadanos",
+        "Regular las relaciones laborales de los cuerpos policiales",
+        "Sustituir el Código Penal",
+        "Determinar la organización de la Administración de Justicia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.2 fija como objeto regular actuaciones dirigidas a la protección de personas y bienes y al mantenimiento de la tranquilidad ciudadana.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 1.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Cuál de estos principios rige las potestades públicas en materia de seguridad ciudadana conforme al artículo 4.1?",
+      "opciones": [
+        "Legalidad, igualdad de trato y no discriminación, oportunidad, proporcionalidad, eficacia, eficiencia y responsabilidad",
+        "Secreto, jerarquía y discrecionalidad absoluta",
+        "Oportunidad política y conveniencia económica exclusivamente",
+        "Rapidez y obediencia sin control"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.1 enumera esos principios y somete la actuación a control administrativo y jurisdiccional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 4.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué condición justifica la actividad de intervención regulada por la Ley Orgánica 4/2015?",
+      "opciones": [
+        "Una amenaza concreta o un comportamiento objetivamente peligroso susceptible de causar un perjuicio real a la seguridad ciudadana",
+        "Una sospecha abstracta sin circunstancias objetivas",
+        "La mera conveniencia del órgano actuante",
+        "La petición de cualquier persona, sin valoración adicional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.3 exige una amenaza concreta o comportamiento objetivamente peligroso que razonablemente pueda causar perjuicio real a la seguridad ciudadana.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 4.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿En cuál de estos supuestos puede requerirse la identificación de una persona según el artículo 16.1?",
+      "opciones": [
+        "Cuando existan indicios de que pudo participar en una infracción",
+        "Siempre que se encuentre en un espacio público",
+        "Solo cuando exista una orden judicial",
+        "Únicamente si la persona es extranjera"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.1.a permite requerir identificación cuando existan indicios de que la persona pudo participar en una infracción.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 16.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Cuál es el otro supuesto previsto por el artículo 16.1 para requerir la identificación?",
+      "opciones": [
+        "Que razonablemente sea necesario acreditar la identidad para prevenir la comisión de un delito, atendidas las circunstancias",
+        "Que el agente quiera comprobar cualquier dato personal sin motivo",
+        "Que la persona lleve equipaje",
+        "Que una autoridad privada lo solicite sin intervención policial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.1.b permite requerir identificación cuando, atendidas las circunstancias, se considere razonablemente necesario para prevenir un delito.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 16.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "Si no es posible identificar a una persona por ningún medio o se niega a hacerlo, ¿cuánto puede durar como máximo el traslado a dependencias para identificarla?",
+      "opciones": [
+        "Seis horas",
+        "Doce horas",
+        "Veinticuatro horas",
+        "Setenta y dos horas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.2 limita esa permanencia al tiempo estrictamente necesario y fija un máximo absoluto de seis horas, solo a efectos de identificación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 16.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué información debe recibir inmediatamente la persona requerida para identificarse?",
+      "opciones": [
+        "Las razones de la solicitud y, si procede, del requerimiento para acompañar a los agentes",
+        "El nombre de todas las personas presentes en la actuación",
+        "La identidad de quien denunció los hechos en todo caso",
+        "Una copia íntegra del expediente sancionador"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.2 ordena informar de modo inmediato y comprensible de las razones de la solicitud y, en su caso, del requerimiento de acompañamiento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 16.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Cuándo se cancelan de oficio los asientos del libro-registro de diligencias de identificación?",
+      "opciones": [
+        "A los tres años",
+        "A los seis meses",
+        "Al año",
+        "A los cinco años"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.3 establece que los asientos del libro-registro se cancelarán de oficio a los tres años.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 16.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿En qué casos pueden entrar y registrar un domicilio los agentes de las Fuerzas y Cuerpos de Seguridad conforme al artículo 15?",
+      "opciones": [
+        "En los casos permitidos por la Constitución y en los términos establecidos por las leyes",
+        "Siempre que lo solicite un particular",
+        "Cuando haya una infracción administrativa leve",
+        "Solo con autorización del alcalde"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 15.1 remite a los casos permitidos por la Constitución y a los términos fijados por las leyes; el apartado 2 contempla una causa legítima urgente específica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 15.1 y 15.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "PSC-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué requisitos establece el artículo 14 para las órdenes y prohibiciones de las autoridades competentes?",
+      "opciones": [
+        "Deben ajustarse a las leyes y reglamentos, y las actuaciones policiales deben ser estrictamente necesarias mediante resolución motivada",
+        "Pueden dictarse verbalmente sin fundamento ni límite",
+        "No están sujetas a control judicial",
+        "Solo pueden dictarse por tribunales penales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 14 exige que las órdenes y prohibiciones se ajusten a leyes y reglamentos y dispone que las actuaciones policiales sean estrictamente necesarias mediante resolución debidamente motivada.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, artículo 14",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿En qué ámbito territorial se aplican las disposiciones de la Ley Orgánica 4/2015?",
+      "opciones": [
+        "En todo el territorio nacional, sin perjuicio de las competencias autonómicas asumidas",
+        "Solo en municipios con policía local",
+        "Únicamente en las fronteras",
+        "Solo en las comunidades autónomas sin policía propia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.1 establece su aplicación en todo el territorio nacional, con respeto a las competencias autonómicas asumidas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 2.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué tipo de actuación sobre espectáculos queda fuera del ámbito de la Ley Orgánica 4/2015 en los términos del artículo 2.2?",
+      "opciones": [
+        "Toda actuación policial en un espectáculo",
+        "La investigación de delitos cometidos durante un evento",
+        "Las medidas frente a una alteración grave de la seguridad ciudadana",
+        "La acción administrativa ordinaria de buen orden y protección integrada en el control preventivo habitual"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2.2 excluye las prescripciones de acción administrativa ordinaria para el buen orden y la protección dentro del sistema preventivo habitual de control del espectáculo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 2.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué deber tienen los funcionarios públicos que conocen por razón de su cargo hechos que perturban gravemente la seguridad ciudadana?",
+      "opciones": [
+        "Informar solo a su superior jerárquico al final del año",
+        "Publicarlos antes en un registro abierto",
+        "Ponerlos inmediatamente en conocimiento de la autoridad competente",
+        "Esperar a recibir una denuncia judicial"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 7.1 obliga a comunicar inmediatamente esos hechos a la autoridad competente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 7.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿En qué circunstancia puede recabarse ayuda de particulares según el artículo 7.2?",
+      "opciones": [
+        "Únicamente mediante orden judicial",
+        "Cuando sea necesaria para los fines de la ley y no implique riesgo personal para ellos",
+        "En cualquier servicio ordinario, aunque exista riesgo grave",
+        "Solo si los particulares pertenecen a una empresa de seguridad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ayuda puede recabarse en la medida necesaria para los fines legales, especialmente en calamidad o catástrofe, siempre que no implique riesgo personal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 7.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué habilita el artículo 16.1.a para requerir la identificación en vías, lugares o establecimientos públicos?",
+      "opciones": [
+        "La existencia de indicios de participación en una infracción",
+        "La mera preferencia del agente sin causa",
+        "La nacionalidad extranjera de la persona",
+        "La negativa a responder preguntas ajenas a la identificación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.1.a permite requerir identificación cuando existan indicios de que una persona ha podido participar en una infracción.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 16.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué finalidad puede justificar identificar a una persona conforme al artículo 16.1.b?",
+      "opciones": [
+        "Comprobar su opinión política",
+        "Determinar su afiliación sindical",
+        "Recabar información personal sin relación preventiva",
+        "Prevenir la comisión de un delito"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 16.1.b permite la identificación cuando, atendidas las circunstancias, sea razonablemente necesario para prevenir un delito.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 16.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué permite el artículo 17.1 ante una alteración de la seguridad ciudadana o indicios racionales de que pueda producirse?",
+      "opciones": [
+        "Retirar documentos de identidad sin causa",
+        "Prohibir toda reunión futura en la provincia",
+        "Limitar o restringir circulación o permanencia y establecer zonas de seguridad por el tiempo imprescindible",
+        "Restringir indefinidamente cualquier desplazamiento en todo el municipio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 17.1 autoriza esas medidas durante el tiempo imprescindible para mantener o restablecer la seguridad ciudadana.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 17.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Para qué finalidad permite el artículo 17.2 establecer controles en vías, lugares o establecimientos públicos?",
+      "opciones": [
+        "Sustituir el control judicial de las entradas domiciliarias",
+        "Prevenir delitos de especial gravedad o alarma social, descubrir responsables y recoger instrumentos, efectos o pruebas",
+        "Realizar controles administrativos generales sin vinculación a delitos",
+        "Comprobar opiniones y antecedentes de toda persona que pase"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El control debe vincularse a los fines expresamente descritos en el artículo 17.2 y solo cuando resulte indispensable alguna de las actuaciones previstas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 17.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Qué condición exige el artículo 18.1 para las comprobaciones de armas, explosivos u objetos peligrosos en lugares públicos?",
+      "opciones": [
+        "Que existan indicios de su eventual presencia y que la comprobación sea necesaria para impedir su porte o uso ilegal",
+        "Que toda persona presente consienta por escrito",
+        "Que se trate siempre de un delito ya consumado",
+        "Que lo solicite el titular del establecimiento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.1 vincula las comprobaciones a indicios de eventual presencia de objetos que generen riesgo potencialmente grave o puedan usarse para delinquir o alterar la seguridad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 18.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T14-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-seguridad-ciudadana",
+      "temaNumero": 14,
+      "enunciado": "¿Puede ocuparse temporalmente un arma que se lleva con licencia o autorización?",
+      "opciones": [
+        "No, porque la licencia excluye cualquier intervención",
+        "Solo si se ha dictado una sentencia firme",
+        "Sí, pero únicamente en el domicilio del titular",
+        "Sí, si se estima necesario para prevenir un delito o existe peligro para personas o bienes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 18.2 permite la ocupación temporal incluso de armas con licencia cuando se estime necesario para prevenir delitos o exista peligro.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, artículo 18.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

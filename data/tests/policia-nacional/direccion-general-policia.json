@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "direccion-general-policia",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "La Dirección General de la Policía y la Policía Nacional · Tema 8",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "DGP-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué rango tiene la persona titular de la Dirección General de la Policía conforme al Real Decreto 207/2024?",
+      "opciones": [
+        "Rango de subsecretario",
+        "Rango de secretario de Estado",
+        "Rango de director general autonómico",
+        "Rango de ministro"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1 establece que la persona titular de la Dirección General de la Policía tiene rango de subsecretario.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Bajo la dependencia de qué órgano ejerce la persona titular de la Dirección General el mando directo de la Policía Nacional?",
+      "opciones": [
+        "Secretaría de Estado de Seguridad",
+        "Subsecretaría del Interior",
+        "Consejo de Ministros",
+        "Dirección General de la Guardia Civil"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1 sitúa el mando directo de la Policía Nacional bajo la dependencia de la persona titular de la Secretaría de Estado de Seguridad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Cuál es una función de la persona titular de la Dirección General de la Policía?",
+      "opciones": [
+        "Dirigir, impulsar y coordinar los servicios y órganos centrales y periféricos de la Policía Nacional",
+        "Nombrar a los miembros del Consejo General del Poder Judicial",
+        "Aprobar los presupuestos generales del Estado",
+        "Dirigir las policías autonómicas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1.a atribuye a la persona titular de la Dirección General la dirección, impulso y coordinación de los servicios y órganos centrales y periféricos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué órgano de la Dirección General gestiona la Oficina Central Nacional de INTERPOL, la Unidad Nacional de EUROPOL y la Oficina SIRENE?",
+      "opciones": [
+        "La División de Cooperación Internacional",
+        "La Comisaría General de Policía Científica",
+        "La División de Personal",
+        "El Gabinete Técnico"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3.e atribuye a la División de Cooperación Internacional la gestión de esas tres oficinas o unidades.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.3.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué Comisaría General se ocupa de captar, recibir, tratar y desarrollar información de interés para el orden y la seguridad pública, especialmente en materia antiterrorista?",
+      "opciones": [
+        "Comisaría General de Información",
+        "Comisaría General de Policía Judicial",
+        "Comisaría General de Seguridad Ciudadana",
+        "Comisaría General de Policía Científica"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3 atribuye esas funciones de información, con especial atención antiterrorista, a la Comisaría General de Información.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué ámbito corresponde a la Comisaría General de Policía Judicial según el artículo 3 del Real Decreto 207/2024?",
+      "opciones": [
+        "Investigación y persecución de infracciones supraterritoriales, incluidos determinados delitos complejos",
+        "Gestión de los documentos nacionales de identidad",
+        "Coordinación de las comisarías locales de seguridad ciudadana",
+        "Control de los procesos electorales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3.b le asigna la investigación y persecución de infracciones supraterritoriales, destacando delincuencia organizada y otros ámbitos enumerados en la norma.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.3.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué función asigna el Real Decreto 207/2024 a la Comisaría General de Policía Científica?",
+      "opciones": [
+        "Servicios de criminalística, identificación, analítica e investigación técnica y elaboración de informes periciales",
+        "Dirección de la cooperación policial internacional",
+        "Selección y formación del personal",
+        "Control de entrada y salida de extranjeros"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3.e asigna a Policía Científica los servicios de criminalística, identificación, analítica e investigación técnica, así como los informes que se le encomienden.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.3.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué subdirección general es responsable de la selección del personal de la Policía Nacional y coordina su gestión y formación?",
+      "opciones": [
+        "Subdirección General de Recursos Humanos y Formación",
+        "Subdirección General de Logística e Innovación",
+        "Dirección Adjunta Operativa",
+        "División de Cooperación Internacional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.4 asigna esa responsabilidad a la Subdirección General de Recursos Humanos y Formación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué órganos de apoyo y asesoramiento menciona el artículo 3.6 para el nivel central de la Dirección General de la Policía?",
+      "opciones": [
+        "La Junta de Gobierno y el Consejo Asesor",
+        "El Consejo de Estado y el Consejo General del Poder Judicial",
+        "La Junta Electoral Central y el Tribunal de Cuentas",
+        "La Comisión Nacional de Policía Judicial y Eurojust"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.6 indica que, en el nivel central, la Dirección General cuenta con la Junta de Gobierno y el Consejo Asesor.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "DGP-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué tarea corresponde a la Comisaría General de Extranjería y Fronteras?",
+      "opciones": [
+        "Control de entrada y salida del territorio nacional de españoles y extranjeros",
+        "Expedición de sentencias de expulsión",
+        "Concesión de asilo por resolución judicial",
+        "Dirección de la política exterior española"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3.d incluye el control de entrada y salida del territorio nacional, además de funciones policiales sobre redes de inmigración ilegal y el régimen policial de extranjería.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.3.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué responsabilidad específica tiene la Dirección Adjunta Operativa?",
+      "opciones": [
+        "Coordinar y supervisar unidades centrales, supraterritoriales y territoriales de la Policía Nacional",
+        "Dirigir la Oficina Central Nacional de Interpol",
+        "Expedir pasaportes en el extranjero",
+        "Aprobar los Planes Estratégicos Sectoriales de infraestructuras críticas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.2.a del Real Decreto 207/2024 asigna a la DAO la dirección, coordinación y supervisión de esas unidades, además de otras tareas operativas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué materia estratégica debe planificar la Dirección Adjunta Operativa?",
+      "opciones": [
+        "La política exterior de la Unión Europea",
+        "La transformación digital",
+        "La carrera judicial",
+        "La inspección autonómica de la seguridad privada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3.2.a atribuye a la DAO la planificación estratégica en materia de transformación digital.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué tareas corresponden a la Subdirección General de Logística e Innovación?",
+      "opciones": [
+        "Ejercer la acusación pública",
+        "Dirigir exclusivamente la formación inicial",
+        "Gestionar recursos económicos y materiales, documentación de españoles y extranjeros y archivos policiales",
+        "Aprobar los planes policiales europeos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 3.2.c recoge la gestión de recursos económicos y materiales, documentación y archivos policiales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.2.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué cometido tiene el Gabinete Técnico de la Dirección General?",
+      "opciones": [
+        "Controlar la seguridad privada en todas las comunidades autónomas",
+        "Dirigir por sí solo las operaciones territoriales",
+        "Gestionar permisos de residencia",
+        "Prestar apoyo y asistencia a su titular y elaborar estudios e informes necesarios"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 3.2.d define el Gabinete Técnico como órgano de apoyo y asistencia y le encomienda, entre otras tareas, estudios e informes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.2.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué puede proponer la persona titular de la Dirección General a la Secretaría de Estado?",
+      "opciones": [
+        "Planes y proyectos de actuación operativa de la Policía Nacional",
+        "Reformas constitucionales",
+        "Planes de ordenación municipal",
+        "Concesiones de nacionalidad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1.c atribuye a la persona titular de la Dirección General proponer esos planes y proyectos a la Secretaría de Estado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Quién distribuye los medios personales y materiales entre las unidades de la Policía Nacional?",
+      "opciones": [
+        "La Comisión Nacional de Protección de Infraestructuras Críticas",
+        "La persona titular de la Dirección General de la Policía",
+        "El Consejo General del Poder Judicial",
+        "Los ayuntamientos donde operen las unidades"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3.1.b atribuye esa distribución a la persona titular de la Dirección General.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué competencia disciplinaria corresponde a la persona titular de la Dirección General?",
+      "opciones": [
+        "Imponer sanciones penales",
+        "Aprobar el régimen de todas las policías autonómicas",
+        "Aplicar el régimen disciplinario del personal de la Policía Nacional",
+        "Resolver recursos contra sentencias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 3.1.i incluye la aplicación del régimen disciplinario del personal de la Policía Nacional.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.i",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué actuaciones sobre personal atribuye el artículo 3.1.j a la Dirección General?",
+      "opciones": [
+        "Nombrar a los funcionarios de las policías locales",
+        "Aprobar todas las ofertas de empleo público",
+        "Expedir títulos universitarios",
+        "Seleccionar y promover al personal y desarrollar actividades técnico-docentes de formación y perfeccionamiento"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 3.1.j recoge selección, promoción y actividades técnico-docentes para formación y perfeccionamiento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.j",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué medios puede proponer adquirir la Dirección General para los cometidos policiales?",
+      "opciones": [
+        "Equipos de transmisión e información, armamento, vehículos, aeronaves, naves, uniformes y otros medios materiales",
+        "Exclusivamente edificios de oficinas",
+        "Solo software de uso administrativo",
+        "Únicamente material docente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1.k enumera esos medios materiales dentro de la programación aprobada por la Secretaría de Estado.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.k",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T8-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "direccion-general-policia",
+      "temaNumero": 8,
+      "enunciado": "¿Qué función atribuye el artículo 3.1.l a la Dirección General en el ámbito operativo?",
+      "opciones": [
+        "Aprobar la política exterior",
+        "Impulsar el análisis, planificación y desarrollo de métodos, técnicas y procedimientos policiales",
+        "Dirigir juzgados de instrucción",
+        "Gestionar el Registro Nacional de Armas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3.1.l atribuye esa función de análisis, planificación y desarrollo en el ámbito operativo policial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 3.1.l",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

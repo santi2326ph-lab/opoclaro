@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "seguridad-privada",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Seguridad privada · Tema 13",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "SP-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cuál es la relación de las actividades de seguridad privada respecto de la seguridad pública según la Ley 5/2014?",
+      "opciones": [
+        "Son complementarias y subordinadas",
+        "Son independientes y prevalecen sobre ella",
+        "La sustituyen cuando no haya agentes públicos",
+        "Son una modalidad de función jurisdiccional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.1 establece que las actividades de seguridad privada tienen consideración complementaria y subordinada respecto de la seguridad pública.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 1.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué finalidad general recoge la definición legal de seguridad privada del artículo 2?",
+      "opciones": [
+        "Garantizar la seguridad de las personas, proteger su patrimonio y velar por el desarrollo normal de sus actividades",
+        "Ejercer potestades públicas de investigación penal",
+        "Sustituir las funciones de las Fuerzas y Cuerpos de Seguridad",
+        "Regular el funcionamiento de los tribunales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 define la seguridad privada como actividades y medidas orientadas a garantizar la seguridad de las personas, proteger su patrimonio y velar por el desarrollo normal de sus actividades.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 2.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cuál de estas actividades figura entre las actividades de seguridad privada del artículo 5?",
+      "opciones": [
+        "Vigilancia y protección de bienes, establecimientos, lugares y eventos, y de las personas que se encuentren en ellos",
+        "La instrucción de procedimientos judiciales",
+        "La imposición de sanciones penales",
+        "La custodia penitenciaria"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.a incluye la vigilancia y protección de bienes, establecimientos, lugares y eventos, así como de las personas presentes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 5.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué condición deben cumplir, en general, los servicios de seguridad privada antes de prestarse?",
+      "opciones": [
+        "Haber sido previamente contratados y, cuando corresponda, autorizados",
+        "Contar con sentencia judicial",
+        "Ser gratuitos",
+        "Haber sido aprobados por el ayuntamiento en todos los casos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.1 prohíbe prestar servicios de seguridad privada que no hayan sido previamente contratados y, en su caso, autorizados.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 9.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué obligación establece la Ley 5/2014 para las empresas y el personal de seguridad privada respecto de las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "Colaborar y auxiliarles y seguir sus instrucciones en lo que afecte a la seguridad pública o a sus competencias",
+        "Asumir su mando cuando se trate de un servicio privado",
+        "Rechazar sus instrucciones durante un contrato privado",
+        "Mantenerse al margen incluso ante un delito"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8 exige colaboración y auxilio de las Fuerzas y Cuerpos de Seguridad y el seguimiento de sus instrucciones en relación con servicios que afecten a la seguridad pública o a sus competencias.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 8.2 y 8.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué actuación queda excluida de la Ley 5/2014 según su artículo 7.1?",
+      "opciones": [
+        "La autoprotección directa de los interesados para proteger su entorno personal o patrimonial, sin contraprestación ni servicio a terceros",
+        "La vigilancia profesional de un evento contratado",
+        "La prestación de un servicio de escolta por una empresa autorizada",
+        "La investigación privada efectuada por un despacho habilitado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 7.1 excluye las cautelas de autoprotección que los interesados realizan directamente para sí, sin contraprestación ni servicio de seguridad a terceros.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 7.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué prohíbe el artículo 8.4 a las empresas, despachos y personal de seguridad privada mientras prestan sus servicios?",
+      "opciones": [
+        "Intervenir o interferir en reuniones y manifestaciones o en conflictos políticos o laborales",
+        "Auxiliar a las Fuerzas y Cuerpos de Seguridad",
+        "Proteger los bienes incluidos en el contrato",
+        "Comunicar un hecho delictivo conocido durante el servicio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.4.a les prohíbe interferir en reuniones y manifestaciones y en conflictos políticos o laborales mientras ejercen sus funciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 8.4.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué requisito debe cumplir una empresa de seguridad privada para prestar servicios, como regla general?",
+      "opciones": [
+        "Obtener autorización administrativa e inscribirse de oficio en el registro correspondiente",
+        "Obtener una licencia del tribunal provincial",
+        "Contar con autorización individual de cada cliente emitida por la Policía Nacional",
+        "Inscribirse únicamente en el Registro Mercantil, sin autorización"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.1 exige autorización administrativa e inscripción de oficio en el registro correspondiente, con la excepción legal de declaración responsable indicada en su apartado 2.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 18.1 y 18.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Dónde ejercen sus funciones, con carácter general, los vigilantes de seguridad encargados de vigilancia y protección de bienes?",
+      "opciones": [
+        "En el interior de los edificios, instalaciones o propiedades a proteger, sin perjuicio de los supuestos legales en que puedan actuar fuera",
+        "En cualquier espacio público, sin condiciones",
+        "Solo en vías públicas",
+        "Únicamente dentro de dependencias policiales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 41.1 establece que la regla general es el interior de los edificios, instalaciones o propiedades, y enumera supuestos en los que el servicio puede realizarse fuera.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 41.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "SP-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué debe portar el personal de seguridad privada durante la prestación del servicio, según la Ley 5/2014?",
+      "opciones": [
+        "La tarjeta de identidad profesional y, cuando proceda, la documentación correspondiente al arma de fuego",
+        "Una licencia municipal y el contrato laboral completo",
+        "Solo el documento nacional de identidad",
+        "La autorización del cliente en formato notarial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 39.5 dispone que durante el servicio debe portarse la tarjeta de identidad profesional y, en su caso, la documentación del arma de fuego.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, artículo 39.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿A qué marco deben ajustarse los servicios y funciones de seguridad privada?",
+      "opciones": [
+        "A la Constitución, a la Ley 5/2014 y al resto del ordenamiento jurídico",
+        "Únicamente a las instrucciones del cliente",
+        "Solo a los reglamentos internos de cada empresa",
+        "A la normativa municipal con exclusión de la estatal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.1 exige respeto a la Constitución, a la Ley de Seguridad Privada y al resto del ordenamiento jurídico.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 8.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cómo deben colaborar los prestadores privados con las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "En todo momento y lugar, sujetos a lo que estas dispongan sobre la ejecución material",
+        "Solo mediante autorización judicial",
+        "Únicamente después de terminar el contrato",
+        "Solo si lo decide el jefe de seguridad privado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.2 establece colaboración en todo momento y lugar, sujeta a las disposiciones policiales sobre la ejecución material.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 8.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué limitación rige durante la prestación de servicios privados respecto de reuniones y manifestaciones?",
+      "opciones": [
+        "No pueden intervenir ni interferir en su celebración",
+        "Pueden disolverlas si lo solicita el cliente",
+        "Pueden autorizarlas cuando sean pacíficas",
+        "Pueden grabar y dirigir su desarrollo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.4.a prohíbe intervenir o interferir en reuniones y manifestaciones y en conflictos políticos o laborales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 8.4.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Puede el personal de seguridad privada controlar opiniones políticas o religiosas?",
+      "opciones": [
+        "No; la ley prohíbe ese control y el tratamiento de esos datos ideológicos",
+        "Sí, si el cliente lo incluye en el contrato",
+        "Sí, en espacios abiertos al público",
+        "Solo puede hacerlo el director de seguridad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.4.b prohíbe controlar opiniones políticas, sindicales o religiosas y tratar datos relacionados con ellas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 8.4.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿A quién puede comunicarse la información sobre clientes conocida durante el servicio, según la regla del artículo 8.4.c?",
+      "opciones": [
+        "A autoridades judiciales y policiales para sus funciones",
+        "A cualquier medio de comunicación",
+        "A otros clientes del mismo sector",
+        "A cualquier empresa que la solicite"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La comunicación a terceros está prohibida salvo a autoridades judiciales y policiales en el ejercicio de sus funciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 8.4.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Qué requisito establece el artículo 9.1 para prestar un servicio de seguridad privada?",
+      "opciones": [
+        "Que haya sido previamente contratado y, cuando proceda, autorizado",
+        "Que se comunique después de finalizarlo",
+        "Que lo solicite verbalmente cualquier ciudadano",
+        "Que exista una resolución judicial en todos los casos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "No puede prestarse un servicio que no haya sido previamente contratado y, en su caso, autorizado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 9.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿En qué forma deben formalizarse los contratos de estos servicios?",
+      "opciones": [
+        "Por escrito",
+        "Verbalmente, como regla general",
+        "Mediante anuncio público",
+        "Solo ante notario"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.2 exige formalización escrita de los contratos de prestación de servicios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 9.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cuándo debe comunicarse la celebración del contrato a la autoridad competente?",
+      "opciones": [
+        "Con antelación al inicio del servicio",
+        "Dentro de los treinta días posteriores a su fin",
+        "Solo tras una inspección",
+        "Al renovar la habilitación del vigilante"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.2 establece la comunicación al Ministerio del Interior u órgano autonómico competente con antelación al inicio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 9.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cuál de los siguientes principios de actuación aparece expresamente en el artículo 30?",
+      "opciones": [
+        "Reserva profesional",
+        "Oportunidad política",
+        "Obediencia al cliente sin límite",
+        "Secreto absoluto frente a autoridades"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La reserva profesional sobre los hechos conocidos en el ejercicio de las funciones es uno de los principios del artículo 30.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 30.g",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T13-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-privada",
+      "temaNumero": 13,
+      "enunciado": "¿Cuándo se consideran agresiones y desobediencias a agentes de la autoridad las cometidas contra personal de seguridad privada?",
+      "opciones": [
+        "Cuando está debidamente identificado y actúa en cooperación y bajo el mando de las Fuerzas y Cuerpos de Seguridad",
+        "Siempre que esté uniformado, incluso fuera de servicio",
+        "Cuando protege cualquier propiedad privada",
+        "Solo cuando presta servicio en edificios públicos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 31 exige identificación adecuada y actuación en cooperación y bajo el mando de las Fuerzas y Cuerpos de Seguridad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 5/2014, de 4 de abril, de Seguridad Privada, artículo 31",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

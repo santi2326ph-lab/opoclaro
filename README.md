@@ -32,11 +32,14 @@ Comprueba `https://opoclaro.santi2326ph.workers.dev/sitemap.xml` y `https://opoc
 
 - Portada: resumen de herramientas y navegación a las guías.
 - Calculadora de notas: calcula la puntuación estimada en el navegador; penalización, escala y corte configurables.
+- La sección de Tests carga preguntas JSON; para probarla, utiliza el servidor local HTTP y no abras la página con `file://`.
 - Planificador semanal: las sesiones quedan guardadas en localStorage del navegador actual.
+- Tests gratuitos de Policía Nacional: banco demostrativo de 908 preguntas originales entre los 45 temas, con modo práctica y examen; no son preguntas oficiales.
+- Historial de resultados guardado solo en el navegador y borrable desde la página de Tests.
 - Cuatro guías originales para estudiar, repasar, distribuir el temario e interpretar una nota tipo test.
 - Metadatos y URL canónica individuales, datos Open Graph, HTML semántico, diseño móvil, sitemap, robots y página 404.
 
-La canonical y las URL del sitemap empiezan con un dominio de ejemplo. Reemplázalo antes de publicar. El indicador de verificación de Search Console es solo un marcador hasta añadir el valor que Google proporcione. No se carga analítica ni publicidad; cualquier integración futura requiere incorporar sus códigos y revisar sus políticas vigentes.
+Las URL canónicas y el sitemap utilizan el dominio público de Workers. La etiqueta de verificación de Google Search Console está configurada en la portada. No se carga analítica ni publicidad; cualquier integración futura requiere incorporar sus códigos y revisar sus políticas vigentes.
 
 ## Referencias oficiales
 

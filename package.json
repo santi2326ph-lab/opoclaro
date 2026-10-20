@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node scripts/check-site.mjs && node scripts/test-functionality.mjs",
+    "test": "node scripts/check-site.mjs && node scripts/test-functionality.mjs && node scripts/test-tests.mjs && node scripts/validate-question-banks.mjs && node scripts/test-performance.mjs",
     "preview": "node scripts/serve-dist.mjs",
     "deploy": "npm run build && npx wrangler deploy"
   }

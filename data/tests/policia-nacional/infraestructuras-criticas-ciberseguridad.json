@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "infraestructuras-criticas-ciberseguridad",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Infraestructuras críticas y ciberseguridad · Tema 15",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T15-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué protege principalmente la Ley 8/2011?",
+      "opciones": [
+        "Las infraestructuras críticas para asegurar la prestación de servicios esenciales",
+        "Cualquier inmueble privado sin distinción",
+        "Solo las instalaciones militares",
+        "Los datos personales de los consumidores"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La ley establece medidas para la protección de infraestructuras críticas y la continuidad de servicios esenciales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué organismo se identifica en la Ley 8/2011 con las siglas CNPIC?",
+      "opciones": [
+        "Comisión Nacional de Protección de Internet y Comunicaciones",
+        "Centro Nacional para la Protección de las Infraestructuras Críticas",
+        "Centro Nacional de Prevención de Incendios y Catástrofes",
+        "Consejo Nacional para la Política Industrial y Comercial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 7 regula el Centro Nacional para la Protección de las Infraestructuras Críticas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, artículo 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Cuál es el objeto del Real Decreto-ley 12/2018?",
+      "opciones": [
+        "Regular exclusivamente la seguridad física de edificios públicos",
+        "Crear un régimen general de delitos informáticos",
+        "Regular seguridad de redes y sistemas de información de servicios esenciales y digitales y establecer notificación de incidentes",
+        "Regular el uso de redes sociales por particulares"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Su artículo 1 establece esos objetivos y un marco institucional de coordinación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto-ley 12/2018, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-12257"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué norma vigente regula el Esquema Nacional de Seguridad citado en el temario?",
+      "opciones": [
+        "Real Decreto 3/2010 como norma vigente sin sustitución",
+        "Real Decreto-ley 12/2018 como regulación exclusiva del ENS",
+        "Ley Orgánica 3/2018",
+        "Real Decreto 311/2022"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ENS se regula por el Real Decreto 311/2022, que sustituyó el marco anterior del Real Decreto 3/2010.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 311/2022, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué infraestructura puede calificarse como crítica según la Ley 8/2011?",
+      "opciones": [
+        "Una infraestructura estratégica cuya perturbación o destrucción tendría impacto grave sobre un servicio esencial",
+        "Cualquier local comercial",
+        "Todo equipo informático doméstico",
+        "Solo una instalación militar"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La calificación se refiere a infraestructura estratégica cuya perturbación puede afectar gravemente a servicios esenciales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, artículo 2.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿A qué corresponde la custodia y mantenimiento del Catálogo Nacional de Infraestructuras Estratégicas?",
+      "opciones": [
+        "Al Ministerio del Interior, a través de la Secretaría de Estado de Seguridad",
+        "A cada operador privado por separado",
+        "A los ayuntamientos únicamente",
+        "Al Banco de España"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Reglamento de la Ley 8/2011 atribuye esa responsabilidad al Ministerio del Interior mediante la Secretaría de Estado de Seguridad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 704/2011, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué requisito debe cumplir un operador para ser designado crítico?",
+      "opciones": [
+        "Gestionar al menos una infraestructura calificada como crítica",
+        "Tener más de cien empleados",
+        "Cotizar en un mercado regulado",
+        "Prestar servicios exclusivamente en el extranjero"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13 de la Ley 8/2011 requiere que al menos una infraestructura gestionada tenga consideración de crítica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 8/2011, artículo 13",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué debe incluir el Plan de Seguridad del Operador según el marco de protección de infraestructuras críticas?",
+      "opciones": [
+        "Medidas generales de seguridad para el conjunto de infraestructuras y servicios del operador",
+        "Solo el calendario de vacaciones",
+        "Los datos personales de todos los usuarios",
+        "Una relación de sanciones penales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Ley 8/2011 obliga al operador crítico a elaborar el plan conforme al contenido reglamentario.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, artículo 13",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué propiedades de los datos y servicios debe proteger la seguridad de redes y sistemas de información según el RDL 12/2018?",
+      "opciones": [
+        "Disponibilidad, autenticidad, integridad y confidencialidad",
+        "Únicamente el tamaño y formato",
+        "Exclusivamente la propiedad intelectual",
+        "Solo la ubicación física del servidor"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.b define la seguridad como capacidad de resistir acciones que comprometan esas propiedades.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto-ley 12/2018, artículo 3.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-12257"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué principio exige el Esquema Nacional de Seguridad al diseñar la seguridad de los sistemas?",
+      "opciones": [
+        "Gestión integral de la seguridad a lo largo del ciclo de vida",
+        "Seguridad solo en la fase de compra",
+        "Acceso anónimo para cualquier usuario",
+        "Uso exclusivo de controles físicos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El ENS aplica principios básicos de seguridad integral y gestión continua a los sistemas dentro de su ámbito.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 311/2022, artículos 5 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué órgano aprueba los Planes Estratégicos Sectoriales conforme al artículo 11 de la Ley 8/2011?",
+      "opciones": [
+        "La Comisión Nacional para la Protección de las Infraestructuras Críticas",
+        "El Grupo de Trabajo Interdepartamental",
+        "El operador crítico de cada sector",
+        "La Delegación del Gobierno de cada provincia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Comisión Nacional es competente para aprobar los Planes Estratégicos Sectoriales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, artículo 11.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Quién propone a la Comisión Nacional la designación de operadores críticos?",
+      "opciones": [
+        "El Consejo de Ministros",
+        "La policía autonómica competente en cada demarcación",
+        "El propio operador mediante declaración responsable",
+        "El Grupo de Trabajo Interdepartamental"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 11.2 atribuye la propuesta de designación al Grupo de Trabajo Interdepartamental.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, artículo 11.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿A quién corresponde elaborar los Planes Estratégicos Sectoriales?",
+      "opciones": [
+        "A la Comisión Nacional en exclusiva",
+        "Al Delegado de Seguridad de cada infraestructura",
+        "Al Grupo de Trabajo Interdepartamental",
+        "A cada empresa proveedora de servicios"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 12.2 asigna esta elaboración al Grupo de Trabajo Interdepartamental.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, artículo 12.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Con qué periodicidad mínima deben los operadores críticos actualizar los datos de sus infraestructuras aportados al Catálogo?",
+      "opciones": [
+        "No deben actualizarlos una vez aportados",
+        "Anualmente y también cuando lo requiera el Ministerio del Interior",
+        "Cada cinco años exclusivamente",
+        "Solo cuando cambie la titularidad del operador"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 13.1.a fija actualización anual y, en todo caso, a requerimiento del Ministerio del Interior.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, artículo 13.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué plan corresponde elaborar a todo operador crítico en el ámbito general de sus instalaciones o sistemas?",
+      "opciones": [
+        "El Plan de Seguridad del Operador",
+        "El Plan Estratégico Sectorial de todo su sector",
+        "El Plan Nacional de Protección de las Infraestructuras Críticas",
+        "El Plan de Apoyo Operativo policial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Ley 8/2011, artículo 13.1.c, impone elaborar el Plan de Seguridad del Operador conforme al desarrollo reglamentario.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, artículo 13.1.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué documento se elabora específicamente para cada infraestructura crítica identificada?",
+      "opciones": [
+        "Un Plan Estratégico Sectorial individual",
+        "Un Plan de Seguridad del Operador por cada instalación menor",
+        "Un informe anual de la Comisión Nacional",
+        "Un Plan de Protección Específico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Reglamento aprobado por el Real Decreto 704/2011, artículo 13.2.d, exige un Plan de Protección Específico por cada infraestructura crítica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, Real Decreto 704/2011, artículo 13.2.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué órganos/designaciones de seguridad debe nombrar un operador crítico de acuerdo con el Real Decreto 704/2011?",
+      "opciones": [
+        "Un agente de policía de enlace en cada sede",
+        "Únicamente un responsable de protección de datos",
+        "Un Responsable de Seguridad y Enlace para el operador y un Delegado de Seguridad por infraestructura crítica",
+        "Un Delegado de Seguridad por operador y un Responsable por cada sector"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 13.2.e y f del reglamento contempla al Responsable de Seguridad y Enlace y al Delegado de Seguridad para cada infraestructura crítica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, Real Decreto 704/2011, artículo 13.2.e y f",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Cuál es la finalidad de los Planes de Apoyo Operativo según el artículo 30 del Real Decreto 704/2011?",
+      "opciones": [
+        "Regular las funciones de la seguridad privada",
+        "Recoger medidas concretas que las Administraciones Públicas ponen en marcha en apoyo de los operadores críticos",
+        "Sustituir los planes empresariales del operador",
+        "Clasificar públicamente las infraestructuras críticas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 30.1 define esos planes como documentos operativos de medidas de las Administraciones Públicas en apoyo de los operadores críticos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, Real Decreto 704/2011, artículo 30.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Cuál es el objeto del Plan Nacional de Protección de las Infraestructuras Críticas según el artículo 16 del Reglamento?",
+      "opciones": [
+        "Mantener seguras las infraestructuras españolas que proporcionan servicios esenciales a la sociedad",
+        "Coordinar exclusivamente la seguridad privada de edificios comerciales",
+        "Aprobar sanciones a los operadores críticos",
+        "Establecer las plantillas de las Fuerzas y Cuerpos de Seguridad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.1 del Real Decreto 704/2011 describe el plan como instrumento estatal dirigido a mantener seguras las infraestructuras que prestan servicios esenciales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, Real Decreto 704/2011, artículo 16.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T15-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "infraestructuras-criticas-ciberseguridad",
+      "temaNumero": 15,
+      "enunciado": "¿Qué enfoque de protección debe contemplar el Plan de Protección Específico?",
+      "opciones": [
+        "Únicamente vigilancia presencial permanente",
+        "Solo medidas informáticas, nunca físicas",
+        "Medidas uniformes sin atender a riesgos ni amenazas",
+        "Medidas permanentes y medidas temporales graduadas cuando proceda por el nivel o amenaza"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 25.4 del Real Decreto 704/2011 exige que el plan prevea medidas permanentes y temporales graduadas, según activación del Plan Nacional o comunicación de amenaza.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 8/2011, de 28 de abril, de protección de las infraestructuras críticas, y Real Decreto 704/2011, de 20 de mayo, Real Decreto 704/2011, artículo 25.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

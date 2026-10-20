@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "geografia-humana-demografia-medio-ambiente",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Geografía humana, población y medio ambiente · Tema 32",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T32-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Cómo define el INE la tasa bruta de natalidad?",
+      "opciones": [
+        "Nacimientos del año por cada 1.000 habitantes del ámbito considerado",
+        "Nacimientos por cada 100 mujeres en edad fértil",
+        "Defunciones por cada 1.000 habitantes",
+        "Diferencia entre nacimientos y defunciones, sin relación con población"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La metodología del INE define la tasa bruta de natalidad como nacimientos del año por cada 1.000 habitantes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Metodología de Indicadores Demográficos Básicos, apartado 4.1.1.1",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué expresa el saldo vegetativo de una población?",
+      "opciones": [
+        "La diferencia entre inmigraciones y emigraciones",
+        "La diferencia entre nacimientos y defunciones",
+        "El número de habitantes por kilómetro cuadrado",
+        "El porcentaje de población extranjera"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El INE define el saldo vegetativo como la diferencia entre nacimientos y defunciones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Estadística de defunciones y nacimientos, concepto de saldo vegetativo",
+        "url": "https://www.ine.es/dyngs/Prensa/EDES_EMN2025.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Cómo se calcula la tasa bruta de natalidad en los indicadores demográficos del INE?",
+      "opciones": [
+        "Nacimientos por cada mil habitantes en un periodo",
+        "Nacimientos por cada cien mujeres",
+        "Defunciones por cada mil nacimientos",
+        "Población extranjera por cada mil hogares"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La metodología del INE define la tasa bruta de natalidad como nacimientos por mil habitantes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, tasa bruta de natalidad",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué expresa la tasa bruta de mortalidad?",
+      "opciones": [
+        "Defunciones por cada mil habitantes durante el periodo",
+        "Defunciones por cada cien nacimientos",
+        "Nacimientos por cada mil mujeres",
+        "Saldo de migraciones por cien habitantes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El indicador relaciona las defunciones ocurridas con la población media y se expresa por mil habitantes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, tasa bruta de mortalidad",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Cómo se obtiene el saldo vegetativo de una población?",
+      "opciones": [
+        "Restando defunciones a nacimientos",
+        "Sumando inmigración y emigración",
+        "Restando población menor de la adulta",
+        "Dividiendo nacimientos por matrimonios"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El saldo vegetativo es la diferencia entre nacimientos y defunciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "INE, Estadística de defunciones y nacimientos, saldo vegetativo",
+        "url": "https://www.ine.es/dyngs/Prensa/EDES_EMN2025.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué representa el saldo vegetativo positivo?",
+      "opciones": [
+        "Que hubo más nacimientos que defunciones en el periodo",
+        "Que hubo más emigración que inmigración",
+        "Que la población no tuvo movimientos",
+        "Que todas las edades aumentaron por igual"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El saldo es positivo cuando los nacimientos superan las defunciones.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Estadística de defunciones y nacimientos, saldo vegetativo",
+        "url": "https://www.ine.es/dyngs/Prensa/EDES_EMN2025.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué población usa el INE como denominador de las tasas brutas demográficas?",
+      "opciones": [
+        "La población media del periodo de referencia, conforme a la metodología del indicador",
+        "Solo las personas nacidas ese año",
+        "Únicamente la población extranjera",
+        "El número de hogares censados"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tasa bruta utiliza la población media del periodo como base de cálculo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, metodología general",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué unidad se utiliza normalmente para expresar las tasas brutas de natalidad y mortalidad?",
+      "opciones": [
+        "Por mil habitantes",
+        "Porcentaje de hogares",
+        "Por cien nacimientos",
+        "Por millón de municipios"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Los indicadores demográficos brutos se expresan por mil habitantes.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, tasas brutas",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué diferencia describe el crecimiento vegetativo frente al crecimiento migratorio?",
+      "opciones": [
+        "El vegetativo depende de nacimientos y defunciones; el migratorio, de entradas y salidas de población",
+        "El vegetativo mide solo turismo; el migratorio, solo edades",
+        "Ambos son sinónimos",
+        "El vegetativo incluye solo cambios de domicilio dentro de una vivienda"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El saldo vegetativo se calcula con nacimientos y defunciones; los movimientos migratorios se contabilizan separadamente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Estadística de defunciones y nacimientos e Indicadores Demográficos Básicos",
+        "url": "https://www.ine.es/dyngs/Prensa/EDES_EMN2025.htm"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué permite comparar una tasa demográfica estandarizada por población?",
+      "opciones": [
+        "La frecuencia relativa del fenómeno teniendo en cuenta el tamaño de población de referencia",
+        "El número absoluto de municipios",
+        "La superficie forestal sin población",
+        "El total de hogares sin periodo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las tasas relacionan eventos con una población de exposición y permiten comparar poblaciones de distinto tamaño.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, metodología general",
+        "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "Según el glosario censal del INE, ¿qué población se utiliza como base del indicador de dependencia juvenil?",
+      "opciones": [
+        "La población menor de 20 años respecto de la población de 20 a 59 años",
+        "La población de 0 a 14 años respecto de toda la población",
+        "La población mayor de 64 años respecto de la población activa",
+        "La población extranjera respecto de la población española"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El INE define ese indicador como la proporción de población menor de 20 años respecto de la población de 20 a 59 años residente en el territorio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Glosario del Censo de Población y Viviendas: dependencia, estructura demográfica y migraciones",
+        "url": "https://www.ine.es/censo/es/glosario.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Cómo define el INE el indicador de dependencia senil de su glosario censal?",
+      "opciones": [
+        "Mayores de 65 años respecto de la población menor de 16",
+        "Mayores de 59 años respecto de la población de 20 a 59 años",
+        "Mayores de 80 años respecto de la población total",
+        "Mayores de 64 años respecto de menores de 16"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El indicador de dependencia senil del glosario del Censo compara a la población mayor de 59 años con la población de 20 a 59 años.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Glosario del Censo de Población y Viviendas: dependencia, estructura demográfica y migraciones",
+        "url": "https://www.ine.es/censo/es/glosario.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "En el concepto de tasa de dependencia del INE, ¿qué grupo integra la población potencialmente dependiente?",
+      "opciones": [
+        "De 16 a 64 años",
+        "De 18 a 65 años",
+        "Menor de 16 o mayor de 64 años",
+        "Menor de 18 o mayor de 67 años"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La metodología de Indicadores Demográficos Básicos del INE suma la población menor de 16 y la mayor de 64 y la relaciona con la población de 16 a 64 años.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Concepto de tasa de dependencia",
+        "url": "https://www.ine.es/DEFIne/concepto.htm?c=5098"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué expresa el índice de envejecimiento en la metodología de indicadores demográficos del INE?",
+      "opciones": [
+        "El número de defunciones por cada mil nacimientos",
+        "La diferencia entre inmigración y emigración",
+        "La población total dividida por el número de municipios",
+        "La proporción de población mayor de una edad de referencia sobre el total"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El INE define el índice de envejecimiento como el porcentaje que representa la población mayor de una edad determinada sobre la población total a 1 de enero.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos, índice de envejecimiento",
+        "url": "https://www.ine.es/metodologia/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué significa el saldo migratorio de un ámbito en las estadísticas demográficas?",
+      "opciones": [
+        "Inmigraciones menos emigraciones",
+        "Nacimientos menos defunciones",
+        "Población residente menos población censada",
+        "Emigraciones más defunciones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El saldo migratorio representa la diferencia entre inmigraciones y emigraciones en el ámbito y periodo definidos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos: indicadores migratorios",
+        "url": "https://www.ine.es/metodologia/metodologia_idb.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué relaciona la densidad de población?",
+      "opciones": [
+        "La superficie territorial con el número de municipios",
+        "El número de habitantes con una unidad de superficie",
+        "Los nacimientos con las defunciones",
+        "La población activa con la inactiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La densidad demográfica expresa cuántos habitantes corresponden a una unidad de superficie, habitualmente habitantes por kilómetro cuadrado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Glosario del Censo de Población y Viviendas: dependencia, estructura demográfica y migraciones",
+        "url": "https://www.ine.es/censo/es/glosario.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿A qué fecha se refiere la población empleada por el INE en la definición de tasa de dependencia?",
+      "opciones": [
+        "Al 31 de diciembre del año anterior",
+        "Al día central del censo decenal",
+        "Al 1 de enero del año de referencia",
+        "A la fecha de publicación de los resultados"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El concepto del INE especifica la población del ámbito a 1 de enero del año concreto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "INE, Concepto de tasa de dependencia",
+        "url": "https://www.ine.es/DEFIne/concepto.htm?c=5098"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Cómo se expresa la tasa de dependencia definida por el INE?",
+      "opciones": [
+        "En habitantes por kilómetro cuadrado",
+        "Como diferencia absoluta de personas",
+        "En tantos por mil de nacimientos",
+        "En tanto por ciento"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cociente entre las poblaciones dependiente y de 16 a 64 años se expresa en tanto por cien, según la definición del INE.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Concepto de tasa de dependencia",
+        "url": "https://www.ine.es/DEFIne/concepto.htm?c=5098"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "En demografía, ¿qué describe la estructura por edades de una población?",
+      "opciones": [
+        "La distribución de sus habitantes por grupos de edad",
+        "Solo el reparto de población entre municipios",
+        "La composición de los hogares según ingresos",
+        "La diferencia anual entre entradas y salidas migratorias"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La estructura por edades describe cómo se distribuye la población entre grupos etarios; es la base de indicadores como dependencia y envejecimiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "INE, Glosario del Censo de Población y Viviendas: dependencia, estructura demográfica y migraciones",
+        "url": "https://www.ine.es/censo/es/glosario.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T32-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "geografia-humana-demografia-medio-ambiente",
+      "temaNumero": 32,
+      "enunciado": "¿Qué dos componentes demográficos distinguen los indicadores del INE al estudiar el crecimiento de la población?",
+      "opciones": [
+        "Natalidad y superficie municipal",
+        "Crecimiento vegetativo y crecimiento migratorio",
+        "Mortalidad infantil y densidad urbana",
+        "Población activa y ocupación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La metodología del INE trata por separado los sucesos naturales (nacimientos y defunciones) y los movimientos migratorios, que permiten distinguir crecimiento vegetativo y migratorio.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "INE, Indicadores Demográficos Básicos: crecimiento de población y movimientos migratorios",
+        "url": "https://www.ine.es/dynt3/metadatos/RespuestaDatos.html?oper=33"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "administracion-general-estado-gobierno",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Administración General del Estado y Gobierno",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "AGE-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "Según el artículo 1 de la Ley 50/1997, ¿qué función ejerce el Gobierno?",
+      "opciones": [
+        "La función jurisdiccional y la potestad constituyente",
+        "La función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes",
+        "La potestad legislativa ordinaria en exclusiva",
+        "La dirección de las Cortes Generales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1.1 establece que el Gobierno ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 1.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Quiénes componen el Gobierno conforme al artículo 1.2 de la Ley 50/1997?",
+      "opciones": [
+        "El Presidente, los Vicepresidentes en su caso y los Ministros",
+        "El Presidente, los Secretarios de Estado y los Subsecretarios",
+        "El Rey, el Presidente y los Presidentes autonómicos",
+        "El Presidente, los Ministros y los Delegados del Gobierno"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La composición legal comprende al Presidente, al Vicepresidente o Vicepresidentes, en su caso, y a los Ministros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 1.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué relación funcional atribuye la Ley 50/1997 al Presidente del Gobierno?",
+      "opciones": [
+        "Dirige la acción del Gobierno y coordina las funciones de sus demás miembros",
+        "Sustituye a los Ministros en la gestión directa de cada departamento",
+        "Preside necesariamente todas las comisiones parlamentarias",
+        "Aprueba por sí solo todas las normas con rango de ley"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.1 dispone que el Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestión.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 2.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "Si existe un Vicepresidente que asume la titularidad de un Departamento Ministerial, ¿qué condición ostenta además?",
+      "opciones": [
+        "Secretario de Estado",
+        "Ministro",
+        "Subsecretario",
+        "Presidente de una Comisión Delegada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3.2 establece que el Vicepresidente que asuma la titularidad de un Departamento Ministerial ostentará además la condición de Ministro.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 3.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Quién ejerce la potestad reglamentaria en las materias propias de un Departamento Ministerial?",
+      "opciones": [
+        "El Ministro titular del Departamento",
+        "El Secretario de Estado en todo caso",
+        "El Consejo de Estado",
+        "El Delegado del Gobierno"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.1.b atribuye a los Ministros el ejercicio de la potestad reglamentaria en las materias propias de su Departamento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 4.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué órgano colegiado del Gobierno puede aprobar los proyectos de ley y acordar su remisión a las Cortes Generales?",
+      "opciones": [
+        "La Comisión General de Secretarios de Estado y Subsecretarios",
+        "El Consejo de Ministros",
+        "El Consejo de Estado",
+        "La Comisión Delegada del Gobierno para Asuntos Económicos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La Ley 50/1997, artículo 5.1.a, atribuye al Consejo de Ministros la aprobación de los proyectos de ley y su remisión al Congreso o, en su caso, al Senado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 5.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿A quién corresponde aprobar el Proyecto de Ley de Presupuestos Generales del Estado según la Ley del Gobierno?",
+      "opciones": [
+        "Al Consejo de Ministros",
+        "Al Presidente del Gobierno mediante decreto",
+        "Al Tribunal de Cuentas",
+        "A las Comisiones Delegadas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.b atribuye al Consejo de Ministros aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 5.1.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Cuál de estas normas puede aprobar el Consejo de Ministros conforme al artículo 5.1.c?",
+      "opciones": [
+        "Un Real Decreto-ley",
+        "Una sentencia firme",
+        "Una ley orgánica por sí mismo",
+        "Una reforma constitucional sin intervención parlamentaria"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.c incluye la aprobación de los Reales Decretos-leyes y los Reales Decretos Legislativos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 5.1.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué actuación corresponde al Consejo de Ministros respecto de tratados internacionales?",
+      "opciones": [
+        "Acordar su negociación y firma, así como su aplicación provisional",
+        "Ratificarlos definitivamente sin intervención del Rey ni de las Cortes",
+        "Anularlos por orden ministerial",
+        "Interpretarlos con carácter jurisdiccional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.d atribuye al Consejo de Ministros acordar la negociación y firma de tratados internacionales, así como su aplicación provisional, con los límites constitucionales aplicables.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 5.1.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "AGE-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "En relación con los estados de alarma y excepción, ¿qué competencia recoge el artículo 5.1.f de la Ley 50/1997?",
+      "opciones": [
+        "El Consejo de Ministros los declara y propone al Congreso la declaración del estado de sitio",
+        "El Presidente declara por sí solo los tres estados",
+        "El Congreso declara los estados de alarma y excepción a propuesta del Rey",
+        "El Consejo de Estado declara la alarma y el Senado la excepción"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.f atribuye al Consejo de Ministros declarar los estados de alarma y excepción, y proponer al Congreso de los Diputados la declaración del estado de sitio.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 50/1997, del Gobierno, artículo 5.1.f",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué contenido consta en el acta de una sesión del Consejo de Ministros?",
+      "opciones": [
+        "Tiempo y lugar, asistentes, acuerdos adoptados e informes presentados",
+        "Las deliberaciones íntegras de cada miembro",
+        "Las opiniones particulares y votos informales",
+        "Únicamente el orden del día"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.4 limita el acta a las circunstancias de tiempo y lugar, asistentes, acuerdos e informes presentados.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 18.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Quién fija el orden del día del Consejo de Ministros?",
+      "opciones": [
+        "El Ministro de Hacienda",
+        "El Secretario del Consejo por iniciativa propia",
+        "El Congreso de los Diputados",
+        "El Presidente del Gobierno"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 18.3 atribuye al Presidente del Gobierno la fijación del orden del día.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 18.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Quién actúa como secretario en las reuniones del Consejo de Ministros?",
+      "opciones": [
+        "El Ministro de Justicia",
+        "El titular de la Secretaría de Estado de Comunicación",
+        "El Ministro de la Presidencia",
+        "El Vicepresidente primero necesariamente"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Conforme al artículo 18.1, el Ministro de la Presidencia actúa como secretario del Consejo de Ministros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 18.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué dos tipos de carácter pueden tener las reuniones del Consejo de Ministros?",
+      "opciones": [
+        "Ordinario o constitucional",
+        "Decisorio o deliberante",
+        "Público o electoral",
+        "Judicial o administrativo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 18.2 indica que las reuniones pueden tener carácter decisorio o deliberante.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 18.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué prevé el artículo 19 sobre las funciones administrativas del Consejo de Ministros?",
+      "opciones": [
+        "Pueden delegarse en Comisiones Delegadas del Gobierno a propuesta del Presidente, con las excepciones legales",
+        "Se delegan siempre en las comunidades autónomas",
+        "No pueden delegarse nunca",
+        "Se delegan en el Congreso por mayoría simple"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 19 permite delegar funciones administrativas en Comisiones Delegadas a propuesta del Presidente, excepto las expresamente excluidas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 19",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Cuándo cesa el Gobierno conforme al artículo 21?",
+      "opciones": [
+        "Solo cuando lo acuerda el Consejo de Ministros",
+        "Al finalizar cada año presupuestario",
+        "Cuando cesa un ministro",
+        "Tras elecciones generales, pérdida de confianza parlamentaria conforme a la Constitución, o dimisión o fallecimiento del Presidente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 21 recoge esas causas de cese del Gobierno.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 21.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué ocurre con el Gobierno cesante hasta la toma de posesión del nuevo?",
+      "opciones": [
+        "Se convierte en comisión parlamentaria",
+        "Mantiene todas las competencias sin limitación",
+        "Continúa en funciones con las limitaciones establecidas legalmente",
+        "Queda disuelto sin posibilidad de actuar"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 21.2 dispone que el Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno, con limitaciones legales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 21.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué acto no puede realizar el Presidente del Gobierno en funciones salvo casos de urgencia debidamente acreditados o interés general expreso?",
+      "opciones": [
+        "Coordinar a los miembros del Gobierno",
+        "Proponer al Rey la disolución del Congreso, del Senado o de las Cortes Generales",
+        "Presidir una reunión del Consejo de Ministros",
+        "Gestionar asuntos ordinarios del Gobierno"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 21.4.a impide al Presidente en funciones proponer la disolución de las Cámaras, salvo las excepciones previstas en la ley.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 21.4.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué limitación establece la Ley del Gobierno al Presidente en funciones respecto de una cuestión de confianza?",
+      "opciones": [
+        "No puede proponerla al Congreso de los Diputados",
+        "Debe proponerla obligatoriamente cada mes",
+        "Puede plantearla sin limitación",
+        "Solo puede hacerlo con autorización del Senado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 21.4.b prohíbe al Presidente del Gobierno en funciones proponer al Congreso una cuestión de confianza.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 21.4.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T5-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "administracion-general-estado-gobierno",
+      "temaNumero": 5,
+      "enunciado": "¿Qué regla general establece el artículo 22 para la iniciativa legislativa del Gobierno?",
+      "opciones": [
+        "Todos los proyectos se presentan directamente por cada ministro sin procedimiento común",
+        "El Consejo de Estado redacta los proyectos de ley en exclusiva",
+        "La iniciativa del Gobierno no puede dar lugar a proyectos de ley",
+        "La elaboración de anteproyectos y proyectos se ajusta a los principios y procedimiento establecidos en la Ley del Gobierno"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 22 regula la iniciativa legislativa del Gobierno y el procedimiento para elaborar anteproyectos y proyectos de ley.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 50/1997, de 27 de noviembre, del Gobierno, artículo 22",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

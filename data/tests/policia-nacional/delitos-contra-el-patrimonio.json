@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "delitos-contra-el-patrimonio",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Delitos contra el patrimonio · Tema 18",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en el Código Penal consolidado en el BOE. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "CP18-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué elemento subjetivo exige el artículo 234 para el hurto?",
+      "opciones": [
+        "Ánimo de lucro",
+        "Ánimo de causar lesiones",
+        "Finalidad de alterar un documento público",
+        "Intención de impedir una actuación judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 234 describe el hurto como tomar cosas muebles ajenas sin voluntad del dueño y con ánimo de lucro.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 234",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué límite cuantitativo utiliza el artículo 234.1 para la pena de prisión prevista en el tipo básico de hurto?",
+      "opciones": [
+        "Que exceda de 50 euros",
+        "Que el valor de lo sustraído exceda de 400 euros",
+        "Que alcance exactamente 1.000 euros",
+        "El artículo no contempla cuantía alguna"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 234.1 prevé esa pena de prisión si la cuantía de lo sustraído excede de 400 euros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 234",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué diferencia central establece el artículo 237 entre hurto y robo?",
+      "opciones": [
+        "El hurto exige violencia y el robo no",
+        "El robo solo puede recaer sobre bienes inmuebles",
+        "El robo implica fuerza en las cosas para acceder o abandonar el lugar, o violencia o intimidación en las personas",
+        "El hurto exige que el valor supere los 400 euros en todos los casos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 237 caracteriza el robo por fuerza en las cosas en los términos legales o por violencia o intimidación en las personas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 237",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Cuál de estas circunstancias enumera el artículo 238 como fuerza en las cosas a efectos del robo?",
+      "opciones": [
+        "La mera ocultación de la identidad",
+        "La ausencia del propietario",
+        "El ánimo de lucro",
+        "El escalamiento"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 238 enumera, entre otros supuestos, el escalamiento como circunstancia del robo con fuerza en las cosas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 238",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "Según el artículo 242.1, ¿qué tipo de robo se sanciona en ese apartado?",
+      "opciones": [
+        "Robo con violencia o intimidación en las personas",
+        "Hurto de uso de vehículo exclusivamente",
+        "Daños por imprudencia",
+        "Apropiación indebida de cosa recibida en depósito"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 242.1 prevé la pena para el robo con violencia o intimidación en las personas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 242",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué relación causa efecto exige el artículo 248 para la estafa?",
+      "opciones": [
+        "Cualquier mentira, aunque no cause error ni perjuicio",
+        "Engaño bastante que produce error e induce a un acto de disposición perjudicial, con ánimo de lucro",
+        "La toma de una cosa mueble ajena sin ánimo de lucro",
+        "El daño fortuito a un bien propio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 248 exige ánimo de lucro, engaño bastante, error, acto de disposición y perjuicio propio o ajeno.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 248",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué situación describe el artículo 253 como apropiación indebida?",
+      "opciones": [
+        "Tomar por primera vez una cosa ajena sin voluntad del dueño",
+        "Engañar para que otra persona realice una compra perjudicial",
+        "Apropiarse en perjuicio de otro de bienes muebles recibidos en depósito, comisión, custodia u otro título que obligue a entregarlos o devolverlos",
+        "Dañar una cosa propia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 253 requiere que el bien se hubiera recibido bajo título que impone obligación de entrega o devolución y que exista apropiación en perjuicio de otro.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 253",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Cómo define el artículo 263.1 el delito de daños básico?",
+      "opciones": [
+        "Destruir exclusivamente bienes públicos",
+        "Dañar una cosa propia sin perjuicio ajeno",
+        "Sustraer una cosa mueble con ánimo de lucro",
+        "Causar daños en propiedad ajena no comprendidos en otros títulos del Código"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 263.1 se refiere a causar daños en propiedad ajena no comprendidos en otros títulos del Código Penal.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 263",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "Una persona recibe un objeto en custodia y, en perjuicio de su dueño, lo hace suyo en vez de devolverlo. ¿Qué figura se relaciona directamente con el artículo 253?",
+      "opciones": [
+        "Apropiación indebida",
+        "Hurto, porque nunca recibió legítimamente el bien",
+        "Robo con fuerza",
+        "Daños imprudentes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 253 contempla la apropiación de bienes previamente recibidos en custodia u otro título con obligación de devolverlos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 253",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP18-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "Una persona se apodera de una cosa mueble ajena tras amenazar a quien la tiene, empleando esa intimidación al cometer el hecho. ¿Qué calificación básica contempla el artículo 237?",
+      "opciones": [
+        "Hurto",
+        "Robo",
+        "Daños",
+        "Apropiación indebida"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 237 incluye el apoderamiento con ánimo de lucro de cosa mueble ajena mediante violencia o intimidación en las personas dentro del robo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 237",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué conducta describe el artículo 243 como extorsión?",
+      "opciones": [
+        "Obligar, con ánimo de lucro y mediante violencia o intimidación, a realizar u omitir un acto o negocio jurídico en perjuicio patrimonial",
+        "Apoderarse sin violencia de una cosa mueble ajena",
+        "Recibir una cosa en depósito y devolverla tarde",
+        "Ocultar bienes sin afectar a un acreedor"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 243 contempla el ánimo de lucro y el uso de violencia o intimidación para obligar a realizar u omitir un acto o negocio jurídico con perjuicio patrimonial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 243",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué supuesto contempla el artículo 245.2?",
+      "opciones": [
+        "Entrar en cualquier vivienda con autorización del titular",
+        "Adquirir un inmueble mediante contrato válido",
+        "Impedir temporalmente el acceso a una finca pública",
+        "Ocupar sin autorización un inmueble ajeno que no constituya morada o mantenerse en él contra la voluntad de su titular"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El apartado 2 tipifica la ocupación sin autorización de inmueble, vivienda o edificio ajenos que no constituyan morada, o permanecer contra la voluntad del titular.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 245.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué elemento caracteriza la estafa del artículo 248?",
+      "opciones": [
+        "Violencia para apoderarse inmediatamente de un objeto",
+        "Apropiación de algo recibido en depósito",
+        "Ánimo de lucro y engaño bastante que induce a error y causa un acto de disposición perjudicial",
+        "Fuerza en las cosas para acceder a un inmueble"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tipo básico de estafa combina ánimo de lucro, engaño bastante, error y acto de disposición en perjuicio propio o ajeno.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 248",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué conducta informática contempla el artículo 249.1.a como estafa?",
+      "opciones": [
+        "Enviar publicidad electrónica no solicitada",
+        "Manipular indebidamente un sistema o datos y lograr una transferencia no consentida de activo patrimonial en perjuicio ajeno",
+        "Acceder a una red pública sin causar una transferencia",
+        "Borrar datos propios sin perjuicio de otra persona"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 249.1.a comprende la manipulación informática que consigue una transferencia no consentida de activo patrimonial en perjuicio de otro.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 249.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué finalidad caracteriza el alzamiento de bienes del artículo 257.1?",
+      "opciones": [
+        "Eludir el pago de responsabilidades u obligaciones mediante actos de disposición u ocultación patrimonial en perjuicio de acreedores",
+        "Repartir una herencia entre sus titulares",
+        "Obtener un préstamo comunicando datos ciertos",
+        "Vender un bien libre de cargas a precio de mercado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 257 sanciona actos de disposición u ocultación patrimonial realizados en perjuicio de acreedores o para frustrar la eficacia de procedimientos y responsabilidades.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 257.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué elemento excluye la receptación del artículo 298 cuando quien recibe los efectos intervino en el delito previo?",
+      "opciones": [
+        "La receptación solo se aplica si el delito fue leve",
+        "La receptación exige que el bien sea inmueble",
+        "La receptación requiere que el autor denuncie el hecho",
+        "La receptación exige que no haya intervenido en el delito previo como autor o cómplice"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 298.1 requiere conocimiento del delito patrimonial previo y que el receptador no haya intervenido en él como autor o cómplice.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 298.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué conducta contempla el artículo 301 como blanqueo de capitales?",
+      "opciones": [
+        "No declarar un objeto perdido",
+        "Recibir una donación con documentación válida",
+        "Adquirir, poseer, utilizar, convertir o transmitir bienes sabiendo que tienen origen en actividad delictiva, o realizar actos para ocultarlo o ayudar a eludir consecuencias legales",
+        "Comprar bienes de procedencia lícita en una tienda"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 301 recoge esas conductas respecto de bienes con origen delictivo, con conocimiento de ese origen o finalidad de ocultación/ayuda.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 301.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué elemento es propio de la apropiación indebida del artículo 253?",
+      "opciones": [
+        "Dañar deliberadamente un bien propio",
+        "Apropiarse o negar haber recibido dinero o cosa mueble recibidos en depósito, comisión, custodia u otro título que obliga a entregarlos o devolverlos",
+        "Tomar una cosa abandonada sin dueño",
+        "Engañar para que se realice un pago"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 253 se refiere a bienes recibidos bajo títulos que generan obligación de entrega o devolución y a su apropiación o negación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 253",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué regula el artículo 254 en relación con cosas muebles ajenas?",
+      "opciones": [
+        "La apropiación de una cosa mueble ajena fuera de los supuestos del artículo 253",
+        "La apropiación de inmuebles propios",
+        "La sustracción violenta de una persona",
+        "La destrucción de documentos públicos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 254 contempla la apropiación de cosa mueble ajena que no se encuadra en el artículo 253.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 254",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T18-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-el-patrimonio",
+      "temaNumero": 18,
+      "enunciado": "¿Qué relación exige el artículo 298 entre quien recepta los efectos y el delito patrimonial previo?",
+      "opciones": [
+        "Haber sido condenado como autor del delito previo",
+        "Ser propietario legítimo de los efectos",
+        "Desconocer siempre el origen de los efectos",
+        "Conocer su comisión y ayudar a los responsables a aprovecharse de sus efectos, o recibirlos, adquirirlos u ocultarlos, sin haber participado en él"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El precepto exige conocimiento del delito patrimonial, ausencia de participación y una de las conductas de aprovechamiento, recepción, adquisición u ocultación.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 298.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

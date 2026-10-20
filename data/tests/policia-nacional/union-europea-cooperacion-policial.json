@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "union-europea-cooperacion-policial",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "La Unión Europea y la cooperación policial",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "UE-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "Según el artículo 13 del Tratado de la Unión Europea, ¿cuál de las siguientes es una institución de la Unión?",
+      "opciones": [
+        "El Comité Económico y Social Europeo",
+        "El Consejo Europeo",
+        "Europol",
+        "El Comité de las Regiones"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 13 incluye al Consejo Europeo entre las instituciones de la Unión. El Comité Económico y Social Europeo y el Comité de las Regiones son órganos consultivos; Europol es una agencia de la Unión.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Tratado de la Unión Europea, artículo 13.1",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012M013"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Cuál de estas listas recoge únicamente instituciones enumeradas en el artículo 13.1 TUE?",
+      "opciones": [
+        "Parlamento Europeo, Consejo Europeo, Consejo y Comisión Europea",
+        "Europol, Eurojust, Parlamento Europeo y Consejo Europeo",
+        "Consejo de Europa, Comisión Europea, BCE y Tribunal de Cuentas",
+        "Parlamento Europeo, Comité de las Regiones, Comisión y Europol"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13.1 enumera siete instituciones, entre ellas el Parlamento, el Consejo Europeo, el Consejo y la Comisión. Europol y Eurojust no forman parte de esa lista institucional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Tratado de la Unión Europea, artículo 13.1",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012M013"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "Conforme al artículo 13.2 TUE, ¿dentro de qué límites actúa cada institución de la Unión?",
+      "opciones": [
+        "Los límites fijados por el Parlamento Europeo",
+        "Las competencias atribuidas por los Tratados",
+        "Las instrucciones del Consejo Europeo en cada asunto",
+        "Las competencias que cada Estado miembro le delegue caso por caso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 13.2 dispone que cada institución actuará dentro de los límites de las atribuciones que le confieren los Tratados y con arreglo a los procedimientos, condiciones y objetivos establecidos en ellos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Tratado de la Unión Europea, artículo 13.2",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012M013"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué objetivo asigna el Reglamento (UE) 2016/794 a Europol?",
+      "opciones": [
+        "Sustituir a las autoridades policiales nacionales en las investigaciones",
+        "Apoyar y reforzar la actuación de las autoridades competentes y su cooperación mutua frente a determinadas formas de delincuencia",
+        "Ejercer la acusación pública ante los tribunales nacionales",
+        "Dictar normas penales directamente aplicables en los Estados miembros"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3 define a Europol como apoyo y refuerzo de las autoridades competentes y de su cooperación; no le atribuye la sustitución general de las policías nacionales ni funciones de acusación o legislación penal.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 3.1",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "Para el objetivo general del artículo 3.1 del Reglamento de Europol, la delincuencia grave debe afectar, como mínimo, a:",
+      "opciones": [
+        "Dos o más Estados miembros",
+        "Un Estado miembro y un tercer Estado",
+        "Tres instituciones de la Unión",
+        "Dos regiones de un mismo Estado miembro"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1 se refiere a delincuencia grave que afecte a dos o más Estados miembros, además del terrorismo y de ciertas formas de delincuencia que afecten a un interés común protegido por una política de la Unión.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 3.1",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Cuál de estas actividades aparece entre las funciones de Europol?",
+      "opciones": [
+        "Dictar órdenes de detención europeas",
+        "Recoger, conservar, tratar, analizar e intercambiar información, incluida inteligencia criminal",
+        "Imponer sanciones penales a personas investigadas",
+        "Autorizar registros domiciliarios en los Estados miembros"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4.1.a incluye recoger, conservar, tratar, analizar e intercambiar información, incluida inteligencia criminal. Las demás opciones describen potestades coercitivas o jurisdiccionales que no se enumeran ahí.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 4.1.a",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿A través de qué canal debe Europol notificar sin demora a los Estados miembros información y conexiones entre actos delictivos que les afecten?",
+      "opciones": [
+        "A través de las unidades nacionales designadas",
+        "Directamente a los parlamentos nacionales",
+        "Por medio exclusivo del Tribunal de Justicia de la Unión Europea",
+        "A través de las embajadas de los Estados miembros"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.1.b señala que la notificación se realiza a través de las unidades nacionales designadas conforme al artículo 7.2.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 4.1.b",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué debe crear o designar cada Estado miembro conforme al artículo 7.2 del Reglamento de Europol?",
+      "opciones": [
+        "Una unidad nacional que sirva de organismo de enlace entre Europol y las autoridades competentes designadas",
+        "Un tribunal nacional especializado en cooperación policial",
+        "Una oficina de Eurojust dependiente de la Comisión",
+        "Un equipo conjunto de investigación permanente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 7.2 exige a cada Estado miembro crear o designar una unidad nacional que actúe como organismo de enlace entre Europol y las autoridades competentes designadas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 7.2",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Quién determina la organización y el personal de la unidad nacional de Europol?",
+      "opciones": [
+        "Europol mediante decisión vinculante",
+        "La Comisión Europea",
+        "Cada Estado miembro conforme a su Derecho nacional",
+        "El Consejo de Administración de Europol"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 7.4 reserva a cada Estado miembro la determinación de la organización y el personal de su unidad nacional, de acuerdo con su Derecho nacional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 7.4",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "UE-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿En qué contexto puede Europol coordinar, organizar y ejecutar actuaciones de investigación y operativas para respaldar a las autoridades nacionales, según el artículo 4.1.c?",
+      "opciones": [
+        "Solo por decisión propia y sin autoridades nacionales",
+        "Conjuntamente con autoridades competentes nacionales o en equipos conjuntos de investigación",
+        "Únicamente dentro de las fronteras del Estado donde tenga su sede",
+        "Solo cuando exista una sentencia firme"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4.1.c prevé actuaciones junto con autoridades competentes de los Estados miembros o en el contexto de equipos conjuntos de investigación, en su caso en conexión con Eurojust.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/794, artículo 4.1.c",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿En qué ámbito debe Eurojust apoyar y reforzar la cooperación entre autoridades nacionales?",
+      "opciones": [
+        "Investigación y persecución de delitos graves de su competencia que afecten a dos o más Estados miembros o requieran persecución sobre bases comunes",
+        "Resolución de infracciones administrativas locales",
+        "Coordinación de políticas fiscales nacionales",
+        "Gestión de las fronteras exteriores"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.1 del Reglamento 2018/1727 asigna ese apoyo a delitos graves que afecten al menos a dos Estados miembros o requieran bases comunes de persecución.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2018/1727 sobre Eurojust Reglamento (UE) 2018/1727, artículo 2.1",
+        "url": "https://eur-lex.europa.eu/eli/reg/2018/1727/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué puede facilitar Eurojust en materia de cooperación judicial?",
+      "opciones": [
+        "La emisión de sentencias penales nacionales",
+        "La detención automática de sospechosos en cualquier Estado",
+        "La sustitución de fiscales nacionales",
+        "La ejecución de solicitudes y decisiones de cooperación judicial, incluidas las basadas en reconocimiento mutuo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2.2.b prevé facilitar la ejecución de solicitudes y decisiones de cooperación judicial, incluidas las basadas en reconocimiento mutuo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2018/1727 sobre Eurojust Reglamento (UE) 2018/1727, artículo 2.2.b",
+        "url": "https://eur-lex.europa.eu/eli/reg/2018/1727/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué puede hacer Eurojust si dos o más Estados miembros no acuerdan quién debe investigar o perseguir un asunto tras una solicitud?",
+      "opciones": [
+        "Trasladar el asunto al Tribunal Europeo de Derechos Humanos",
+        "Suspender las leyes nacionales aplicables",
+        "Emitir un dictamen escrito sobre el caso",
+        "Imponer una condena penal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 4.2 permite a Eurojust emitir un dictamen escrito si persiste ese desacuerdo entre Estados miembros.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2018/1727 sobre Eurojust Reglamento (UE) 2018/1727, artículo 4.2",
+        "url": "https://eur-lex.europa.eu/eli/reg/2018/1727/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué apoyo puede proporcionar Eurojust a operaciones transfronterizas?",
+      "opciones": [
+        "Sustitución de las autoridades de investigación",
+        "Apoyo operativo, técnico y financiero, incluso a equipos conjuntos de investigación",
+        "Únicamente asistencia consular",
+        "Financiación de cualquier proceso judicial nacional"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4.1.f incluye apoyo operativo, técnico y financiero a operaciones e investigaciones transfronterizas, también equipos conjuntos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2018/1727 sobre Eurojust Reglamento (UE) 2018/1727, artículo 4.1.f",
+        "url": "https://eur-lex.europa.eu/eli/reg/2018/1727/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Con qué red judicial debe cooperar y consultar Eurojust en materia penal?",
+      "opciones": [
+        "La Red Judicial Europea",
+        "La Red Europea de Defensa",
+        "La Agencia Europea de Medio Ambiente",
+        "El Comité de las Regiones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.1.d prevé cooperación y consulta con la Red Judicial Europea en materia penal.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2018/1727 sobre Eurojust Reglamento (UE) 2018/1727, artículo 4.1.d",
+        "url": "https://eur-lex.europa.eu/eli/reg/2018/1727/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué aspecto de la gestión fronteriza debe vigilar la Agencia Europea de la Guardia de Fronteras y Costas?",
+      "opciones": [
+        "Las elecciones municipales en los Estados miembros",
+        "La política fiscal de los países de origen",
+        "Las fronteras internas entre regiones de un Estado",
+        "Los flujos migratorios y los análisis de riesgos de la gestión integrada de fronteras"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 10.1.a del Reglamento 2019/1896 incluye el seguimiento de flujos migratorios y el análisis de riesgos de la gestión integrada de fronteras.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2019/1896 sobre la Guardia Europea de Fronteras y Costas Reglamento (UE) 2019/1896, artículo 10.1.a",
+        "url": "https://eur-lex.europa.eu/eli/reg/2019/1896/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué puede evaluar la Agencia en las fronteras exteriores de los Estados miembros?",
+      "opciones": [
+        "La política educativa regional",
+        "La constitucionalidad de las leyes nacionales",
+        "La vulnerabilidad y la capacidad y preparación para afrontar amenazas y desafíos",
+        "La adecuación de los sistemas fiscales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 10.1.c contempla evaluaciones de vulnerabilidad, incluida la capacidad y preparación ante amenazas en fronteras exteriores.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2019/1896 sobre la Guardia Europea de Fronteras y Costas Reglamento (UE) 2019/1896, artículo 10.1.c",
+        "url": "https://eur-lex.europa.eu/eli/reg/2019/1896/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué debe supervisar la Agencia en sus actividades fronterizas y de retorno?",
+      "opciones": [
+        "Las normas de circulación interior",
+        "El cumplimiento de los derechos fundamentales",
+        "La política monetaria de la Unión",
+        "La actividad de los tribunales nacionales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 10.1.e encomienda vigilar el cumplimiento de los derechos fundamentales en todas las actividades de la Agencia en fronteras y retornos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2019/1896 sobre la Guardia Europea de Fronteras y Costas Reglamento (UE) 2019/1896, artículo 10.1.e",
+        "url": "https://eur-lex.europa.eu/eli/reg/2019/1896/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Qué función desempeña la Agencia respecto de EUROSUR?",
+      "opciones": [
+        "Apoyar su desarrollo y funcionamiento",
+        "Sustituirlo por un sistema judicial",
+        "Gestionar todas las bases de datos nacionales de identidad",
+        "Usarlo para supervisar fronteras internas exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10.1.f incluye apoyar el desarrollo y funcionamiento de EUROSUR.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2019/1896 sobre la Guardia Europea de Fronteras y Costas Reglamento (UE) 2019/1896, artículo 10.1.f",
+        "url": "https://eur-lex.europa.eu/eli/reg/2019/1896/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T4-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "union-europea-cooperacion-policial",
+      "temaNumero": 4,
+      "enunciado": "¿Cómo puede la Agencia ayudar a un Estado miembro que necesita más asistencia operativa en una frontera exterior?",
+      "opciones": [
+        "Asumiendo de forma permanente la competencia nacional",
+        "Suspendiendo el derecho de la Unión",
+        "Mediante decisiones vinculantes sobre sentencias penales",
+        "Coordinando y organizando operaciones conjuntas y prestando asistencia técnica y operativa"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 10.1.g contempla coordinar y organizar operaciones conjuntas y asistir a Estados miembros en circunstancias que requieran mayor apoyo en fronteras exteriores.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2019/1896 sobre la Guardia Europea de Fronteras y Costas Reglamento (UE) 2019/1896, artículo 10.1.g",
+        "url": "https://eur-lex.europa.eu/eli/reg/2019/1896/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

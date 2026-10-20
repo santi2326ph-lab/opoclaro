@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "normativa-prevencion-riesgos-laborales",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Normativa de prevención de riesgos laborales · Tema 25",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T25-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué derecho incluye el artículo 18 de la Ley 31/1995?",
+      "opciones": [
+        "Información y consulta de los trabajadores sobre riesgos y medidas preventivas",
+        "Acceso libre a expedientes médicos de compañeros",
+        "Exención de las obligaciones de prevención",
+        "Sustitución de toda formación por carteles"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18 regula información, consulta y participación de las personas trabajadoras en prevención.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 18",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué regula el artículo 19 de la Ley de Prevención de Riesgos Laborales?",
+      "opciones": [
+        "La vigilancia policial de la vía pública",
+        "La formación de los trabajadores en materia preventiva",
+        "El régimen de jubilación anticipada",
+        "La evaluación disciplinaria anual"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 19 establece el deber de garantizar formación teórica y práctica suficiente y adecuada en prevención.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 19",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué obligación impone el artículo 20 a la organización respecto de emergencias?",
+      "opciones": [
+        "Delegar toda respuesta en servicios externos sin planificación",
+        "Suspender la evaluación de riesgos",
+        "Analizar posibles emergencias y adoptar medidas de primeros auxilios, lucha contra incendios y evacuación",
+        "Mantener los equipos de emergencia bajo llave sin acceso"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 20 requiere analizar situaciones de emergencia y organizar medidas adecuadas, designando personal y comprobando su funcionamiento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué derecho contempla el artículo 21 ante un riesgo grave e inminente?",
+      "opciones": [
+        "Continuar trabajando hasta recibir una orden judicial",
+        "Renunciar al derecho a la protección por escrito",
+        "Trasladar el riesgo a otro trabajador",
+        "Interrumpir la actividad y, si es necesario, abandonar el lugar de trabajo en las condiciones legales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 21 establece medidas y derechos ante riesgo grave e inminente, incluida la interrupción de la actividad en los supuestos previstos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 21",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué debe comunicar el empresario a los trabajadores conforme al artículo 18?",
+      "opciones": [
+        "Los riesgos para la seguridad y salud y las medidas preventivas y de emergencia",
+        "Los diagnósticos médicos individuales",
+        "Solo las normas de vacaciones",
+        "El salario de otros centros"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 18 exige información sobre riesgos y medidas de protección y prevención.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 18",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué características debe tener la formación preventiva del artículo 19?",
+      "opciones": [
+        "Teórica y práctica, suficiente y adecuada",
+        "Solo escrita y voluntaria",
+        "Exclusivamente fuera de jornada y a cargo del trabajador",
+        "Una charla sin relación con el puesto"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 19 exige formación suficiente, adecuada, teórica y práctica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 19",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué medidas de emergencia exige el artículo 20?",
+      "opciones": [
+        "Primeros auxilios, lucha contra incendios y evacuación, según el tamaño y actividad",
+        "Solo contratar vigilancia privada",
+        "Suspender toda actividad de forma permanente",
+        "Delegar la emergencia en clientes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 20 regula medidas de primeros auxilios, incendios y evacuación.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué protección reconoce el artículo 21 ante riesgo grave e inminente?",
+      "opciones": [
+        "Interrumpir la actividad y abandonar el lugar si es necesario, conforme a la ley",
+        "Continuar el trabajo sin aviso",
+        "Renunciar a reclamar",
+        "Esperar una sentencia firme"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 21 reconoce la interrupción de la actividad y, en su caso, el abandono del lugar de trabajo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 21",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué condición regula el artículo 22 para la vigilancia de la salud?",
+      "opciones": [
+        "Respeto a la intimidad, dignidad y confidencialidad de la información médica",
+        "Publicación general de resultados",
+        "Cesión automática de historiales a compañeros",
+        "Realización sin informar al trabajador"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La vigilancia de la salud debe respetar intimidad y confidencialidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 22",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué documentación preventiva enumera el artículo 23?",
+      "opciones": [
+        "Plan, evaluación de riesgos, planificación preventiva y controles de salud previstos legalmente",
+        "Solo facturas de equipos",
+        "Datos de acceso a redes",
+        "Registro de visitas comerciales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 23 lista documentos que el empresario debe elaborar y conservar.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 23",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué protección específica establece el artículo 25 para personas trabajadoras especialmente sensibles?",
+      "opciones": [
+        "El empresario debe garantizar protección específica y tener en cuenta sus características personales o estado biológico conocido",
+        "Se excluyen automáticamente de la actividad laboral",
+        "La empresa debe divulgar su diagnóstico al resto de la plantilla",
+        "Solo tienen protección después de una baja médica"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25 obliga a garantizar protección específica a quienes, por características personales o estado biológico conocido, sean especialmente sensibles.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 25.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué obligación preventiva existe durante el embarazo o la lactancia en relación con riesgos laborales?",
+      "opciones": [
+        "Prohibir toda actividad laboral sin evaluación",
+        "Esperar a que exista daño para la madre o el menor",
+        "Trasladar la evaluación a la trabajadora",
+        "Evaluar la naturaleza, grado y duración de la exposición y adoptar medidas para evitar riesgos para la salud"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 26 prevé evaluación de riesgos y medidas de adaptación de condiciones o tiempo de trabajo cuando exista riesgo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 26.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué restricción recoge el artículo 27 para la protección de menores?",
+      "opciones": [
+        "Aplicar solo las reglas de adultos sin valoración",
+        "Excluir a menores de toda formación preventiva",
+        "Evaluar previamente los puestos que puedan presentar riesgos específicos para su seguridad, salud o desarrollo",
+        "Permitir cualquier tarea si hay autorización familiar"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 27 exige evaluación de puestos antes de que jóvenes menores de dieciocho años se incorporen al trabajo o cuando cambie significativamente sus condiciones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 27.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué regla establece el artículo 28 para la protección preventiva de trabajadores temporales?",
+      "opciones": [
+        "No se les aplica la normativa preventiva",
+        "Deben disfrutar del mismo nivel de protección en seguridad y salud que los restantes trabajadores",
+        "Tienen protección reducida por la duración del contrato",
+        "Solo reciben información si superan seis meses"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 28 exige el mismo nivel de protección en seguridad y salud, cualquiera que sea la duración de la relación o el tipo de contrato.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 28.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué obligación preventiva corresponde a cada trabajador según el artículo 29?",
+      "opciones": [
+        "Velar, según sus posibilidades y formación, por su propia seguridad y por la de quienes puedan verse afectados por su actividad",
+        "Realizar evaluaciones oficiales en nombre del empresario",
+        "Sustituir a los representantes preventivos",
+        "Aceptar siempre instrucciones aunque sean manifiestamente inseguras"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 29.1 obliga a cada trabajador a velar por su seguridad y la de otras personas afectadas por su actividad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 29.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué debe hacer un trabajador con los equipos de protección facilitados?",
+      "opciones": [
+        "Modificarlos para aumentar su rendimiento",
+        "Prestarlos a cualquier persona ajena al centro",
+        "Dejarlos de usar si resultan incómodos, sin comunicarlo",
+        "Utilizarlos correctamente y conforme a las instrucciones recibidas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 29.2 establece el uso correcto de máquinas, herramientas y equipos de protección, conforme a las instrucciones empresariales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 29.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué modalidad preventiva puede organizar el empresario conforme al artículo 30?",
+      "opciones": [
+        "Suprimir el servicio de prevención si la plantilla lo acuerda",
+        "Delegar la responsabilidad legal en la mutua",
+        "Designar uno o varios trabajadores para ocuparse de la actividad preventiva, en los términos previstos legalmente",
+        "Encargar obligatoriamente la prevención a un trabajador sin formación"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 30 prevé que el empresario designe uno o varios trabajadores para ocuparse de la actividad preventiva, sin perjuicio de las demás modalidades admitidas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 30.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué función desempeña el servicio de prevención según el artículo 31?",
+      "opciones": [
+        "Autorizar la apertura de centros de trabajo",
+        "Asesorar y asistir al empresario, a los trabajadores y a sus representantes en materia preventiva",
+        "Imponer sanciones administrativas a la plantilla",
+        "Sustituir a la Inspección de Trabajo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 31 atribuye a los servicios de prevención funciones de asesoramiento y apoyo a la empresa y a las personas trabajadoras y sus representantes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 31.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Sobre qué asuntos deben ser consultados los trabajadores según el artículo 33?",
+      "opciones": [
+        "La planificación y organización del trabajo e introducción de tecnologías en lo relativo a sus consecuencias para seguridad y salud",
+        "La asignación de penas en procesos penales",
+        "La selección de clientes de la empresa",
+        "La gestión de los impuestos personales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 33 contempla la consulta sobre planificación, organización, introducción de tecnologías y otros asuntos con efectos preventivos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 33.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T25-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "normativa-prevencion-riesgos-laborales",
+      "temaNumero": 25,
+      "enunciado": "¿Qué órgano de participación se constituye en empresas o centros de trabajo con 50 o más trabajadores?",
+      "opciones": [
+        "La Comisión Nacional de Seguridad y Salud en el Trabajo",
+        "El Consejo Estatal de Salud Laboral",
+        "El Comité de Empresa en exclusiva",
+        "El Comité de Seguridad y Salud"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 38 define el Comité de Seguridad y Salud como órgano paritario y colegiado de participación en empresas o centros con 50 o más trabajadores.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 38.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

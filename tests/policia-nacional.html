@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Haz un test gratuito y demostrativo de Constitución Española para Policía Nacional. Elige tema, dificultad y modo; revisa cada respuesta con fuente oficial.">
+  <meta name="theme-color" content="#101c31">
+  <link rel="canonical" href="https://opoclaro.santi2326ph.workers.dev/tests/policia-nacional.html">
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/styles.css">
+  <title>Test de Constitución Española para Policía Nacional | OpoClaro</title>
+  <meta property="og:title" content="Test demostrativo de Constitución para CNP | OpoClaro">
+  <meta property="og:description" content="Practica con preguntas propias, explicaciones y referencias verificables. Banco demostrativo; no son preguntas oficiales.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://opoclaro.santi2326ph.workers.dev/tests/policia-nacional.html">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header"><div class="container nav-wrap">
+    <a class="brand" href="../index.html" aria-label="OpoClaro, inicio"><span class="brand-mark" aria-hidden="true">O</span><span>opo<span class="brand-light">claro</span></span></a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="nav-principal"><span class="sr-only">Abrir menú</span><span></span><span></span></button>
+    <nav id="nav-principal" class="main-nav" aria-label="Navegación principal"><a href="../herramientas/calculadora.html">Calculadora</a><a href="../herramientas/planificador.html">Planificador</a><a href="../tests/" aria-current="page">Tests</a><a href="../guias/metodo-de-estudio.html">Guías</a><a class="nav-cta" href="#configuracion">Configurar test <span aria-hidden="true">↗</span></a></nav>
+  </div></header>
+  <main id="contenido">
+    <section class="container page-hero">
+      <p class="breadcrumb"><a href="../index.html">Inicio</a> / <a href="index.html">Tests</a> / Policía Nacional</p>
+      <p class="eyebrow">BANCO DEMOSTRATIVO · 908 PREGUNTAS</p>
+      <h1>Constitución Española<br><em>para Policía Nacional.</em></h1>
+      <p>Preguntas de elaboración propia basadas en fuentes oficiales. El catálogo sigue los 45 temas del programa oficial de la convocatoria 2026; solo se pueden iniciar tests con preguntas disponibles y verificadas.</p>
+    </section>
+    <section class="container page-content">
+      <section class="panel test-setup" id="configuracion" aria-labelledby="setup-title">
+        <h2 id="setup-title">Configura tu test</h2>
+        <p class="panel-intro">Las opciones de cantidad y dificultad se ajustan a las preguntas realmente disponibles.</p>
+        <p id="bank-status" class="test-status" role="status">Cargando el banco de preguntas…</p>
+        <form id="test-setup-form">
+          <div class="field-grid test-fields">
+            <div class="field"><label for="test-opposition">Oposición</label><select id="test-opposition" required disabled><option>Cargando…</option></select></div>
+            <div class="field"><label for="test-topic">Tema</label><select id="test-topic" required disabled><option>Cargando…</option></select></div>
+            <div class="field"><label for="test-count">Número de preguntas</label><select id="test-count" required disabled></select></div>
+            <div class="field"><label for="test-difficulty">Dificultad</label><select id="test-difficulty" required disabled></select></div>
+            <div class="field"><label for="test-mode">Modo</label><select id="test-mode"><option value="practica">Práctica · explicación al responder</option><option value="examen">Examen · corrección al finalizar</option></select></div>
+            <label class="test-timer-toggle" for="test-timer"><input id="test-timer" type="checkbox"> Mostrar cronómetro ascendente</label>
+          </div>
+          <p class="test-source-note">El cronómetro mide el tiempo transcurrido; no fija una duración oficial. <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055" target="_blank" rel="noopener noreferrer">Consultar el temario oficial de la convocatoria 2026 en el BOE ↗</a></p>
+          <button class="button button-dark" id="start-test" type="submit" disabled>Comenzar test <span aria-hidden="true">→</span></button>
+        </form>
+      </section>
+
+      <section id="test-runner" class="panel test-runner" aria-labelledby="question-title" hidden>
+        <div class="test-runner-top"><p id="test-progress-text" class="eyebrow" aria-live="polite"></p><p id="test-clock" class="test-clock" hidden aria-label="Tiempo transcurrido">00:00</p></div>
+        <progress id="test-progress" max="30" value="1" aria-label="Progreso del test"></progress>
+        <h2 id="question-title" class="test-question-title" tabindex="-1"></h2>
+        <div id="answer-options" class="answer-options" role="group" aria-label="Opciones de respuesta"></div>
+        <div id="practice-feedback" class="practice-feedback" aria-live="polite" hidden></div>
+        <div class="test-navigation"><button class="button button-outline" id="previous-question" type="button">← Anterior</button><button class="button button-outline" id="next-question" type="button">Siguiente →</button></div>
+        <div class="test-finish-row"><span id="answered-count" class="form-note"></span><button class="button button-dark" id="finish-test" type="button">Finalizar test</button></div>
+      </section>
+
+      <section id="test-results" class="panel test-results" aria-labelledby="results-title" hidden>
+        <p class="eyebrow">RESULTADO DEL TEST</p><h2 id="results-title" tabindex="-1">Test finalizado</h2>
+        <div id="result-summary" class="result-summary"></div>
+        <p id="result-message" class="panel-intro"></p>
+        <div class="test-result-actions"><button class="button button-dark" id="repeat-test" type="button">Generar otro test <span aria-hidden="true">↻</span></button><button class="button button-outline" id="edit-test-settings" type="button">Cambiar configuración</button></div>
+        <h3 class="review-heading">Respuestas y explicaciones</h3><ol id="answer-review" class="answer-review"></ol>
+      </section>
+
+      <section class="panel history-panel" aria-labelledby="history-title">
+        <div class="history-heading"><div><p class="eyebrow">SOLO EN ESTE NAVEGADOR</p><h2 id="history-title">Tu historial</h2></div><button class="button button-outline button-small" id="clear-history" type="button">Borrar historial</button></div>
+        <p class="storage-note">Guardamos fecha, tema, cantidad y resultado en el almacenamiento local de tu dispositivo. Si borras los datos del sitio, puedes perder el historial.</p>
+        <p id="history-empty" class="test-status">Todavía no has completado ningún test.</p>
+        <ol id="history-list" class="history-list"></ol>
+      </section>
+      <p class="tests-disclaimer">Repaso orientativo elaborado a partir del texto consolidado de la Constitución Española publicado por el BOE. Comprueba siempre la norma vigente y las bases de tu convocatoria.</p>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-main"><a class="brand footer-brand" href="../index.html"><span class="brand-mark">O</span><span>opo<span class="brand-light">claro</span></span></a><p>Herramientas sencillas para estudiar con más claridad.</p><nav aria-label="Navegación del pie"><a href="../herramientas/calculadora.html">Calculadora</a><a href="../herramientas/planificador.html">Planificador</a><a href="index.html">Tests</a><a href="../guias/metodo-de-estudio.html">Guías</a></nav></div><div class="container footer-bottom"><span>© 2026 OpoClaro · Hecho para estudiar mejor</span><span>Gratis y sin registro</span></div></footer>
+  <script src="../assets/site.js" defer></script>
+  <script type="module" src="../assets/tests.js"></script>
+</body>
+</html>

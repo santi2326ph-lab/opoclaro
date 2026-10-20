@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "extranjeria-entrada-circulacion-residencia",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Extranjería: entrada, circulación y residencia · Tema 10",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "EXT-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "Según el artículo 3 de la Ley Orgánica 4/2000, ¿en qué marco gozan los extranjeros de los derechos y libertades del Título I de la Constitución?",
+      "opciones": [
+        "En los términos establecidos en los tratados internacionales, en la Ley Orgánica 4/2000 y en las leyes que regulen cada derecho",
+        "En idénticos términos en todos los casos, sin excepciones ni regulación adicional",
+        "Solo si existe reciprocidad diplomática",
+        "Únicamente cuando tengan residencia permanente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1 remite a los tratados internacionales, a la propia Ley Orgánica y a las leyes que regulen cada derecho; añade como criterio interpretativo general la igualdad en el ejercicio de los derechos que la Ley reconoce.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Por qué lugares debe entrar en España, como regla general, el extranjero que pretenda acceder al territorio?",
+      "opciones": [
+        "Por los puestos habilitados al efecto",
+        "Por cualquier frontera terrestre",
+        "Por el puesto más cercano a su alojamiento",
+        "Por un puesto diplomático español"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.1 exige que la entrada se realice por los puestos habilitados al efecto.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Qué documento debe llevar el extranjero para acreditar su identidad al entrar en España, conforme al artículo 25.1?",
+      "opciones": [
+        "Pasaporte o documento de viaje válido para tal fin",
+        "Únicamente una autorización de residencia española",
+        "Una tarjeta sanitaria europea",
+        "Una carta de invitación en todos los casos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.1 requiere pasaporte o documento de viaje que acredite identidad y sea válido conforme a los convenios internacionales aplicables.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "Además del documento de viaje, ¿qué debe acreditar normalmente la persona extranjera que pretende entrar?",
+      "opciones": [
+        "El objeto y las condiciones de estancia y medios de vida suficientes, o la posibilidad de obtenerlos legalmente",
+        "Una oferta de empleo en todos los casos",
+        "Una residencia previa de cinco años",
+        "La titularidad de una vivienda en España"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.1 prevé presentar los documentos reglamentarios que justifiquen objeto y condiciones de estancia y acreditar medios suficientes o posibilidad de obtenerlos legalmente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Cuál es la regla general de visado prevista en el artículo 25.2 de la Ley Orgánica 4/2000?",
+      "opciones": [
+        "Se precisa visado salvo que un convenio internacional o la normativa de la Unión Europea establezca lo contrario",
+        "El visado se exige sin excepción",
+        "El visado nunca puede exigirse a una persona extranjera",
+        "El visado se sustituye siempre por una autorización municipal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.2 establece la necesidad de visado salvo previsión distinta en convenios internacionales o normativa de la Unión Europea.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿A quién no se aplican los requisitos generales de entrada de los apartados 1 y 2 del artículo 25 cuando solicita protección al entrar en España?",
+      "opciones": [
+        "A quien solicita acogerse al derecho de asilo, cuya concesión se rige por su normativa específica",
+        "A quien solicita un permiso de trabajo",
+        "A quien tenga una oferta de alquiler",
+        "A quien venga por motivos turísticos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.3 excluye esos requisitos para los extranjeros que soliciten acogerse al derecho de asilo en el momento de entrada, remitiendo a su normativa específica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿En qué casos puede autorizarse excepcionalmente la entrada a quien no reúna los requisitos generales del artículo 25?",
+      "opciones": [
+        "Por razones excepcionales humanitarias, de interés público o para cumplir compromisos adquiridos por España",
+        "Siempre que lo solicite una empresa privada",
+        "Cuando lo autorice una autoridad municipal sin más requisitos",
+        "Solo por razones laborales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.4 contempla razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Qué consecuencia prevé el artículo 26.1 para quien tiene vigente una prohibición legal de entrada en España?",
+      "opciones": [
+        "No puede entrar ni obtener visado a tal fin mientras dure la prohibición",
+        "Puede entrar si dispone de pasaporte válido",
+        "Puede obtener visado si acredita medios económicos",
+        "La prohibición solo afecta a la residencia, no a la entrada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 26.1 prohíbe la entrada y la obtención de visado a quienes hayan sido expulsados mientras dure la prohibición o tengan la entrada prohibida por otra causa legal o convenio aplicable.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 26.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Qué documento exime específicamente de visado según el párrafo segundo del artículo 25.2, además de las excepciones de convenios y normativa europea?",
+      "opciones": [
+        "La tarjeta de identidad de extranjero o, excepcionalmente, una autorización de regreso",
+        "El certificado de empadronamiento",
+        "El permiso de conducir",
+        "La tarjeta sanitaria"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.2 dispone que no será exigible visado cuando el extranjero tenga tarjeta de identidad de extranjero o, excepcionalmente, autorización de regreso.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "EXT-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada-circulacion-residencia",
+      "temaNumero": 10,
+      "enunciado": "¿Qué permite el artículo 25.5 respecto de la entrada de extranjeros a quienes no se aplica el régimen comunitario?",
+      "opciones": [
+        "Que las autoridades españolas puedan registrar la entrada para controlar el período de permanencia legal",
+        "Que se les deniegue siempre el acceso al territorio",
+        "Que se sustituya el pasaporte por una declaración verbal",
+        "Que se conceda automáticamente una autorización de residencia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.5 permite registrar esa entrada para controlar el período de permanencia legal en España.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 25.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué tres situaciones de permanencia en España enumera el artículo 29 de la Ley Orgánica 4/2000?",
+      "opciones": [
+        "Visado, asilo y apatridia",
+        "Tránsito, refugio y nacionalidad",
+        "Estancia, residencia temporal y residencia permanente",
+        "Residencia inicial, provisional y definitiva"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 29.1 enumera estancia, residencia temporal y residencia permanente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 29.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Cuál es el período máximo ordinario de la situación de estancia definido en el artículo 30?",
+      "opciones": [
+        "Hasta cinco años",
+        "Menos de seis meses",
+        "Hasta un año",
+        "No superior a noventa días"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 30.1 define estancia como permanencia en España por un período no superior a noventa días.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 30.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "Tras vencer el período de estancia, ¿qué debe obtenerse para continuar en España?",
+      "opciones": [
+        "Una prórroga de estancia o una autorización de residencia",
+        "Una nueva autorización municipal de entrada",
+        "La nacionalidad española",
+        "Un permiso de trabajo aunque no se vaya a trabajar"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 30.2 dispone que, superado el período de estancia, debe obtenerse una prórroga o una autorización de residencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 30.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué duración puede tener la residencia temporal conforme al artículo 31.1?",
+      "opciones": [
+        "Hasta 90 días",
+        "Superior a 90 días e inferior a cinco años",
+        "Exactamente cinco años",
+        "Indefinida desde su concesión inicial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 31.1 fija la residencia temporal como período superior a 90 días e inferior a cinco años.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 31.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué puede hacerse con autorizaciones de residencia temporal de duración inferior a cinco años?",
+      "opciones": [
+        "Prorrogarlas sin solicitud ni evaluación",
+        "Convertirlas automáticamente en permanentes al año",
+        "Renovarlas a petición de la persona interesada, atendiendo a las circunstancias de concesión",
+        "Renovarlas solo por decisión judicial"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 31.1 permite renovar, a petición de la persona interesada, autorizaciones de menos de cinco años atendiendo a las circunstancias que motivaron su concesión.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 31.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué define la residencia permanente en la Ley Orgánica 4/2000?",
+      "opciones": [
+        "Una autorización de trabajo limitada a una campaña",
+        "Una estancia de duración máxima de noventa días",
+        "Una autorización temporal para estudiar",
+        "La autorización para residir indefinidamente en España y trabajar en igualdad de condiciones que los españoles"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 32.1 define la residencia permanente como residencia indefinida y trabajo en igualdad de condiciones que los españoles.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 32.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué período de residencia temporal continuada da, como regla general, derecho a residencia permanente?",
+      "opciones": [
+        "Cinco años",
+        "Dos años",
+        "Tres meses",
+        "Diez años"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 32.2 reconoce el derecho a residencia permanente a quienes hayan tenido residencia temporal durante cinco años de forma continuada.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 32.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué fin debe ser único o principal para tener la consideración de estudiante a efectos del artículo 33?",
+      "opciones": [
+        "Trabajar a jornada completa en cualquier actividad",
+        "Cursar o ampliar estudios o realizar trabajos de investigación o formación no remunerados laboralmente en centros reconocidos",
+        "Solicitar residencia permanente",
+        "Realizar una actividad empresarial por cuenta propia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 33.1 define estudiante por el propósito principal de estudios, investigación o formación no remunerados en centros oficialmente reconocidos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 33.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿A qué período equivale la duración de la autorización de estancia de un estudiante según el artículo 33.2?",
+      "opciones": [
+        "A treinta días",
+        "A cinco años en todos los casos",
+        "Al curso para el que esté matriculado",
+        "Al período de validez del pasaporte"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 33.2 establece que la autorización de estancia tendrá duración igual a la del curso para el que el estudiante esté matriculado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 33.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T10-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "extranjeria-entrada",
+      "temaNumero": 10,
+      "enunciado": "¿Qué cambios deben comunicar al Ministerio del Interior quienes tienen permiso de residencia temporal?",
+      "opciones": [
+        "Solo cambios en la persona empleadora",
+        "Cada desplazamiento entre provincias",
+        "Únicamente cambios en el número de teléfono",
+        "Cambios de nacionalidad, estado civil y domicilio"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 31.5 obliga a comunicar al Ministerio del Interior los cambios de nacionalidad, estado civil y domicilio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, artículo 31.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

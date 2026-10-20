@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "delitos-contra-las-personas",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Derecho Penal: delitos contra las personas · Tema 17",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en el Código Penal consolidado en el BOE. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "CP17-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué pena establece el artículo 138.1 para el homicidio básico?",
+      "opciones": [
+        "Prisión de diez a quince años",
+        "Prisión de uno a cinco años",
+        "Prisión de quince a veinticinco años",
+        "Multa de seis a doce meses"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 138.1 establece para el homicidio prisión de diez a quince años.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 138",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué circunstancia contempla el artículo 139 como constitutiva de asesinato?",
+      "opciones": [
+        "Reincidencia en cualquier infracción administrativa",
+        "Alevosía",
+        "Actuar por imprudencia leve",
+        "Que el autor sea funcionario público"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 139.1 incluye la alevosía entre las circunstancias que, concurriendo en la muerte de otra persona, configuran asesinato.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 139",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué duración de prisión prevé el artículo 139.1 para el asesinato?",
+      "opciones": [
+        "De diez a quince años",
+        "De cinco a diez años",
+        "De quince a veinticinco años",
+        "De veinte a treinta años"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La pena prevista en el artículo 139.1 para el asesinato es prisión de quince a veinticinco años.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 139",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "Según el artículo 147.1, ¿qué requisito distingue las lesiones de menor gravedad del tipo básico de lesiones?",
+      "opciones": [
+        "Que la lesión se produzca siempre con arma",
+        "Que exista ingreso hospitalario superior a una semana",
+        "Que la víctima presente denuncia en 24 horas",
+        "Que la lesión requiera, además de una primera asistencia facultativa, tratamiento médico o quirúrgico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 147.1 exige tratamiento médico o quirúrgico además de una primera asistencia facultativa; el seguimiento facultativo no se considera tratamiento médico por sí solo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 147",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "Conforme al artículo 147.2, ¿qué conducta se sanciona como delito leve de lesiones?",
+      "opciones": [
+        "Causar una lesión que no requiera tratamiento médico o quirúrgico más allá de una primera asistencia facultativa",
+        "Causar necesariamente una pérdida de órgano principal",
+        "Matar a otra persona sin alevosía",
+        "Amenazar con cometer un delito de homicidio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 147.2 contempla la lesión que no alcanza el requisito de tratamiento médico o quirúrgico del apartado 1.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 147",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Cuál de estas circunstancias aparece expresamente en el artículo 139.1 como circunstancia del asesinato?",
+      "opciones": [
+        "Actuar durante el día",
+        "Aumentar deliberada e inhumanamente el dolor del ofendido",
+        "Que el autor carezca de antecedentes penales",
+        "Que el hecho ocurra en lugar público"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 139.1.3.ª recoge el ensañamiento, descrito como aumento deliberado e inhumano del dolor del ofendido.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 139",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué bien jurídico queda directamente afectado por el delito de homicidio del artículo 138?",
+      "opciones": [
+        "La propiedad intelectual",
+        "La seguridad vial exclusivamente",
+        "La vida de otra persona",
+        "La Administración pública"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 138 tipifica la conducta de matar a otro y protege la vida humana independiente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 138",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "Una persona, sin autorización legítima, impide mediante violencia que otra haga algo que la ley no prohíbe. ¿Qué tipo describe el artículo 172.1?",
+      "opciones": [
+        "Hurto",
+        "Estafa",
+        "Allanamiento de morada",
+        "Coacciones"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 172.1 describe como coacción impedir con violencia hacer lo que la ley no prohíbe o compeler a hacer lo que no se quiere.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 172",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "Según el artículo 169, ¿qué caracteriza la amenaza regulada en su apartado 1?",
+      "opciones": [
+        "Anunciar un mal que constituya determinados delitos contra la persona u otros bienes enumerados por la ley",
+        "Comunicar una crítica sin anunciar un mal",
+        "Exigir una conducta mediante engaño patrimonial",
+        "Causar una lesión que siempre requiera cirugía"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 169 regula amenazas de causar un mal constitutivo de determinados delitos enumerados en el propio precepto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 169",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP17-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Cuál es la diferencia esencial entre homicidio y asesinato conforme a los artículos 138 y 139?",
+      "opciones": [
+        "El homicidio solo puede cometerse por imprudencia",
+        "El asesinato requiere que concurra al menos una de las circunstancias específicas del artículo 139.1",
+        "El asesinato nunca implica la muerte de otra persona",
+        "El homicidio exige siempre precio o recompensa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 138 tipifica matar a otro; el artículo 139 añade alguna circunstancia cualificadora tasada, como alevosía, precio, ensañamiento o facilitar/ocultar otro delito.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 139",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué exige el delito de omisión del deber de socorro del artículo 195.1?",
+      "opciones": [
+        "No socorrer a una persona desamparada y en peligro manifiesto y grave pudiendo hacerlo sin riesgo propio ni de terceros",
+        "No ayudar en cualquier disputa privada",
+        "No prestar asistencia médica especializada aunque exista riesgo grave para el auxiliador",
+        "No denunciar un delito ya consumado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 195.1 requiere persona desamparada en peligro manifiesto y grave y posibilidad de socorrer sin riesgo propio ni de terceros.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 195.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "Si no se puede prestar socorro directamente, ¿qué debe hacer quien está impedido para ello?",
+      "opciones": [
+        "Abandonar el lugar sin avisar",
+        "Esperar a que un tercero formule denuncia",
+        "Intervenir por la fuerza en todo caso",
+        "Demandar con urgencia el auxilio ajeno si puede hacerlo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 195.2 sanciona a quien, impedido de prestar socorro, no demande con urgencia auxilio ajeno.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 195.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué condición debe concurrir para apreciar el tipo básico de detención ilegal del artículo 163.1?",
+      "opciones": [
+        "Impedir una conversación durante unos minutos",
+        "Negarse a identificar a un tercero",
+        "Encerrar o detener a otro privándole de libertad, fuera de los casos permitidos por la ley",
+        "Retener un objeto sin autorización"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 163.1 tipifica encerrar o detener a otro privándole de libertad, sin que exista causa legal para ello.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 163.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué elemento caracteriza el secuestro del artículo 164 frente a la detención ilegal básica?",
+      "opciones": [
+        "Que se cometa en un lugar público",
+        "Exigir alguna condición para poner en libertad a la persona",
+        "Que dure menos de una hora",
+        "Que la víctima sea funcionario público"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 164 configura el secuestro cuando la detención ilegal va acompañada de la exigencia de alguna condición para liberar.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 164",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué conducta describe el artículo 174 como tortura cometida por autoridad o funcionario público?",
+      "opciones": [
+        "Someter a una persona a condiciones o procedimientos que, por su naturaleza, duración u otras circunstancias, le ocasionen sufrimientos físicos o mentales para obtener una confesión u otro fin previsto",
+        "Cualquier trato descortés en una dependencia pública",
+        "Una detención legal aunque sea breve",
+        "La imposición de una multa administrativa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 174 define la tortura atendiendo al sujeto cualificado, el sufrimiento y los fines descritos en el precepto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 174.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿A qué persona se aplica el delito de trata del artículo 177 bis?",
+      "opciones": [
+        "A quien facilita una oferta laboral lícita",
+        "A quien ayuda a una persona a viajar con consentimiento y sin explotación",
+        "Solo a quien traslada personas cruzando una frontera estatal",
+        "A quien, dentro o fuera de España, empleando los medios descritos, capta, transporta, traslada, acoge o recibe a una persona con finalidad de explotación"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 177 bis tipifica esas conductas cuando concurren los medios y finalidades de explotación establecidos por el precepto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 177 bis.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué finalidad de explotación aparece expresamente entre las previstas para la trata de seres humanos?",
+      "opciones": [
+        "La participación voluntaria en actividades culturales",
+        "La formación profesional remunerada",
+        "La imposición de trabajo o de servicios forzados, esclavitud o prácticas similares",
+        "La contratación ordinaria con salario y derechos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 177 bis.1 contempla, entre otras finalidades, imponer trabajo o servicios forzados, esclavitud o prácticas similares.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 177 bis.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué describe el artículo 172.1 como coacción?",
+      "opciones": [
+        "Restringir legalmente el acceso a una zona de seguridad",
+        "Impedir con violencia, sin estar legítimamente autorizado, que otro haga lo que la ley no prohíbe u obligarle a hacer lo que no quiere",
+        "Expresar una opinión desagradable sin amenaza",
+        "Incumplir una obligación contractual"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 172.1 define la coacción con esos elementos de violencia, falta de autorización legítima e imposición o impedimento de conducta.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 172.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué caracteriza la amenaza condicional del artículo 169.1?",
+      "opciones": [
+        "Anunciar un mal constitutivo de delito exigiendo una cantidad o imponiendo otra condición, aunque no sea ilícita",
+        "Advertir de un daño accidental sin condición",
+        "Formular una crítica política",
+        "Comunicar una sanción ya impuesta legalmente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 169.1 se refiere a amenazar con un mal constitutivo de delito exigiendo una cantidad o imponiendo condición, aunque no sea ilícita.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 169.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T17-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-contra-las-personas",
+      "temaNumero": 17,
+      "enunciado": "¿Qué regla contiene el artículo 177 respecto de daños adicionales a la integridad moral?",
+      "opciones": [
+        "El delito contra la integridad moral absorbe siempre cualquier otro delito",
+        "Solo se sancionan los daños patrimoniales",
+        "La reparación civil sustituye toda pena",
+        "Las penas por los delitos contra la integridad moral se entienden sin perjuicio de las que correspondan por las lesiones o daños a la vida, integridad física, salud, libertad sexual o bienes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 177 establece que se impondrán las penas correspondientes a los delitos o faltas en que se hayan concretado los daños, además de las del capítulo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 177",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

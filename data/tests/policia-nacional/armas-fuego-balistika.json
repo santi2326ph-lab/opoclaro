@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "armas-fuego-balistika",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Armas de fuego y balística · Tema 42",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T42-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué norma aprueba el Reglamento de Armas español?",
+      "opciones": [
+        "Real Decreto 137/1993, de 29 de enero",
+        "Real Decreto 1428/2003",
+        "Ley Orgánica 2/1986",
+        "Real Decreto 311/2022"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Reglamento de Armas fue aprobado por el Real Decreto 137/1993.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué categoría del Reglamento de Armas comprende, con carácter general, armas de fuego cortas como pistolas y revólveres?",
+      "opciones": [
+        "Segunda categoría",
+        "Primera categoría",
+        "Quinta categoría",
+        "Séptima categoría"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3 del Reglamento de Armas clasifica en la primera categoría las armas de fuego cortas, incluidos pistolas y revólveres.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué armas comprende la categoría 3.ª.1 del Reglamento de Armas?",
+      "opciones": [
+        "Armas largas rayadas deportivas de calibre 5,6 mm (.22), de percusión anular",
+        "Pistolas y revólveres",
+        "Escopetas de caza de cualquier calibre",
+        "Armas blancas de hoja cortante"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.3.1 incluye en esta categoría armas largas rayadas deportivas de calibre 5,6 mm (.22), de percusión anular, tanto de un disparo como de repetición o semiautomáticas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué característica deben tener las armas de aire o gas comprimido para estar en la categoría 3.ª.3?",
+      "opciones": [
+        "Que sean de uso exclusivo militar",
+        "Que su energía cinética en boca exceda de 24,2 julios",
+        "Que tengan siempre ánima lisa",
+        "Que sean de repetición"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La categoría 3.ª.3 comprende armas de aire o gas comprimido cuya energía cinética en boca excede de 24,2 julios.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.3.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué comprende la categoría 5.ª.1?",
+      "opciones": [
+        "Armas blancas y, en general, armas de hoja cortante o punzante que no estén prohibidas",
+        "Pistolas y revólveres",
+        "Armas largas para vigilancia",
+        "Armas acústicas y de salvas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La categoría 5.ª.1 comprende armas blancas y, en general, las de hoja cortante o punzante que no estén prohibidas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.5.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿A qué categoría pertenecen, con carácter general, las ballestas?",
+      "opciones": [
+        "Cuarta",
+        "Quinta",
+        "Sexta",
+        "Séptima"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 3.7.2 incluye expresamente las ballestas en la séptima categoría.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.7.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿En qué categoría sitúa el reglamento las armas acústicas y de salvas?",
+      "opciones": [
+        "Séptima",
+        "Octava",
+        "Novena",
+        "Sexta"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3.8 asigna a la octava categoría las armas acústicas y de salvas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué incluye la categoría 9.ª?",
+      "opciones": [
+        "Armas inutilizadas",
+        "Armas de caza mayor",
+        "Pistolas y revólveres",
+        "Armas de inyección anestésica"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.9 clasifica como novena categoría las armas inutilizadas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.9",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué elemento distingue las armas de categoría 3.ª.2 descritas en el artículo 3?",
+      "opciones": [
+        "Que los bancos de pruebas reconocidos las marquen con punzón de escopeta de caza",
+        "Que sean siempre semiautomáticas",
+        "Que superen 24,2 julios de energía",
+        "Que disparen exclusivamente munición anular"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La categoría 3.ª.2 contempla escopetas y armas largas de ánima lisa o con rayas para facilitar el plomeo, con la marca exigida por un banco de pruebas reconocido.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.3.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué tipo de arma contempla la categoría 7.ª.1?",
+      "opciones": [
+        "Armas de inyección anestésica que lanzan proyectiles para anestesiar animales a distancia",
+        "Armas largas rayadas para caza mayor",
+        "Armas de avancarga",
+        "Armas de fuego cortas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La categoría 7.ª.1 comprende armas capaces de lanzar proyectiles que anestesian a distancia durante algún tiempo a animales para facilitar su captura o control.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, artículo 3.7.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "Según el Reglamento de Armas, ¿qué se considera arma de fuego?",
+      "opciones": [
+        "Un arma portátil con cañón que lance, esté concebida para lanzar o pueda transformarse fácilmente para lanzar un proyectil por combustible propulsor",
+        "Un objeto que solo lanza aire sin cañón",
+        "Toda réplica incapaz de transformarse",
+        "Cualquier instrumento contundente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 del Reglamento define arma de fuego por su condición portátil, cañón y aptitud para lanzar o transformarse fácilmente para lanzar proyectil por propulsor.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículos 2, 3 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué longitud máxima de cañón o longitud total utiliza el Reglamento para definir un arma de fuego corta?",
+      "opciones": [
+        "Cañón de menos de 20 cm y longitud total de 40 cm",
+        "Cañón no superior a 30 cm o longitud total no superior a 60 cm",
+        "Cañón de hasta 60 cm exclusivamente",
+        "Longitud total inferior a 30 cm"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Reglamento define como corta el arma cuyo cañón no exceda de 30 cm o cuya longitud total no exceda de 60 cm.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículos 2, 3 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué distingue un arma de repetición en la definición reglamentaria?",
+      "opciones": [
+        "Dispara repetidamente sin recarga entre disparos",
+        "Se recarga antes de cada disparo introduciendo el cartucho manualmente en la recámara",
+        "Se recarga después de cada disparo mediante un mecanismo accionado por el tirador que introduce un cartucho del depósito en el cañón",
+        "Solo funciona con gas comprimido"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2 define el arma de repetición por su recarga posterior a cada disparo mediante mecanismo manual que alimenta el cañón desde el depósito.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículos 2, 3 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué caracteriza al arma de un solo tiro según el Reglamento?",
+      "opciones": [
+        "Dispone de cargador automático",
+        "Recarga el cartucho por retroceso sin intervención",
+        "Utiliza exclusivamente cartuchos de fogueo",
+        "Carece de depósito y se recarga manualmente antes de cada disparo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Reglamento define el arma de un solo tiro como arma sin depósito de municiones, recargada manualmente antes de cada disparo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículos 2, 3 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué incluye la definición reglamentaria de munición?",
+      "opciones": [
+        "El cartucho completo o sus componentes como vaina, cebo, carga propulsora, bala o proyectil autorizados",
+        "Solo la bala o proyectil",
+        "Únicamente la pólvora",
+        "La funda exterior del arma"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La definición del artículo 2 comprende el cartucho completo y los componentes que enumera, si están autorizados en territorio nacional.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículos 2, 3 y 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué consideración tiene un objeto con apariencia externa de arma de fuego que no puede transformarse en arma?",
+      "opciones": [
+        "Es una imitación o réplica que puede inducir a confusión por su apariencia",
+        "Es necesariamente un arma de fuego corta",
+        "Es un arma de repetición si carece de depósito",
+        "Es un arma de alarma y señales por su aspecto"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Reglamento define la imitación o réplica como objeto que puede inducir a confusión por su apariencia aunque no pueda transformarse en arma.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 137/1993, Reglamento de Armas, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué marcas pueden dejar las estrías del cañón en un proyectil disparado?",
+      "opciones": [
+        "Marcas DNS del cartucho",
+        "Marcas del cargador en el fulminante exclusivamente",
+        "Marcas estriadas asociadas al rayado interior del cañón",
+        "Un patrón idéntico en todos los cañones"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El NIJ explica que el rayado del cañón imprime marcas estriadas en el proyectil y que pueden examinarse comparativamente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "National Institute of Justice, Firearms Examiner Training: identificación y comparación de proyectiles y vainas",
+        "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/firearms-examiner-training/module-11"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué marcas pueden aparecer en el culote de una vaina disparada según la formación del NIJ?",
+      "opciones": [
+        "Marcas de las estrías del cañón",
+        "Una impresión del seguro manual solamente",
+        "Marcas de las miras",
+        "Impresiones de la cara de cierre o del percutor en el iniciador"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El material de formación del NIJ describe impresiones de la cara de cierre y del percutor sobre el iniciador de la vaina.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "National Institute of Justice, Firearms Examiner Training: identificación y comparación de proyectiles y vainas",
+        "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/firearms-examiner-training/module-11"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Para qué se comparan marcas en proyectiles o vainas en un examen forense?",
+      "opciones": [
+        "Para valorar si las muestras pudieron proceder de una misma arma",
+        "Para determinar automáticamente la fecha exacta del disparo",
+        "Para identificar por sí solas a quien disparó",
+        "Para conocer con certeza el motivo del disparo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La comparación de marcas ayuda a evaluar si muestras balísticas se relacionan con la misma arma; no identifica por sí sola al autor ni la motivación.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "National Institute of Justice, Firearms Examiner Training: identificación y comparación de proyectiles y vainas",
+        "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/firearms-examiner-training/module-11"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T42-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "armas-fuego-balistika",
+      "temaNumero": 42,
+      "enunciado": "¿Qué dos tipos de características considera la formación del NIJ al comparar marcas de herramientas?",
+      "opciones": [
+        "Únicamente el calibre nominal",
+        "Características de clase e individuales",
+        "La marca comercial y el color",
+        "La longitud total y el número de licencia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La formación del NIJ explica la consideración de características de clase e individuales en la identificación de marcas de herramientas y armas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "National Institute of Justice, Firearms Examiner Training: identificación y comparación de proyectiles y vainas",
+        "url": "https://nij.ojp.gov/nij-hosted-online-training-courses/firearms-examiner-training/module-11"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

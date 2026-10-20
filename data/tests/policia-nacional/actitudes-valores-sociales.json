@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "actitudes-valores-sociales",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Actitudes y valores sociales · Tema 29",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T29-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué valores superiores proclama el artículo 1.1 de la Constitución Española?",
+      "opciones": [
+        "Libertad, justicia, igualdad y pluralismo político",
+        "Jerarquía, unidad, disciplina y eficacia",
+        "Seguridad, autonomía, solidaridad y legalidad",
+        "Igualdad, neutralidad, mérito y capacidad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.1 enumera libertad, justicia, igualdad y pluralismo político como valores superiores del ordenamiento jurídico.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 1.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué principio enuncia el artículo 10.1 de la Constitución como fundamento del orden político y de la paz social?",
+      "opciones": [
+        "La supremacía de la Administración sobre el individuo",
+        "La dignidad de la persona, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos",
+        "La uniformidad cultural obligatoria",
+        "La prioridad de los intereses económicos sobre los derechos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 10.1 establece expresamente esos fundamentos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 10.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué mandato contiene el artículo 9.2 de la Constitución?",
+      "opciones": [
+        "Promover condiciones para que libertad e igualdad sean reales y efectivas",
+        "Eliminar la participación ciudadana",
+        "Sustituir el pluralismo político",
+        "Restringir la igualdad a la ley civil"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 9.2 encomienda a los poderes públicos promover condiciones de libertad e igualdad reales y efectivas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 9.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "Según el apartado 1.3 de la Declaración de Principios sobre la Tolerancia de la UNESCO, ¿qué sostiene la tolerancia?",
+      "opciones": [
+        "Los derechos humanos, el pluralismo, la democracia y el Estado de derecho",
+        "La obligación de aceptar cualquier conducta, aunque vulnere derechos ajenos",
+        "La sustitución de las leyes por acuerdos culturales informales",
+        "La uniformidad de las opiniones como condición de convivencia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La declaración define la tolerancia como una responsabilidad que sostiene los derechos humanos, el pluralismo (también cultural), la democracia y el Estado de derecho.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Declaración de Principios sobre la Tolerancia de la UNESCO, 1995, apartado 1.3",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué garantiza el artículo 14 de la Constitución?",
+      "opciones": [
+        "Igualdad ante la ley y prohibición de discriminación por causas enumeradas",
+        "Igualdad de resultados económicos",
+        "Privilegios por nacimiento",
+        "Inmunidad frente a toda norma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 14 reconoce igualdad ante la ley y prohíbe discriminación por las causas que recoge.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 14",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué derecho reconoce el artículo 16.1?",
+      "opciones": [
+        "Libertad ideológica, religiosa y de culto, con sus límites constitucionales",
+        "Libertad para incumplir cualquier ley",
+        "Derecho a censurar opiniones",
+        "Obligación de profesar una religión"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 16.1 garantiza esas libertades con el límite del mantenimiento del orden público protegido por la ley.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 16.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué derecho reconoce el artículo 20.1.a?",
+      "opciones": [
+        "Expresar y difundir libremente pensamientos, ideas y opiniones por la palabra, escrito o cualquier medio",
+        "Impedir toda crítica pública",
+        "Acceder a datos secretos sin límite",
+        "Publicar datos íntimos ajenos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 20.1.a reconoce la libertad de expresión y difusión de ideas y opiniones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 20.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué derecho político reconoce el artículo 23.2?",
+      "opciones": [
+        "Acceder en condiciones de igualdad a funciones y cargos públicos con los requisitos legales",
+        "Obtener cualquier cargo sin requisitos",
+        "Votar en toda elección extranjera",
+        "Ejercer funciones judiciales sin nombramiento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 23.2 establece acceso igual a funciones y cargos públicos conforme a los requisitos legales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 23.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué valor superior del ordenamiento proclama el artículo 1.1 además de libertad, justicia e igualdad?",
+      "opciones": [
+        "Pluralismo político",
+        "Uniformidad ideológica",
+        "Secreto de las leyes",
+        "Arbitrariedad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pluralismo político figura entre los cuatro valores superiores del artículo 1.1.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 1.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué deber cívico general establece el artículo 30.1?",
+      "opciones": [
+        "El derecho y deber de defender España",
+        "El deber de afiliarse a un partido",
+        "La obligación de votar en todas las elecciones",
+        "El deber de desempeñar un cargo público"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 30.1 reconoce el derecho y el deber de defender España.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 30.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Cómo define el artículo 1.1 de la Declaración de la UNESCO la tolerancia?",
+      "opciones": [
+        "Respeto, aceptación y aprecio de la diversidad de culturas, formas de expresión y maneras de ser",
+        "La obligación de compartir una única cultura",
+        "La renuncia a las convicciones propias",
+        "La indiferencia ante las diferencias"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La UNESCO define la tolerancia como respeto, aceptación y aprecio de la rica diversidad humana; la fomenta el conocimiento, la apertura y la comunicación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 1.1",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué aclara la Declaración de la UNESCO sobre la tolerancia y las convicciones personales?",
+      "opciones": [
+        "Obliga a adoptar las convicciones mayoritarias",
+        "No exige abandonar ni debilitar las propias convicciones",
+        "Impide expresar creencias personales",
+        "Exige aceptar la injusticia social"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tolerancia permite mantener las propias convicciones y aceptar que otras personas mantengan las suyas, sin imponerlas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 1.4",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Cómo caracteriza la UNESCO la tolerancia en el artículo 1.2?",
+      "opciones": [
+        "Como una concesión de la mayoría a una minoría",
+        "Como una actitud pasiva de indiferencia",
+        "Como una actitud activa inspirada en el reconocimiento de los derechos humanos universales",
+        "Como una renuncia a la libertad de pensamiento"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La Declaración señala que la tolerancia no es concesión ni indulgencia, sino una actitud activa fundada en reconocer los derechos y libertades de los demás.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 1.2",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿La tolerancia significa aceptar la injusticia social según la Declaración de la UNESCO?",
+      "opciones": [
+        "Sí, si la injusticia se considera tradicional",
+        "Sí, cuando se trata de una diferencia cultural",
+        "No, porque exige abandonar las propias convicciones",
+        "No; la Declaración dice expresamente que tolerar no significa aceptar la injusticia social"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 1.4 excluye expresamente que la tolerancia signifique tolerar la injusticia social o abandonar las propias convicciones.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 1.4",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué exige la tolerancia en el nivel estatal según la Declaración de la UNESCO?",
+      "opciones": [
+        "Legislación, aplicación de la ley y procesos judiciales y administrativos justos e imparciales",
+        "Que el Estado imponga una religión oficial",
+        "Que las decisiones se deleguen solo en asociaciones privadas",
+        "Que las normas se apliquen de forma distinta por grupo social"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Declaración indica que la tolerancia a nivel estatal requiere legislación justa e imparcial, aplicación de la ley y procesos judiciales y administrativos equitativos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 2.1",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué oportunidades deben estar disponibles para cada persona, sin discriminación, conforme al artículo 2.1 de la Declaración de la UNESCO?",
+      "opciones": [
+        "Solo oportunidades electorales",
+        "Oportunidades económicas y sociales",
+        "Exclusivamente oportunidades educativas privadas",
+        "Únicamente acceso a servicios de emergencia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2.1 vincula una sociedad tolerante con oportunidades económicas y sociales para cada persona sin discriminación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 2.1",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué formas puede adoptar la intolerancia según el artículo 2.4 de la Declaración de la UNESCO?",
+      "opciones": [
+        "Solo desacuerdo en una conversación",
+        "Únicamente diferencias de opinión política",
+        "Marginación, exclusión de la participación social o política, violencia y discriminación",
+        "La defensa pacífica de convicciones propias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2.4 enumera la marginación de grupos vulnerables, su exclusión de la participación y la violencia o discriminación contra ellos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 2.4",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿En qué ámbitos promueve la UNESCO actitudes de apertura, escucha mutua y solidaridad?",
+      "opciones": [
+        "Únicamente en instituciones judiciales",
+        "Solo en reuniones internacionales",
+        "Exclusivamente en centros educativos formales",
+        "En escuelas y universidades, educación no formal, hogar y lugar de trabajo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 3.2 indica que la promoción de tolerancia y esas actitudes debe producirse en diversos ámbitos formales y cotidianos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNESCO, Declaración de Principios sobre la Tolerancia, artículo 3.2",
+        "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Cómo describe la Carta del Consejo de Europa la educación informal?",
+      "opciones": [
+        "Proceso permanente por el que se adquieren actitudes, valores, habilidades y conocimientos mediante el entorno y la experiencia cotidiana",
+        "Sistema estructurado que conduce necesariamente a una titulación",
+        "Enseñanza impartida solo en centros oficiales",
+        "Formación que ocurre únicamente en el puesto de trabajo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Carta define la educación informal como proceso continuo de aprendizaje a partir del entorno y de experiencias cotidianas, por ejemplo familia, amistades, medios y trabajo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Consejo de Europa, Carta sobre Educación para la Ciudadanía Democrática y Derechos Humanos, sección I.2.e",
+        "url": "https://www.coe.int/en/web/compass/council-of-europe-charter-on-education-for-democratic-citizenship-and-human-rights-education"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T29-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "actitudes-valores-sociales",
+      "temaNumero": 29,
+      "enunciado": "¿Qué objetivo incluye la educación para la ciudadanía democrática en la Carta del Consejo de Europa?",
+      "opciones": [
+        "Limitarse a memorizar normas electorales",
+        "Capacitar para ejercer y defender derechos y responsabilidades, valorar la diversidad y participar activamente en la vida democrática",
+        "Sustituir la participación ciudadana por educación formal",
+        "Fomentar una única forma de expresión cultural"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La Carta relaciona esa educación con derechos, responsabilidades, valoración de la diversidad y participación activa en la vida democrática.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Consejo de Europa, Carta sobre Educación para la Ciudadanía Democrática y Derechos Humanos, sección I.2.a",
+        "url": "https://www.coe.int/en/web/compass/council-of-europe-charter-on-education-for-democratic-citizenship-and-human-rights-education"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

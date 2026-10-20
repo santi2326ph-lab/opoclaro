@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "ministerio-interior",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "El Ministerio del Interior · Tema 7",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "MI-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "Según el Real Decreto 207/2024, ¿qué ámbito forma parte de las competencias del Ministerio del Interior?",
+      "opciones": [
+        "La propuesta y ejecución de la política del Gobierno en materia de seguridad ciudadana",
+        "La dirección de la política monetaria",
+        "La organización de la Administración de Justicia",
+        "La dirección de las Fuerzas Armadas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 atribuye al Ministerio del Interior, entre otras materias, la propuesta y ejecución de la política del Gobierno en seguridad ciudadana.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué función tiene el Ministerio del Interior respecto de las Fuerzas y Cuerpos de Seguridad del Estado?",
+      "opciones": [
+        "El mando superior, dirección y coordinación",
+        "La aprobación de sus sentencias disciplinarias por los tribunales",
+        "La selección de las policías locales",
+        "La dirección de todos los cuerpos autonómicos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 del Real Decreto 207/2024 incluye el mando superior y la dirección y coordinación de las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Cuál de estas materias corresponde también al Ministerio del Interior según el artículo 6 del Real Decreto 207/2024?",
+      "opciones": [
+        "El régimen de protección internacional, apatridia y protección de personas desplazadas",
+        "La concesión de títulos universitarios",
+        "La política exterior y consular general",
+        "La regulación del sistema tributario"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 incluye el régimen de protección internacional, apatridia y protección de personas desplazadas entre las competencias ministeriales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿A quién atribuye el Real Decreto 207/2024 competencias en materia de administración y régimen de las instituciones penitenciarias?",
+      "opciones": [
+        "Al Ministerio del Interior",
+        "Al Ministerio de Asuntos Exteriores",
+        "Al Consejo General del Poder Judicial",
+        "A la Fiscalía General del Estado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 menciona expresamente la administración y régimen de las instituciones penitenciarias.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué competencia electoral recoge el artículo 6 del Real Decreto 207/2024 para el Ministerio del Interior?",
+      "opciones": [
+        "Realizar las actuaciones necesarias para el desarrollo de los procesos electorales",
+        "Convocar por sí mismo elecciones generales",
+        "Proclamar definitivamente los resultados electorales",
+        "Resolver todos los recursos contencioso-electorales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Entre las competencias del Ministerio está realizar las actuaciones necesarias para desarrollar los procesos electorales; la norma no le atribuye las otras funciones descritas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Cuál de estas materias se atribuye al Ministerio del Interior en el Real Decreto 207/2024?",
+      "opciones": [
+        "Tráfico, seguridad vial y movilidad sostenible",
+        "Construcción de infraestructuras ferroviarias",
+        "Aviación civil y navegación aérea",
+        "Ordenación de puertos de interés general"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 incluye las competencias atribuidas en materia de tráfico, seguridad vial y movilidad sostenible.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "Dentro de la estructura del Ministerio del Interior, ¿de qué órgano superior dependen la Dirección General de la Policía y la Dirección General de la Guardia Civil?",
+      "opciones": [
+        "Secretaría de Estado de Seguridad",
+        "Subsecretaría del Interior",
+        "Secretaría General Técnica",
+        "Gabinete del Ministro"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.5.a incluye la Secretaría de Estado de Seguridad como órgano superior y enumera bajo su dependencia a las Direcciones Generales de la Policía y de la Guardia Civil.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 5.5.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Cuál de estos órganos directivos aparece bajo la Secretaría de Estado de Seguridad en el artículo 5 del Real Decreto 207/2024?",
+      "opciones": [
+        "Dirección General de Relaciones Internacionales y Extranjería",
+        "Dirección General de Instituciones Penitenciarias de la Unión Europea",
+        "Dirección General del Tesoro Público",
+        "Dirección General de Tráfico Aéreo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.5.a enumera, entre otros órganos dependientes de la Secretaría de Estado de Seguridad, la Dirección General de Relaciones Internacionales y Extranjería.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 5.5.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué competencia ministerial se relaciona expresamente con la seguridad privada?",
+      "opciones": [
+        "Las que le encomienda la legislación sobre seguridad privada",
+        "La habilitación de empresas de seguridad de todos los países sin excepción",
+        "La prestación directa de servicios privados de vigilancia",
+        "La resolución de conflictos laborales del sector privado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 6 remite a las competencias que la legislación atribuye al Ministerio en materia de seguridad privada, sin convertirlo en prestador privado de esos servicios.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "MI-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué materias de circulación menciona de forma conjunta el artículo 6 del Real Decreto 207/2024?",
+      "opciones": [
+        "Tráfico, seguridad vial y movilidad sostenible",
+        "Transporte marítimo, aviación y ferrocarril",
+        "Obras públicas y carreteras autonómicas exclusivamente",
+        "Movilidad urbana y transporte escolar únicamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La norma enumera conjuntamente tráfico, seguridad vial y movilidad sostenible entre las competencias del Ministerio del Interior.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Con qué organismos y sistemas menciona el artículo 2 la cooperación policial internacional coordinada por la Secretaría de Estado de Seguridad?",
+      "opciones": [
+        "Europol, Interpol, SIRENE, los Sistemas de Información de Schengen y los Centros de Cooperación Policial y Aduanera",
+        "Solo con Europol y la Comisión Europea",
+        "Únicamente con policías locales",
+        "Con el Tribunal Europeo de Derechos Humanos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.1.d cita esos organismos y sistemas en la dirección y coordinación de la cooperación policial internacional.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2.1.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué materias de criminalidad debe impulsar y coordinar la Secretaría de Estado de Seguridad?",
+      "opciones": [
+        "Solo infracciones administrativas de tráfico",
+        "Delitos exclusivamente municipales",
+        "Únicamente delitos cometidos en Internet",
+        "Crimen organizado, terrorismo, trata de seres humanos, tráfico de drogas y blanqueo relacionado, entre otras conexas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2.1.f enumera esas materias de coordinación y dirección del Departamento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2.1.f",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué órgano dirige el Sistema Nacional de Protección de Infraestructuras Críticas dentro del Ministerio?",
+      "opciones": [
+        "La Secretaría General Técnica",
+        "La Dirección General de Política Interior",
+        "La Secretaría de Estado de Seguridad",
+        "La Dirección General de Tráfico"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2.1.m atribuye a la Secretaría de Estado la dirección del Sistema Nacional de Protección de Infraestructuras Críticas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2.1.m",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué competencia asigna el artículo 2 a la Secretaría de Estado en ciberseguridad?",
+      "opciones": [
+        "Sustituir a los CSIRT nacionales",
+        "Dirigir y coordinar las políticas de ciberseguridad dentro de las competencias del Ministerio",
+        "Regular toda la ciberseguridad de las empresas privadas",
+        "Investigar cualquier incidente sin intervención de la Policía Judicial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2.1.n atribuye la dirección y coordinación de las políticas de ciberseguridad en el ámbito competencial del Ministerio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2.1.n",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué debe dirigir e impulsar la Secretaría de Estado respecto de fronteras?",
+      "opciones": [
+        "La gestión integrada de las fronteras y la participación española en la Guardia Europea de Fronteras y Costas",
+        "La gestión de fronteras internas entre comunidades autónomas",
+        "Los controles de tráfico en vías urbanas",
+        "La política de visados de todos los países de la UE"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.1.o contempla la gestión integrada de fronteras, el mando de la participación española en la Guardia Europea y las relaciones con su Agencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2.1.o",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué tarea estadística corresponde a la Dirección General de Coordinación y Estudios?",
+      "opciones": [
+        "Publicar únicamente estadísticas de tráfico",
+        "Elaborar el censo electoral",
+        "Gestionar el Registro Central de Penados",
+        "Desarrollar y gestionar la Estadística Nacional de Criminalidad integrando datos de las Fuerzas y Cuerpos de Seguridad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2.1 de la Dirección General de Coordinación y Estudios atribuye gestionar la estadística de criminalidad con datos estatales, autonómicos y locales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2, Dirección General de Coordinación y Estudios, función 2.ª",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué cooperación policial interior debe coordinar la Dirección General de Coordinación y Estudios?",
+      "opciones": [
+        "La cooperación exclusiva entre cuerpos estatales",
+        "La coordinación de los servicios de emergencias sanitarias",
+        "La actuación de las Fuerzas y Cuerpos de Seguridad del Estado con policías autonómicas y locales en seguridad ciudadana",
+        "La actuación de los órganos judiciales con empresas privadas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2, en las funciones de esa Dirección General, incluye coordinar actuación estatal con policías autonómicas y locales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2, Dirección General de Coordinación y Estudios, función 1.ª",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué canal del Ministerio sirve para la coordinación operativa en incidentes cibernéticos conforme al artículo 2?",
+      "opciones": [
+        "La Secretaría General Técnica",
+        "La Oficina de Coordinación de Ciberseguridad, como punto de contacto nacional y canal entre CSIRT y la Secretaría de Estado",
+        "La Oficina de Comunicación",
+        "La Dirección General de Política Interior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2 atribuye a la OCC funciones de punto de contacto nacional, canal de comunicación entre CSIRT y la Secretaría de Estado y CSIRT de apoyo a Policía Judicial.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 2, Dirección General de Coordinación y Estudios, función 15.ª",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué relación jerárquica tiene la Dirección General de la Policía según la estructura ministerial?",
+      "opciones": [
+        "Depende de la Secretaría de Estado de Seguridad",
+        "Depende de la Subsecretaría del Interior",
+        "Depende directamente de la Dirección General de Tráfico",
+        "Depende de la Secretaría General de Instituciones Penitenciarias"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.5.a sitúa la Dirección General de la Policía entre los órganos directivos dependientes de la Secretaría de Estado de Seguridad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 1.5.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T7-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "ministerio-interior",
+      "temaNumero": 7,
+      "enunciado": "¿Qué función corresponde a la Dirección General de la Policía conforme al artículo 3?",
+      "opciones": [
+        "Dirigir las instituciones penitenciarias",
+        "Gestionar la protección internacional de extranjeros",
+        "Coordinar la seguridad vial y el organismo Jefatura Central de Tráfico",
+        "Ordenar, dirigir, coordinar y ejecutar las misiones encomendadas a la Policía Nacional y ejercer su mando directo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 3 asigna a la Dirección General la ordenación, dirección, coordinación y ejecución de las misiones de Policía Nacional y el mando directo del cuerpo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, artículo 3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "inteligencia-fuentes-abiertas",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Inteligencia y fuentes abiertas · Tema 40",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T40-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué función atribuye la Ley 11/2002 al CNI?",
+      "opciones": [
+        "Facilitar al presidente del Gobierno y al Gobierno información e inteligencia para prevenir y evitar riesgos o amenazas que afecten a la independencia e integridad de España y sus intereses",
+        "Dirigir todos los procedimientos judiciales penales",
+        "Sustituir a las Fuerzas y Cuerpos de Seguridad en cualquier investigación",
+        "Autorizar por sí mismo todas las medidas judiciales de investigación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1 define la función del CNI de obtener, evaluar e interpretar información y difundir inteligencia necesaria para prevenir amenazas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿La obtención de información de fuentes abiertas elimina las obligaciones legales sobre datos personales?",
+      "opciones": [
+        "Sí, cualquier dato publicado queda libre de toda regulación",
+        "No; la procedencia pública de la información no elimina por sí sola las normas de protección de datos y proporcionalidad",
+        "Sí, solo se aplican normas de datos a información secreta",
+        "No, pero únicamente si la información está cifrada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La legislación de protección de datos y las garantías de necesidad y proporcionalidad siguen siendo aplicables según el contexto y finalidad del tratamiento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 7/2021, ámbito y principios del tratamiento policial",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué principio jurídico rige las actividades específicas del CNI?",
+      "opciones": [
+        "Sometimiento al ordenamiento jurídico y habilitaciones legales expresas",
+        "Ausencia de control jurídico",
+        "Autorización genérica sin ley",
+        "Aplicación exclusiva de costumbre"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2 de la Ley 11/2002 somete la actuación del CNI al ordenamiento y a las habilitaciones legales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Quién aprueba anualmente los objetivos del CNI mediante la Directiva de Inteligencia?",
+      "opciones": [
+        "El Gobierno",
+        "El director de cada empresa estratégica",
+        "El Tribunal Supremo",
+        "La Comisión Europea"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3 atribuye al Gobierno la determinación y aprobación anual de los objetivos de inteligencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué debe hacer el CNI con la información necesaria para proteger intereses nacionales?",
+      "opciones": [
+        "Obtenerla, evaluarla e interpretarla y difundir la inteligencia necesaria",
+        "Publicarla íntegramente en internet",
+        "Entregarla a entidades privadas sin límite",
+        "Destruirla al recibirla"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4.a recoge esas tareas de obtención, evaluación, interpretación y difusión de inteligencia.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 4.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Con qué servicios puede promover cooperación el CNI conforme a la Ley 11/2002?",
+      "opciones": [
+        "Servicios de inteligencia de otros países y organismos internacionales",
+        "Solo empresas comerciales españolas",
+        "Únicamente tribunales municipales",
+        "Cualquier usuario de redes sociales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cooperación con servicios extranjeros y organismos internacionales figura en el artículo 4.c.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 4.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué tipo de tráfico de señales puede evaluar e interpretar el CNI para sus objetivos?",
+      "opciones": [
+        "Tráfico de señales de carácter estratégico",
+        "Todo tráfico privado sin límite",
+        "Solo comunicaciones publicitarias",
+        "Únicamente señales de televisión abierta"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 4.d menciona el tráfico de señales de carácter estratégico para los objetivos de inteligencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 4.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué control prevé la Ley 11/2002 sobre la actuación del CNI?",
+      "opciones": [
+        "Control parlamentario y judicial en los términos legales",
+        "Solo control de sus proveedores",
+        "Ningún control externo",
+        "Control exclusivamente municipal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 establece control parlamentario y judicial conforme a la ley.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 11/2002, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué requiere una medida del CNI que afecte a la inviolabilidad del domicilio o al secreto de las comunicaciones?",
+      "opciones": [
+        "Autorización previa del magistrado del Tribunal Supremo competente, si es necesaria para las funciones asignadas",
+        "Solo una autorización interna",
+        "Aprobación de una empresa tecnológica",
+        "Consentimiento de cualquier autoridad local"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La LO 2/2002 requiere solicitar autorización al magistrado competente para esas medidas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/2002, artículo único",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-8627"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿La disponibilidad pública de información personal elimina automáticamente los límites legales a su tratamiento por una autoridad competente?",
+      "opciones": [
+        "No; el tratamiento sigue sujeto a la normativa y principios aplicables",
+        "Sí, toda información pública queda fuera de la ley",
+        "Sí, puede conservarse indefinidamente",
+        "Solo deja de aplicarse la obligación de seguridad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La LO 7/2021 regula tratamiento por autoridades competentes para fines penales y de seguridad, incluido el cumplimiento de principios y condiciones de licitud.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 7/2021, artículos 1 y 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué se entiende por OSINT en la descripción institucional de Europol?",
+      "opciones": [
+        "Recopilar y analizar información procedente de fuentes abiertas para producir inteligencia útil",
+        "Acceder a bases de datos clasificadas sin autorización",
+        "Recoger exclusivamente información de fuentes policiales reservadas",
+        "Publicar datos personales sin analizar"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Europol describe la inteligencia de fuentes abiertas como recolección y análisis de información de fuentes abiertas para generar inteligencia.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Portal de Datos de la Unión Europea, definición de OSINT",
+        "url": "https://data.europa.eu/mt/node/10386"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué paso analítico identifica Europol en la producción de inteligencia cibernética, además de recopilar información?",
+      "opciones": [
+        "Eliminar toda información pública",
+        "Procesarla y analizarla",
+        "Convertirla automáticamente en prueba judicial",
+        "Publicarla íntegra en redes sociales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Europol señala que la información reunida de fuentes públicas, privadas y abiertas se procesa y analiza para enriquecer el conocimiento de las fuerzas del orden.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué variedad de procedencias puede emplearse para generar inteligencia cibernética según Europol?",
+      "opciones": [
+        "Solo documentos judiciales secretos",
+        "Únicamente redes sociales",
+        "Fuentes públicas, privadas y abiertas",
+        "Solo informes de empresas privadas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La página de Europol indica expresamente que la inteligencia cibernética se nutre de una amplia variedad de fuentes públicas, privadas y abiertas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué finalidad atribuye Europol a sus productos de inteligencia cibernética?",
+      "opciones": [
+        "Reemplazar los sistemas judiciales nacionales",
+        "Hacer públicas todas las investigaciones en curso",
+        "Sustituir los análisis de las autoridades competentes",
+        "Mejorar la eficacia de la lucha contra la ciberdelincuencia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Europol afirma que sus productos persiguen ampliar el conocimiento de las fuerzas del orden y hacer más eficaz la lucha contra el cibercrimen.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué objetivo tiene el OSINT Dashboard de Europol?",
+      "opciones": [
+        "Recoger los acontecimientos relevantes recientes del ámbito cibernético",
+        "Identificar automáticamente a todas las personas usuarias de Internet",
+        "Publicar expedientes policiales sin filtrar",
+        "Controlar el tráfico de datos de particulares"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Europol indica que su panel OSINT pretende capturar los principales acontecimientos de la semana en el ámbito cibernético en sentido amplio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué tipo de productos incluye Europol entre sus avisos Cyber Bits?",
+      "opciones": [
+        "Órdenes judiciales de detención",
+        "Notificaciones breves sobre temas relacionados con ciberdelincuencia",
+        "Listas de contraseñas filtradas",
+        "Registros de llamadas de sospechosos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Europol explica que Cyber Bits son notificaciones breves sobre asuntos cibernéticos que buscan sensibilizar y suscitar debate sobre posibles actuaciones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué aporta la inteligencia cibernética al conocimiento de las fuerzas del orden según Europol?",
+      "opciones": [
+        "Sustituye la necesidad de corroborar datos",
+        "Convierte cualquier indicio abierto en prueba concluyente",
+        "Enriquece y amplía la información disponible para la aplicación de la ley",
+        "Elimina la necesidad de respetar la normativa aplicable"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La finalidad descrita es enriquecer y ampliar el repositorio de datos de las fuerzas del orden; no se equipara la información de inteligencia a prueba automática.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué ámbito de actividad refleja el nombre OSINT?",
+      "opciones": [
+        "Fuentes oficiales secretas exclusivamente",
+        "Intercepción de comunicaciones",
+        "Obtención de información mediante acceso ilícito",
+        "Fuentes de información abiertas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "OSINT significa inteligencia de fuentes abiertas; la recopilación debe distinguirse del acceso no autorizado a información restringida.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Portal de Datos de la Unión Europea, definición de OSINT",
+        "url": "https://data.europa.eu/mt/node/10386"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué producto de Europol se describe como una taxonomía común para redes nacionales de respuesta a incidentes?",
+      "opciones": [
+        "Common Taxonomy for the National Network of CSIRTs",
+        "Schengen Information System",
+        "OSINT Dashboard",
+        "Cyber Bits"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Europol enumera entre sus productos una taxonomía común para la red nacional de equipos de respuesta a incidentes de seguridad informática (CSIRTs).",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T40-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "inteligencia-fuentes-abiertas",
+      "temaNumero": 40,
+      "enunciado": "¿Qué ventaja práctica atribuye Europol al uso de inteligencia cibernética?",
+      "opciones": [
+        "Permite omitir la autorización judicial en toda investigación",
+        "Puede apoyar la respuesta policial mediante conocimiento y análisis compartidos",
+        "Garantiza por sí sola la identidad real detrás de cada cuenta",
+        "Hace innecesaria la evaluación de fiabilidad de las fuentes"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Europol presenta sus productos como apoyo analítico para mejorar la actuación contra el cibercrimen, no como sustituto de autorización legal o verificación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Europol, Cyber Intelligence: fuentes abiertas y análisis de inteligencia",
+        "url": "https://www.europol.europa.eu/how-we-work/services-support/intelligence-analysis/cyber-intelligence"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

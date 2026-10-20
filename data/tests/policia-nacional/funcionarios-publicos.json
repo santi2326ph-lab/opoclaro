@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "funcionarios-publicos",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Los funcionarios públicos",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "FP-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Quiénes son empleados públicos conforme al artículo 8.1 del Estatuto Básico del Empleado Público?",
+      "opciones": [
+        "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+        "Todas las personas que realizan cualquier actividad de interés social, aunque no trabajen para una Administración",
+        "Solo los funcionarios de carrera",
+        "Únicamente el personal laboral fijo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.1 define como empleados públicos a quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "EBEP, artículo 8.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Cuál de estas opciones contiene las cuatro clases de empleados públicos del artículo 8.2 EBEP?",
+      "opciones": [
+        "Funcionarios de carrera, interinos, personal laboral y personal eventual",
+        "Funcionarios de carrera, estatutarios, asesores y cargos electos",
+        "Personal fijo, temporal, directivo y honorario",
+        "Funcionarios, jueces, militares y personal eventual"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 8.2 clasifica a los empleados públicos en funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "EBEP, artículo 8.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué caracteriza a la relación de servicio de un funcionario de carrera?",
+      "opciones": [
+        "Nombramiento legal y relación estatutaria regulada por el Derecho Administrativo para servicios profesionales retribuidos permanentes",
+        "Contrato laboral temporal para una necesidad urgente",
+        "Designación política para tareas de confianza",
+        "Contrato mercantil de prestación de servicios"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.1 define al funcionario de carrera por el nombramiento legal, la relación estatutaria de Derecho Administrativo y la prestación profesional retribuida de carácter permanente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "EBEP, artículo 9.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué tipo de necesidad justifica el nombramiento de funcionarios interinos según el artículo 10.1 EBEP?",
+      "opciones": [
+        "Necesidad y urgencia expresamente justificadas",
+        "Una vacante permanente sin necesidad de justificarla",
+        "La mera preferencia del órgano convocante",
+        "La sustitución de todo el personal laboral"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10.1 exige razones expresamente justificadas de necesidad y urgencia y establece que el nombramiento es temporal para funciones propias de funcionarios de carrera en los supuestos legales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "EBEP, artículo 10.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué principios deben regir en todo caso la selección de personal funcionario interino?",
+      "opciones": [
+        "Igualdad, mérito, capacidad, publicidad y celeridad",
+        "Antigüedad, libre designación, confidencialidad y permanencia",
+        "Jerarquía, eficacia y responsabilidad patrimonial",
+        "Mérito, confianza, discrecionalidad y reserva"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10.2 enumera igualdad, mérito, capacidad, publicidad y celeridad para los procedimientos de selección de funcionarios interinos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "EBEP, artículo 10.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "La selección de una persona como funcionaria interina, ¿le reconoce por sí misma la condición de funcionaria de carrera?",
+      "opciones": [
+        "Sí, tras un año de servicios",
+        "Sí, si la selección fue pública",
+        "No; el nombramiento interino no da lugar al reconocimiento de la condición de funcionario de carrera",
+        "Solo cuando exista una plaza vacante"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 10.2 dispone expresamente que el nombramiento derivado del procedimiento de selección de interinos en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "EBEP, artículo 10.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué principios constitucionales rigen el acceso al empleo público según el artículo 55.1 EBEP?",
+      "opciones": [
+        "Igualdad, mérito y capacidad",
+        "Jerarquía, eficacia y coordinación",
+        "Publicidad, transparencia y celeridad exclusivamente",
+        "Antigüedad, mérito y libre designación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 55.1 reconoce el acceso al empleo público conforme a los principios constitucionales de igualdad, mérito y capacidad, junto con el Estatuto y el resto del ordenamiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "EBEP, artículo 55.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "Además de igualdad, mérito y capacidad, ¿qué principio exige el artículo 55.2 para los procesos selectivos?",
+      "opciones": [
+        "Publicidad de las convocatorias y sus bases",
+        "Reserva de todas las actuaciones",
+        "Nombramiento sin publicidad",
+        "Preferencia automática por antigüedad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 55.2 incluye expresamente la publicidad de las convocatorias y de sus bases entre los principios que deben garantizar los procedimientos selectivos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "EBEP, artículo 55.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué requisito forma parte de la adquisición de la condición de funcionario de carrera después de superar el proceso selectivo y recibir el nombramiento?",
+      "opciones": [
+        "Acto de acatamiento de la Constitución y toma de posesión dentro del plazo establecido",
+        "Aprobación del nombramiento por el Consejo de Ministros en todos los casos",
+        "Superación de un periodo mínimo de cinco años como interino",
+        "Inscripción previa en el Registro Civil"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 62.1 establece una secuencia que comprende superar el proceso selectivo, recibir nombramiento publicado, acatar el ordenamiento y tomar posesión dentro del plazo establecido.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "EBEP, artículo 62.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FP-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Cuál de las siguientes es una causa legal de pérdida de la condición de funcionario de carrera?",
+      "opciones": [
+        "La sanción disciplinaria firme de separación del servicio",
+        "El cambio de destino dentro de la Administración",
+        "La finalización de un curso de formación",
+        "La movilidad a otra Administración Pública"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 63 enumera como causa de pérdida la sanción disciplinaria de separación del servicio cuando tenga carácter firme.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "EBEP, artículo 63.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20261003&tn=0"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué criterio determina los puestos que pueden ser desempeñados por personal laboral?",
+      "opciones": [
+        "Las leyes de función pública de desarrollo del EBEP, respetando la reserva de funciones de los funcionarios",
+        "La decisión individual de cada aspirante",
+        "El convenio colectivo sin límite legal",
+        "La clasificación presupuestaria del puesto exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11.2 remite a las leyes de función pública para determinar puestos de personal laboral y exige respetar el artículo 9.2.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 11.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué caracteriza al personal eventual?",
+      "opciones": [
+        "Relación permanente para funciones de autoridad",
+        "Selección por oposición para todas las plazas",
+        "Contrato laboral para necesidades estacionales",
+        "Nombramiento no permanente para funciones expresamente calificadas de confianza o asesoramiento especial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 12 define al personal eventual como nombrado de forma no permanente para funciones expresas de confianza o asesoramiento especial.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 12.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Puede el desempeño de un puesto eventual constituir mérito para acceder a la función pública?",
+      "opciones": [
+        "Sí, si lo acuerda el órgano de selección",
+        "Solo para promoción interna",
+        "No, la condición de personal eventual no constituye mérito para el acceso ni para la promoción interna",
+        "Sí, siempre que dure más de un año"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 12.4 establece expresamente que la condición de personal eventual no puede constituir mérito para el acceso o la promoción interna.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 12.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué principios deben orientar la designación del personal directivo profesional?",
+      "opciones": [
+        "Libre designación sin evaluación",
+        "Mérito y capacidad, con criterios de idoneidad y procedimientos que garanticen publicidad y concurrencia",
+        "Confianza personal exclusivamente",
+        "Antigüedad sin convocatoria pública"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 13.2 establece mérito, capacidad e idoneidad, mediante procedimientos con publicidad y concurrencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 13.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Cómo se evalúa la gestión del personal directivo profesional?",
+      "opciones": [
+        "Con criterios de eficacia y eficiencia, responsabilidad de gestión y control de resultados respecto de objetivos",
+        "Solo por antigüedad",
+        "Mediante votación de los usuarios",
+        "No está sujeta a evaluación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13.3 prevé evaluación conforme a eficacia, eficiencia, responsabilidad de gestión y control de resultados.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 13.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué principios rigen la selección de personal laboral en las Administraciones Públicas según el artículo 11.3 del EBEP?",
+      "opciones": [
+        "Publicidad, igualdad, mérito y capacidad; para el personal temporal, también celeridad",
+        "Libre designación y confianza",
+        "Antigüedad y disponibilidad presupuestaria exclusivamente",
+        "Igualdad y capacidad, sin publicidad ni mérito"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11.3 exige procedimientos públicos regidos por igualdad, mérito y capacidad; en personal laboral temporal añade el principio de celeridad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, texto refundido del Estatuto Básico del Empleado Público, artículo 11.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué regla establece el artículo 12.3 del EBEP para el cese del personal eventual?",
+      "opciones": [
+        "El cese es libre y, en todo caso, se produce cuando cesa la autoridad a cuya función de confianza o asesoramiento está vinculado",
+        "El cese solo puede acordarse mediante expediente disciplinario",
+        "El personal eventual adquiere estabilidad al cumplir dos años",
+        "El cese requiere autorización judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 12.3 dispone que el nombramiento y cese son libres y que, en todo caso, el cese se produce cuando cesa la autoridad a la que se presta la función.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, texto refundido del Estatuto Básico del Empleado Público, artículo 12.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué relación tienen los empleados públicos con los puestos de trabajo conforme al artículo 73?",
+      "opciones": [
+        "Los puestos se atribuyen siempre por elección ciudadana",
+        "Desempeñan puestos conforme a los sistemas de ordenación y provisión establecidos por las normas de cada Administración",
+        "Pueden escoger cualquier puesto sin procedimiento",
+        "Solo los funcionarios de carrera pueden ocupar puestos de trabajo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 73 regula el desempeño y agrupación de puestos de trabajo según las normas de ordenación de cada Administración.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 73",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué finalidad tiene la planificación de recursos humanos del artículo 69?",
+      "opciones": [
+        "Contribuir a la eficacia en la prestación de servicios y a la eficiencia en el uso de recursos humanos",
+        "Garantizar ascensos automáticos",
+        "Reducir toda formación continua",
+        "Sustituir la oferta de empleo público por designación directa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 69.1 establece como objetivos de la planificación la eficacia en servicios y eficiencia en uso de recursos, dimensionando efectivos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 69.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T6-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "funcionarios-publicos",
+      "temaNumero": 6,
+      "enunciado": "¿Qué instrumento puede incluir la planificación de recursos humanos?",
+      "opciones": [
+        "Únicamente una relación de sanciones",
+        "Solo el calendario anual de vacaciones",
+        "Una lista de aspirantes sin relación con puestos",
+        "Análisis de disponibilidades y necesidades, previsiones sobre sistemas de organización, movilidad, formación y promoción interna"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 69.2 enumera medidas de planificación como análisis de necesidades, movilidad, promoción interna, formación y provisión.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 69.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

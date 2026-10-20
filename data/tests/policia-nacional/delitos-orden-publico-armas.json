@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "delitos-orden-publico-armas",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Delitos contra el orden público y armas · Tema 19",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T19-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué conducta describe el artículo 550 del Código Penal como atentado?",
+      "opciones": [
+        "Agredir o, con violencia o intimidación grave, oponer resistencia grave a autoridad, agente o funcionario en los supuestos legales",
+        "Desobedecer cualquier instrucción privada",
+        "Reunirse pacíficamente en vía pública",
+        "Portar cualquier objeto cotidiano"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 550 define el atentado en relación con autoridades, agentes y funcionarios en ejercicio de sus funciones o con ocasión de ellas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 550",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué tipo de oposición contempla el artículo 556 respecto de autoridad o agentes en funciones?",
+      "opciones": [
+        "Cualquier discrepancia verbal leve",
+        "Resistencia o desobediencia grave que no alcance los supuestos del atentado del artículo 550",
+        "Solo resistencia contra particulares",
+        "Únicamente la negativa a identificarse ante seguridad privada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 556 tipifica resistencia o desobediencia grave fuera de los supuestos del artículo 550.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 556",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué elemento caracteriza a una organización criminal en el artículo 570 bis?",
+      "opciones": [
+        "Reunión ocasional de dos personas sin plan común",
+        "Asociación inscrita que realiza actividades lícitas",
+        "Agrupación de más de dos personas, estable o por tiempo indefinido, que actúa concertadamente para cometer delitos",
+        "Cualquier grupo de personas reunidas en un lugar público"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 570 bis define organización criminal con pluralidad superior a dos, estabilidad o duración indefinida y concierto para cometer delitos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 570 bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué norma contiene los tipos penales de tenencia ilícita de armas que se estudian en este tema?",
+      "opciones": [
+        "Ley 8/2011, artículos 563 a 565",
+        "Ley Orgánica 4/2015, artículos 563 a 565",
+        "Ley de Enjuiciamiento Criminal, artículos 563 a 565",
+        "Código Penal, artículos 563 a 565"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El temario recoge los artículos 563 a 565 del Código Penal sobre tenencia de armas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 563",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Cómo define el artículo 570 ter el grupo criminal?",
+      "opciones": [
+        "Grupo de funcionarios creado por ley",
+        "Unión de más de dos personas con finalidad de cometer delitos que no reúne alguna característica de organización criminal",
+        "Asociación registrada para fines culturales",
+        "Reunión de dos personas sin finalidad delictiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 570 ter define el grupo criminal por su pluralidad y finalidad delictiva, diferenciándolo de la organización criminal del 570 bis.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 570 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué conducta recoge el artículo 564 sobre armas de fuego reglamentadas?",
+      "opciones": [
+        "La posesión de herramientas domésticas",
+        "La fabricación de uniformes",
+        "La tenencia sin las licencias o permisos necesarios, en los casos descritos",
+        "El transporte autorizado con licencia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 564 tipifica supuestos de tenencia de armas de fuego reglamentadas sin las licencias o permisos exigidos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 564",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué tipo de objetos se incluyen entre las armas prohibidas del artículo 563?",
+      "opciones": [
+        "Cualquier utensilio de cocina",
+        "Todo objeto metálico",
+        "Cualquier réplica de juguete",
+        "Armas prohibidas conforme a la normativa, con los requisitos de tipicidad desarrollados por la jurisprudencia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 563 se refiere a armas prohibidas; su aplicación debe atender a la norma y a los requisitos jurisprudenciales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 563",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué conducta relativa a explosivos contempla el artículo 568?",
+      "opciones": [
+        "Fabricación, comercialización o depósito no autorizados de armas, municiones o explosivos en los términos penales",
+        "La compra de material de seguridad homologado",
+        "La tenencia de bengalas de señalización permitidas",
+        "La custodia administrativa de armas intervenidas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 568 tipifica actividades no autorizadas sobre armas, municiones o explosivos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 568",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué artículo sanciona la tenencia de armas prohibidas?",
+      "opciones": [
+        "520",
+        "563",
+        "147",
+        "234"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 563 se ocupa específicamente de la tenencia de armas prohibidas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 563",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué elemento diferencia la organización criminal del grupo criminal?",
+      "opciones": [
+        "La organización solo existe para delitos leves",
+        "No existe diferencia legal",
+        "La organización reúne las notas de estabilidad o concertación estructurada que describe el artículo 570 bis; el grupo del 570 ter carece de alguna de ellas",
+        "El grupo criminal debe tener más miembros que una organización"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los artículos 570 bis y 570 ter establecen figuras distintas en atención a los elementos de organización y estabilidad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículos 570 bis y 570 ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué tipo de conducta describe el artículo 551 como circunstancia agravante del atentado?",
+      "opciones": [
+        "Cometerlo haciendo uso de armas u otros objetos peligrosos",
+        "Realizar una protesta pacífica autorizada",
+        "No atender una notificación administrativa",
+        "Desobedecer una instrucción privada ajena al servicio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 551.1.º eleva la pena cuando el atentado se comete haciendo uso de armas u otros objetos peligrosos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 551.1.º",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué caracteriza el delito de desórdenes públicos del artículo 557.1?",
+      "opciones": [
+        "Reunirse pacíficamente en un espacio público",
+        "Desobedecer una orden civil sin gravedad",
+        "Dañar una cosa propia fuera de un contexto colectivo",
+        "Actuar en grupo y con finalidad de atentar contra la paz pública ejecutando violencia o intimidación en los supuestos legales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 557.1 exige actuación en grupo, finalidad de atentar contra la paz pública y actos de violencia o intimidación en las formas previstas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 557.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué lugar se incluye expresamente en el artículo 558 para la perturbación grave del orden?",
+      "opciones": [
+        "Cualquier conversación privada",
+        "Un recinto cerrado de uso exclusivamente familiar",
+        "La audiencia de un tribunal o juzgado",
+        "Un domicilio particular sin actividad pública"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 558 menciona, entre otros, la audiencia de un tribunal o juzgado, actos públicos, colegios electorales y centros docentes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 558",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué pena prevé el tipo básico del artículo 563 para la tenencia de armas prohibidas?",
+      "opciones": [
+        "Inhabilitación de seis meses",
+        "Prisión de uno a tres años",
+        "Multa de uno a tres días",
+        "Prisión permanente revisable"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 563 establece prisión de uno a tres años para la tenencia de armas prohibidas o armas reglamentadas modificadas sustancialmente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 563",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué supuesto de tenencia regula el artículo 564.1?",
+      "opciones": [
+        "Tener armas de fuego reglamentadas sin las licencias o permisos necesarios",
+        "Tener un arma reglamentada con licencia vigente",
+        "Poseer un arma de juguete",
+        "Transportar material deportivo sin arma"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 564.1 tipifica la tenencia de armas de fuego reglamentadas careciendo de las licencias o permisos necesarios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 564.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué elemento puede determinar una modalidad más grave del artículo 564.2?",
+      "opciones": [
+        "Que el arma esté guardada descargada",
+        "Que la licencia esté próxima a renovarse",
+        "Que el arma tenga funda homologada",
+        "Que el arma carezca de marcas de fábrica o de número, o tenga estos alterados o borrados"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 564.2 contempla circunstancias como carecer de marcas de fábrica o número, o tenerlos alterados o borrados.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 564.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué conducta sobre explosivos recoge el artículo 568?",
+      "opciones": [
+        "Informar a la policía de un artefacto sospechoso",
+        "Guardar productos domésticos de limpieza",
+        "Fabricar, comercializar, transportar, tener o almacenar sustancias o aparatos explosivos sin autorización o infringiendo las normas",
+        "Usar material pirotécnico autorizado conforme a sus condiciones"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 568 comprende, sin autorización o contraviniendo las normas, fabricar, comercializar, transportar, tener o almacenar explosivos y otros medios descritos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 568",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Cuántas personas integran, como mínimo, el grupo criminal definido en el artículo 570 ter?",
+      "opciones": [
+        "Cinco, necesariamente",
+        "Más de dos",
+        "Dos exactamente",
+        "Una persona con antecedentes"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 570 ter define el grupo criminal como la unión de más de dos personas que, sin reunir alguna característica de la organización criminal, persigue concertadamente cometer delitos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 570 ter.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué elemento estructural caracteriza a la organización criminal del artículo 570 bis?",
+      "opciones": [
+        "Agrupación de más de dos personas con carácter estable o por tiempo indefinido y reparto concertado de tareas para cometer delitos",
+        "Reunión ocasional de dos personas sin fin delictivo",
+        "Grupo temporal dedicado a una actividad lícita",
+        "Asociación vecinal con reparto de funciones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 570 bis define organización criminal por pluralidad superior a dos, estabilidad o duración indefinida, reparto concertado de tareas y finalidad delictiva.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 570 bis.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T19-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "delitos-orden-publico-armas",
+      "temaNumero": 19,
+      "enunciado": "¿Qué diferencia básica separa el grupo criminal de la organización criminal según el artículo 570 ter?",
+      "opciones": [
+        "El grupo debe ser más numeroso que la organización",
+        "El grupo solo puede cometer delitos leves",
+        "La organización carece siempre de reparto de tareas",
+        "El grupo no reúne alguna o algunas de las características que definen la organización criminal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 570 ter define el grupo por no reunir alguna o algunas características de la organización criminal del artículo anterior.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 570 ter.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "convocatoria": "BOE-A-2026-15055",
+  "fuenteTemario": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055",
+  "fechaRevision": "2026-10-20",
+  "oposiciones": [
+    {
+      "id": "policia-nacional",
+      "nombre": "Policía Nacional · Escala Básica",
+      "temas": [
+        {
+          "id": "tema-01",
+          "numero": 1,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "El Derecho y la persona",
+          "archivo": "policia-nacional/derecho-persona.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-02",
+          "numero": 2,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "La Constitución Española (I)",
+          "archivo": "policia-nacional/constitucion-espanola.json",
+          "preguntas": 28
+        },
+        {
+          "id": "tema-03",
+          "numero": 3,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "La Constitución Española (II)",
+          "archivo": "policia-nacional/constitucion-espanola.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-04",
+          "numero": 4,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "La Unión Europea y la cooperación policial",
+          "archivo": "policia-nacional/union-europea-cooperacion-policial.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-05",
+          "numero": 5,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Administración General del Estado y Gobierno",
+          "archivo": "policia-nacional/administracion-general-estado-gobierno.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-06",
+          "numero": 6,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Los funcionarios públicos",
+          "archivo": "policia-nacional/funcionarios-publicos.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-07",
+          "numero": 7,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "El Ministerio del Interior",
+          "archivo": "policia-nacional/ministerio-interior.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-08",
+          "numero": 8,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "La Dirección General de la Policía y la Policía Nacional",
+          "archivo": "policia-nacional/direccion-general-policia.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-09",
+          "numero": 9,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Fuerzas y Cuerpos de Seguridad",
+          "archivo": "policia-nacional/fuerzas-cuerpos-seguridad.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-10",
+          "numero": 10,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Extranjería: entrada, circulación y residencia",
+          "archivo": "policia-nacional/extranjeria-entrada.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-11",
+          "numero": 11,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Infracciones y régimen sancionador de extranjería",
+          "archivo": "policia-nacional/extranjeria-infracciones.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-12",
+          "numero": 12,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Protección internacional",
+          "archivo": "policia-nacional/proteccion-internacional.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-13",
+          "numero": 13,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Seguridad privada",
+          "archivo": "policia-nacional/seguridad-privada.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-14",
+          "numero": 14,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Protección de la seguridad ciudadana",
+          "archivo": "policia-nacional/proteccion-seguridad-ciudadana.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-15",
+          "numero": 15,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Infraestructuras críticas y ciberseguridad",
+          "archivo": "policia-nacional/infraestructuras-criticas-ciberseguridad.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-16",
+          "numero": 16,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Derecho Penal: parte general",
+          "archivo": "policia-nacional/derecho-penal-parte-general.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-17",
+          "numero": 17,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Derecho Penal: delitos contra las personas",
+          "archivo": "policia-nacional/delitos-contra-las-personas.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-18",
+          "numero": 18,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Delitos contra el patrimonio",
+          "archivo": "policia-nacional/delitos-contra-el-patrimonio.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-19",
+          "numero": 19,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Delitos contra el orden público",
+          "archivo": "policia-nacional/delitos-orden-publico-armas.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-20",
+          "numero": 20,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Delitos informáticos",
+          "archivo": "policia-nacional/delitos-informaticos-prueba-digital.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-21",
+          "numero": 21,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Derecho Procesal Penal y detención",
+          "archivo": "policia-nacional/procesal-penal-detencion.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-22",
+          "numero": 22,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Estatuto de la víctima del delito",
+          "archivo": "policia-nacional/estatuto-victima-delito.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-23",
+          "numero": 23,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Igualdad, violencia de género y no discriminación",
+          "archivo": "policia-nacional/igualdad-violencia-no-discriminacion.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-24",
+          "numero": 24,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Introducción a la prevención de riesgos laborales",
+          "archivo": "policia-nacional/prevencion-riesgos-laborales-conceptos.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-25",
+          "numero": 25,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Normativa de prevención de riesgos laborales",
+          "archivo": "policia-nacional/normativa-prevencion-riesgos-laborales.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-26",
+          "numero": 26,
+          "bloque": "Ciencias Jurídicas",
+          "nombre": "Protección de datos personales",
+          "archivo": "policia-nacional/proteccion-datos-personales.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-27",
+          "numero": 27,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Derechos Humanos",
+          "archivo": "policia-nacional/derechos-humanos-tortura.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-28",
+          "numero": 28,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Globalización y antiglobalización",
+          "archivo": "policia-nacional/globalizacion-antiglobalizacion.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-29",
+          "numero": 29,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Actitudes y valores sociales",
+          "archivo": "policia-nacional/actitudes-valores-sociales.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-30",
+          "numero": 30,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Principios éticos y valores de la sociedad",
+          "archivo": "policia-nacional/principios-eticos-valores-sociedad.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-31",
+          "numero": 31,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Inmigración e integración social",
+          "archivo": "policia-nacional/inmigracion-integracion-social.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-32",
+          "numero": 32,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Geografía humana, población y medio ambiente",
+          "archivo": "policia-nacional/geografia-humana-demografia-medio-ambiente.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-33",
+          "numero": 33,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Seguridad y teorías de la delincuencia",
+          "archivo": "policia-nacional/seguridad-teorias-delincuencia.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-34",
+          "numero": 34,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Drogodependencias",
+          "archivo": "policia-nacional/drogodependencias.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-35",
+          "numero": 35,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Desarrollo sostenible",
+          "archivo": "policia-nacional/desarrollo-sostenible.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-36",
+          "numero": 36,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Gramática de la lengua española",
+          "archivo": "policia-nacional/gramatica-lengua-espanola.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-37",
+          "numero": 37,
+          "bloque": "Ciencias Sociales",
+          "nombre": "Ortografía de la lengua española",
+          "archivo": "policia-nacional/ortografia-lengua-espanola.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-38",
+          "numero": 38,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Sistemas operativos",
+          "archivo": "policia-nacional/sistemas-operativos.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-39",
+          "numero": 39,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Redes informáticas",
+          "archivo": "policia-nacional/redes-informaticas.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-40",
+          "numero": 40,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Inteligencia y fuentes abiertas",
+          "archivo": "policia-nacional/inteligencia-fuentes-abiertas.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-41",
+          "numero": 41,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Ciberdelincuencia y amenazas",
+          "archivo": "policia-nacional/ciberdelincuencia-amenazas.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-42",
+          "numero": 42,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Armas de fuego y balística",
+          "archivo": "policia-nacional/armas-fuego-balistika.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-43",
+          "numero": 43,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Vehículos prioritarios",
+          "archivo": "policia-nacional/vehiculos-prioritarios.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-44",
+          "numero": 44,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Seguridad en la conducción policial",
+          "archivo": "policia-nacional/seguridad-conduccion-policial.json",
+          "preguntas": 20
+        },
+        {
+          "id": "tema-45",
+          "numero": 45,
+          "bloque": "Materias Técnico-Científicas",
+          "nombre": "Prevención de riesgos en seguridad vial",
+          "archivo": "policia-nacional/prevencion-riesgos-seguridad-vial.json",
+          "preguntas": 20
+        }
+      ]
+    }
+  ]
+}

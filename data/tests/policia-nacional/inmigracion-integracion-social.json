@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "inmigracion-integracion-social",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Inmigración e integración social · Tema 31",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T31-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Cómo describe la OIM, con carácter general, la migración?",
+      "opciones": [
+        "Movimiento de personas que implica un cambio de residencia habitual, dentro de un país o a través de una frontera internacional",
+        "Solo el cruce irregular de una frontera",
+        "Únicamente el desplazamiento forzoso por guerra",
+        "El cambio temporal de domicilio dentro de una misma vivienda"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El glosario de la OIM reúne definiciones de migración y distingue desplazamientos internos e internacionales; migración no equivale necesariamente a irregularidad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué diferencia básica existe entre migración interna e internacional?",
+      "opciones": [
+        "La interna siempre es voluntaria; la internacional siempre forzosa",
+        "La interna ocurre dentro de un Estado; la internacional implica cruzar una frontera internacional",
+        "La internacional solo puede ser permanente",
+        "La interna exige autorización de residencia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La clasificación atiende a si el movimiento cruza o no una frontera internacional.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué describe la migración interna en el glosario de la OIM?",
+      "opciones": [
+        "Movimiento de personas dentro de un Estado que implica cambio de lugar de residencia habitual",
+        "Cruce obligatorio de una frontera internacional",
+        "Desplazamiento exclusivo de refugiados",
+        "Viaje turístico de corta duración"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OIM distingue migración interna por desarrollarse dentro de un mismo Estado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “internal migration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué rasgo define la migración internacional en el glosario de la OIM?",
+      "opciones": [
+        "Movimiento a través de una frontera internacional hacia un Estado distinto del de residencia habitual",
+        "Cambio de domicilio dentro de la misma ciudad",
+        "Viaje diario al trabajo",
+        "Cambio de vivienda dentro del mismo municipio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La definición de la OIM implica el cruce de una frontera internacional y cambio de residencia habitual.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “international migration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué significa integración de personas migrantes en la terminología de la OIM?",
+      "opciones": [
+        "Proceso de aceptación social que suele implicar adaptación mutua entre migrantes y sociedad de acogida",
+        "Asimilación obligatoria y unilateral",
+        "Concesión automática de ciudadanía",
+        "Pérdida de identidad jurídica"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OIM describe integración como proceso de aceptación y adaptación de migrantes y sociedad receptora.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “integration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿La integración implica necesariamente asentamiento permanente según la OIM?",
+      "opciones": [
+        "No necesariamente",
+        "Sí, siempre",
+        "Solo si lo decide el empleador",
+        "Sí, en todos los Estados"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El glosario de la OIM indica que integración no implica necesariamente asentamiento permanente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “integration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Cómo define la OIM, en general, a una persona migrante?",
+      "opciones": [
+        "Persona que se desplaza o se ha desplazado fuera de su lugar de residencia habitual, dentro o fuera de una frontera, por distintos motivos",
+        "Solo quien tiene estatuto de refugiado",
+        "Únicamente quien cruza una frontera sin autorización",
+        "Toda persona turista en una excursión"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El glosario de la OIM usa un concepto general de migrante que puede incluir movimientos internos o internacionales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “migrant”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿La migración irregular convierte por sí sola a la persona en irregular?",
+      "opciones": [
+        "La irregularidad describe la situación respecto de entrada o estancia y no una condición esencial de la persona",
+        "Sí, define una característica permanente de la persona",
+        "Solo se aplica a menores",
+        "Es sinónimo de refugio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La terminología de la OIM recomienda describir situaciones migratorias, no definir a la persona por ellas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entradas “irregular migration” y “migrant”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué aspecto forma parte del proceso de integración según la OIM?",
+      "opciones": [
+        "Acceso a servicios y al mercado laboral, junto con consideración de derechos y obligaciones",
+        "Renuncia automática a derechos",
+        "Separación permanente de la sociedad receptora",
+        "Exclusión de la educación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La entrada de integración incluye acceso a servicios y empleo, así como derechos, obligaciones y valores compartidos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “integration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué puede motivar la migración según el glosario de la OIM?",
+      "opciones": [
+        "Factores diversos, como razones económicas, sociales, familiares o ambientales",
+        "Exclusivamente una guerra",
+        "Solo una orden judicial",
+        "Únicamente la jubilación"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La OIM reconoce que los movimientos migratorios pueden tener distintos motivos y no una única causa.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OIM, Glossary on Migration, entrada “migration”",
+        "url": "https://publications.iom.int/books/international-migration-law-ndeg34-glossary-migration"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿A quién corresponde la definición, planificación, regulación y desarrollo de la política de inmigración?",
+      "opciones": [
+        "Al Gobierno, sin perjuicio de las competencias asumidas por comunidades autónomas y entidades locales",
+        "A los ayuntamientos en exclusiva",
+        "A las instituciones de la Unión Europea únicamente",
+        "A las organizaciones privadas de apoyo a migrantes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 bis.1 atribuye esa competencia al Gobierno, sin perjuicio de las competencias autonómicas y locales que puedan asumirse.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 bis.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué principio deben respetar las Administraciones Públicas al ejercer competencias vinculadas con la inmigración?",
+      "opciones": [
+        "La actuación aislada de cada Administración",
+        "La prohibición de cooperación internacional",
+        "La exclusión de políticas transversales",
+        "La coordinación con las políticas definidas por la Unión Europea"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2 bis.2.a incluye la coordinación con las políticas de inmigración de la Unión Europea entre los principios rectores.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 bis.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Cómo debe promoverse la integración social de las personas inmigrantes según el artículo 2 bis?",
+      "opciones": [
+        "Solo mediante programas privados de empleo",
+        "A través de procedimientos sancionadores",
+        "Mediante políticas transversales dirigidas a toda la ciudadanía",
+        "Mediante políticas exclusivamente dirigidas a personas recién llegadas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2 bis.2.c indica que la integración social se promueve mediante políticas transversales dirigidas a toda la ciudadanía.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 bis.2.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué principio menciona el artículo 2 bis respecto de quienes viven o trabajan legalmente en España?",
+      "opciones": [
+        "Igualdad solo en el acceso a la educación",
+        "Iguales derechos y obligaciones en los términos previstos en la Ley, conforme al principio de no discriminación",
+        "Derechos distintos según el país de origen",
+        "Obligaciones sin reconocimiento de derechos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2 bis.2.e vincula la no discriminación con el reconocimiento de iguales derechos y obligaciones a quienes viven o trabajan legalmente en España, en los términos legales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 bis.2.e",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué límite establece el artículo 2 ter para la convivencia de identidades y culturas diversas?",
+      "opciones": [
+        "El respeto a la Constitución y a la ley",
+        "La adopción de una identidad cultural única",
+        "La renuncia a derechos constitucionales",
+        "La residencia permanente en España"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 ter.1 promueve la plena integración en un marco de convivencia diversa cuyo límite es el respeto a la Constitución y la ley.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué dimensiones de participación debe promover la Administración en las políticas de integración?",
+      "opciones": [
+        "Únicamente económica",
+        "Solo cultural y educativa",
+        "Exclusivamente electoral",
+        "Económica, social, cultural y política, en condiciones de igualdad de trato"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2 ter.2 enumera la participación económica, social, cultural y política en condiciones de igualdad de trato.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué contenidos formativos deben promoverse especialmente en el marco de la integración?",
+      "opciones": [
+        "Únicamente valores culturales del país de origen",
+        "Exclusivamente formación profesional",
+        "Conocimiento y respeto de valores constitucionales, derechos humanos, libertades públicas, democracia, tolerancia e igualdad entre mujeres y hombres",
+        "Solo normas de extranjería y sanciones"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 2 ter.2 incluye esos valores y principios como contenidos formativos que deben procurarse.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Qué tres factores considera esenciales para la integración el artículo 2 ter.2?",
+      "opciones": [
+        "Visado, pasaporte y contrato de alquiler",
+        "Escolarización obligatoria, aprendizaje de lenguas oficiales y acceso al empleo",
+        "Nacionalidad, empadronamiento y propiedad de vivienda",
+        "Religión, edad y país de nacimiento"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2 ter.2 identifica la escolarización obligatoria, el aprendizaje de las lenguas oficiales y el acceso al empleo como factores esenciales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Con qué administraciones cooperará la Administración General del Estado para la integración?",
+      "opciones": [
+        "Comunidades Autónomas, ciudades de Ceuta y Melilla y ayuntamientos",
+        "Solo con otras administraciones estatales",
+        "Únicamente con organizaciones internacionales",
+        "Con empresas privadas de contratación exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 ter.3 prevé cooperación de la Administración General del Estado con esas administraciones y entidades locales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T31-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "inmigracion-integracion-social",
+      "temaNumero": 31,
+      "enunciado": "¿Dónde se acuerdan los programas bienales para reforzar la integración social?",
+      "opciones": [
+        "En la Comisión Europea de Derechos Humanos",
+        "En cada municipio de forma unilateral",
+        "En el Foro para la Integración exclusivamente",
+        "En la Conferencia Sectorial de Inmigración, entre el Gobierno y las comunidades autónomas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 2 ter.4 dispone que el Gobierno y las comunidades autónomas acuerden esos programas en la Conferencia Sectorial de Inmigración.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social artículo 2 ter.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

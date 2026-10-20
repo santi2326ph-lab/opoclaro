@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "derecho-persona",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "El Derecho y la persona · Tema 1",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en la convocatoria BOE-A-2026-15055 y fuentes oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "DP-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Según el artículo 1 del Código Civil, ¿cuáles son las fuentes del ordenamiento jurídico español?",
+      "opciones": [
+        "La ley, la costumbre y los principios generales del derecho",
+        "La ley, la jurisprudencia y los tratados",
+        "La Constitución, los reglamentos y la jurisprudencia",
+        "La ley, la equidad y los usos interpretativos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho. La jurisprudencia complementa el ordenamiento en los términos del apartado 6.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 1.1 y 1.6",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Si una ley no establece una fecha distinta de entrada en vigor, ¿cuándo entra en vigor según el Código Civil?",
+      "opciones": [
+        "El mismo día de su aprobación",
+        "A los veinte días de su completa publicación en el BOE",
+        "Al día siguiente de su publicación",
+        "A los treinta días de su publicación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 2.1 del Código Civil establece la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 2.1",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Una disposición de rango inferior contradice otra de rango superior. ¿Qué consecuencia prevé el artículo 1.2 del Código Civil?",
+      "opciones": [
+        "La disposición inferior prevalece si es posterior",
+        "Ambas disposiciones quedan suspendidas hasta que decida el Gobierno",
+        "La disposición contradictoria carece de validez",
+        "La disposición superior queda derogada parcialmente"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 1.2 dispone que carecerán de validez las disposiciones que contradigan otra de rango superior, expresión legal del principio de jerarquía normativa.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 1.2",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Conforme al artículo 2.3 del Código Civil, las leyes:",
+      "opciones": [
+        "No tienen efecto retroactivo si no dispusieren lo contrario",
+        "Son siempre retroactivas cuando benefician a una persona",
+        "Nunca pueden tener efecto retroactivo",
+        "Solo son retroactivas si lo autoriza un reglamento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.3 establece como regla que las leyes no tendrán efecto retroactivo, salvo que dispongan lo contrario.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 2.3",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿En qué condiciones puede regir la costumbre como fuente del Derecho según el Código Civil?",
+      "opciones": [
+        "Siempre que sea habitual, aunque contradiga una ley",
+        "En defecto de ley aplicable, si no es contraria a la moral ni al orden público y resulta probada",
+        "Solo cuando la apruebe previamente el Tribunal Supremo",
+        "Únicamente si está publicada en el BOE"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1.3 exige que no exista ley aplicable, que la costumbre no sea contraria a la moral o al orden público y que resulte probada.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 1.3",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Cuándo se aplican los principios generales del derecho según el artículo 1 del Código Civil?",
+      "opciones": [
+        "Antes que la ley y la costumbre",
+        "Solo cuando exista jurisprudencia reiterada",
+        "En defecto de ley o costumbre, sin perjuicio de su carácter informador",
+        "Únicamente si los recoge expresamente un reglamento"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 1.4 prevé su aplicación en defecto de ley o costumbre y reconoce, además, su carácter informador del ordenamiento jurídico.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 1.4",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Un tratado internacional se ha firmado, pero todavía no se ha publicado íntegramente en el BOE. ¿Qué establece el artículo 1.5 del Código Civil sobre sus normas?",
+      "opciones": [
+        "Son de aplicación directa desde la firma",
+        "No son de aplicación directa en España hasta que formen parte del ordenamiento interno mediante su publicación íntegra en el BOE",
+        "Solo son aplicables si los publica cada comunidad autónoma",
+        "Tienen rango reglamentario desde su ratificación, aunque no se publiquen"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1.5 establece que las normas de los tratados no son de aplicación directa en España hasta que hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el BOE.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 1.5",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Cuándo comienza la personalidad de las personas jurídicas incluidas en el artículo 35.1 del Código Civil?",
+      "opciones": [
+        "Cuando solicitan su inscripción fiscal",
+        "Desde que quedan válidamente constituidas conforme a Derecho",
+        "Cuando realizan su primera actividad",
+        "Solo tras una sentencia judicial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 35.1 considera personas jurídicas a las corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley; su personalidad comienza al quedar válidamente constituidas conforme a Derecho.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 35.1",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿En qué momento se adquiere la personalidad civil de una persona natural?",
+      "opciones": [
+        "En el momento de la concepción",
+        "Con la inscripción en el Registro Civil, con independencia del nacimiento",
+        "Al nacer con vida y una vez producido el entero desprendimiento del seno materno",
+        "Al cumplir dieciocho años"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 30 del Código Civil fija la adquisición de la personalidad en el nacimiento con vida, una vez producido el entero desprendimiento del seno materno.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 30",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Qué hecho extingue la personalidad civil?",
+      "opciones": [
+        "La mayoría de edad",
+        "La declaración de ausencia",
+        "La muerte de la persona",
+        "El cambio de domicilio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 32 del Código Civil dispone que la personalidad civil se extingue por la muerte de las personas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 32",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Según los artículos 240 y 246 del Código Civil, ¿qué afirmación describe correctamente la mayoría de edad y la capacidad para los actos de la vida civil?",
+      "opciones": [
+        "Comienza a los dieciséis años y permite todos los actos sin excepción",
+        "Comienza a los dieciocho años cumplidos y permite realizar todos los actos de la vida civil salvo las excepciones establecidas por el Código Civil",
+        "Comienza al emanciparse y solo permite actos de administración",
+        "Comienza a los veinte años y requiere autorización judicial para contratar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 240 fija el comienzo de la mayoría de edad a los dieciocho años cumplidos. El artículo 246 permite a la persona mayor de edad realizar todos los actos de la vida civil, salvo las excepciones establecidas en casos especiales por el Código Civil.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículos 240 y 246",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Para el ejercicio de derechos y el cumplimiento de obligaciones civiles, ¿qué lugar constituye el domicilio de una persona natural como regla general?",
+      "opciones": [
+        "El lugar donde nació",
+        "El lugar donde está empadronada, necesariamente",
+        "El lugar de su residencia habitual",
+        "El lugar donde trabaja"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 40 del Código Civil define como domicilio de las personas naturales el lugar de su residencia habitual, y, en su caso, el que determine la Ley de Enjuiciamiento Civil.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 40",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Qué establece el artículo 12.2 de la Convención sobre los derechos de las personas con discapacidad respecto de la capacidad jurídica?",
+      "opciones": [
+        "Que las personas con discapacidad la tienen únicamente para decisiones personales",
+        "Que los Estados reconocen su capacidad jurídica en igualdad de condiciones con las demás en todos los aspectos de la vida",
+        "Que puede retirarse automáticamente por razón de discapacidad",
+        "Que solo se reconoce tras una autorización judicial individual"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 12.2 dispone que los Estados Partes reconocerán que las personas con discapacidad tienen capacidad jurídica en igualdad de condiciones con las demás en todos los aspectos de la vida.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Convención sobre los derechos de las personas con discapacidad, artículo 12.2 (Instrumento de Ratificación BOE-A-2008-6963)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-6963#a12"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Quiénes son españoles de origen conforme al artículo 17.1.a) del Código Civil?",
+      "opciones": [
+        "Todos los nacidos en territorio español",
+        "Los nacidos de padre o madre españoles",
+        "Quienes residan legalmente diez años en España",
+        "Quienes obtengan una carta de naturaleza"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 17.1.a) atribuye la condición de españoles de origen a los nacidos de padre o madre españoles, con independencia del lugar de nacimiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 17.1.a)",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Una persona nace en España de padres extranjeros. ¿Qué supuesto del artículo 17.1.b) le atribuye nacionalidad española de origen, con la excepción prevista en ese precepto?",
+      "opciones": [
+        "Que ambos progenitores tengan residencia legal en España",
+        "Que al menos uno de sus progenitores también haya nacido en España, salvo hijos de funcionario diplomático o consular acreditado en España",
+        "Que uno de sus progenitores haya vivido diez años en España",
+        "Que el nacimiento se inscriba antes de cumplir un año"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 17.1.b) contempla a quienes nacen en España de padres extranjeros si al menos uno de estos nació también en España; exceptúa a los hijos de funcionario diplomático o consular acreditado en España.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 17.1.b)",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Qué plazo general de residencia exige el Código Civil para conceder la nacionalidad española por residencia, sin perjuicio de los plazos reducidos que enumera?",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Cinco años",
+        "Diez años"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 22.1 establece diez años como plazo general. Prevé cinco años para quienes hayan obtenido la condición de refugiado y dos para los nacionales de origen de determinados países y los sefardíes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 22.1",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Una persona española emancipada vive habitualmente en el extranjero y adquiere voluntariamente una nacionalidad extranjera distinta de las excepcionadas en el artículo 24.1. ¿Qué puede hacer para evitar la pérdida de la nacionalidad española de origen?",
+      "opciones": [
+        "Declarar su voluntad de conservarla ante el encargado del Registro Civil dentro de los tres años indicados por el precepto",
+        "Solicitar autorización al Congreso antes de adquirir la otra nacionalidad",
+        "Inscribir un domicilio en España dentro de seis meses",
+        "No puede evitar la pérdida en ningún caso"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 24.1 permite evitar esa pérdida si se declara la voluntad de conservar la nacionalidad española al encargado del Registro Civil dentro del plazo de tres años desde la adquisición de la otra nacionalidad o desde la emancipación, según el supuesto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 24.1",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "El derecho de opción del artículo 20.1.b) del Código Civil corresponde a quienes tienen un padre o una madre que fue originariamente español y nació en España. ¿Está sujeto a límite de edad?",
+      "opciones": [
+        "Sí, caduca siempre al cumplir veinte años",
+        "Sí, caduca al cumplir dieciocho años",
+        "No, el artículo 20.3 excluye el límite de edad para este supuesto",
+        "Sí, debe ejercerse antes de cumplir catorce años"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 20.3 establece expresamente que el derecho de opción previsto en el apartado 1.b) no está sujeto a límite alguno de edad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 20.1.b) y 20.3",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "¿Cómo puede adquirirse la vecindad civil por residencia conforme al artículo 14.5 del Código Civil?",
+      "opciones": [
+        "Por dos años de residencia continuada con manifestación de voluntad, o por diez años continuados sin declaración en contrario",
+        "Solo por cinco años y mediante resolución judicial",
+        "Por un año de residencia continuada sin necesidad de declaración",
+        "Únicamente por matrimonio con una persona que tenga esa vecindad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 14.5 contempla dos vías: residencia continuada durante dos años si la persona manifiesta esa voluntad, o residencia continuada durante diez años sin declaración en contrario. Las declaraciones se hacen constar en el Registro Civil.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Civil, artículo 14.5",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    },
+    {
+      "id": "DP-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-persona",
+      "enunciado": "Una persona nace en España de padres extranjeros que carecen ambos de nacionalidad. ¿Qué prevé el artículo 17.1.c) del Código Civil?",
+      "opciones": [
+        "Adquiere nacionalidad española de origen",
+        "Puede solicitarla únicamente por residencia de diez años",
+        "Adquiere la nacionalidad de la comunidad autónoma donde nació",
+        "No puede adquirir la nacionalidad española por nacimiento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 17.1.c) considera españoles de origen a los nacidos en España de padres extranjeros si ambos carecen de nacionalidad. El mismo apartado también contempla el caso en que la legislación de ninguno de ellos atribuya una nacionalidad al hijo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Civil, artículo 17.1.c)",
+        "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20250103"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 1
+    }
+  ]
+}

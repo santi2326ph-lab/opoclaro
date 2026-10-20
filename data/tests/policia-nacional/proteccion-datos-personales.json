@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "proteccion-datos-personales",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Protección de datos personales · Tema 26",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T26-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué regula principalmente la Ley Orgánica 3/2018?",
+      "opciones": [
+        "Protección de datos personales y garantía de los derechos digitales",
+        "Protección de infraestructuras críticas",
+        "El procedimiento penal abreviado",
+        "La seguridad privada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Ese es el objeto enunciado por la Ley Orgánica 3/2018.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2018, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué edad fija con carácter general el artículo 7 de la LO 3/2018 para que un menor pueda consentir por sí mismo el tratamiento de sus datos?",
+      "opciones": [
+        "Doce años",
+        "Catorce años",
+        "Dieciséis años",
+        "Dieciocho años en todos los casos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 7 establece que el tratamiento de datos personales de un menor de edad podrá fundarse en su consentimiento cuando sea mayor de catorce años, con excepciones legales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2018, artículo 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué ley española regula el tratamiento de datos personales para fines de prevención, detección, investigación o enjuiciamiento de infracciones penales?",
+      "opciones": [
+        "Ley Orgánica 3/2018 exclusivamente",
+        "Ley 31/1995",
+        "Ley Orgánica 7/2021",
+        "Ley 4/2015"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La LO 7/2021 transpone la Directiva (UE) 2016/680 y regula tratamientos para esos fines policiales y penales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 7/2021, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Cuál es una consecuencia del principio de minimización de datos?",
+      "opciones": [
+        "Conservar todos los datos indefinidamente",
+        "Usar los datos para cualquier finalidad ulterior",
+        "Publicar los datos para verificar su exactitud",
+        "Tratar solo datos adecuados, pertinentes y limitados a lo necesario para la finalidad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El principio de minimización del RGPD exige que los datos sean adecuados, pertinentes y limitados a lo necesario; se aplica junto al marco de la LO 3/2018.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/679, artículo 5.1.c",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué principio del RGPD exige tratar datos solo para fines determinados, explícitos y legítimos?",
+      "opciones": [
+        "Limitación de la finalidad",
+        "Exactitud",
+        "Integridad",
+        "Disponibilidad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5.1.b establece el principio de limitación de la finalidad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RGPD, artículo 5.1.b",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué exige el principio de exactitud?",
+      "opciones": [
+        "Que los datos sean exactos y se actualicen cuando sea necesario",
+        "Que todos sean públicos",
+        "Que se conserven sin límite",
+        "Que se recopilen sin finalidad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 5.1.d exige exactitud y actualización cuando sea necesaria.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD, artículo 5.1.d",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué limita el principio de limitación del plazo de conservación?",
+      "opciones": [
+        "El tiempo durante el que pueden conservarse datos identificables, salvo fines legalmente compatibles",
+        "El número de empleados que acceden",
+        "La ubicación física del servidor",
+        "La posibilidad de rectificación"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 5.1.e limita la conservación a lo necesario para los fines.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RGPD, artículo 5.1.e",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué derecho permite confirmar si se tratan datos personales y acceder a ellos?",
+      "opciones": [
+        "Derecho de acceso",
+        "Derecho de reunión",
+        "Derecho al honor de terceros",
+        "Derecho de petición colectiva"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 15 regula el acceso del interesado a sus datos y a información sobre su tratamiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RGPD, artículo 15",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué derecho permite corregir datos personales inexactos?",
+      "opciones": [
+        "Derecho de rectificación",
+        "Derecho de portabilidad",
+        "Derecho a indemnización automática",
+        "Derecho de oposición a toda norma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 16 reconoce la rectificación de los datos personales inexactos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD, artículo 16",
+        "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué exige la LO 7/2021 para que un tratamiento policial sea lícito?",
+      "opciones": [
+        "Necesidad para fines legales y actuación de autoridad competente en ejercicio de sus funciones",
+        "Consentimiento en todos los supuestos",
+        "Publicación del expediente",
+        "Finalidad comercial"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 11 vincula la licitud del tratamiento con su necesidad para fines del artículo 1 y la competencia de la autoridad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "LO 7/2021, artículo 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué debe facilitar el responsable cuando obtiene datos personales directamente de la persona interesada?",
+      "opciones": [
+        "La información indicada por el artículo 13 del RGPD, incluida identidad, fines y derechos",
+        "Solo el nombre de la empresa",
+        "Únicamente información tras una reclamación",
+        "La lista de otros afectados"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13 del RGPD obliga a facilitar información sobre responsable, fines, base jurídica, destinatarios, conservación y derechos, entre otros extremos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 13",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué derecho permite solicitar la supresión de datos personales en los supuestos del RGPD?",
+      "opciones": [
+        "Derecho de portabilidad",
+        "Derecho de acceso",
+        "Derecho de oposición a decisiones automatizadas",
+        "Derecho de supresión"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El derecho de supresión está regulado en el artículo 17 del RGPD y se aplica cuando concurre alguno de sus supuestos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 17",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué efecto tiene el derecho a la limitación del tratamiento?",
+      "opciones": [
+        "El responsable debe borrar siempre los datos",
+        "Se transfiere la titularidad al interesado",
+        "Los datos pueden conservarse, pero su tratamiento queda restringido a los supuestos previstos en el artículo 18",
+        "Los datos se publican para asegurar su exactitud"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 18 permite obtener la limitación del tratamiento en circunstancias determinadas, manteniendo los datos sujetos a las restricciones del precepto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 18",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Cuándo puede ejercerse el derecho de oposición del artículo 21?",
+      "opciones": [
+        "En cualquier caso con efecto retroactivo automático",
+        "En los supuestos previstos, por motivos relacionados con la situación particular cuando el tratamiento se base en interés público o legítimo",
+        "Solo cuando se trate de datos de salud",
+        "Únicamente para corregir datos inexactos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 21 reconoce la oposición por motivos relacionados con la situación particular frente a tratamientos basados en las bases jurídicas que indica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 21",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿En qué plazo debe el responsable notificar a la autoridad de control una violación de seguridad, cuando proceda?",
+      "opciones": [
+        "Sin dilación indebida y, de ser posible, dentro de las 72 horas desde que tenga constancia",
+        "En todo caso dentro de 30 días",
+        "Solo al cierre del ejercicio anual",
+        "No existe plazo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 33 fija la notificación sin dilación indebida y, de ser posible, a más tardar 72 horas después de tener constancia, salvo que sea improbable que entrañe riesgo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 33.1",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Cuál es la regla general del artículo 9 del RGPD para categorías especiales de datos?",
+      "opciones": [
+        "Se permite siempre que estén cifrados",
+        "Solo se prohíbe su publicación en Internet",
+        "Se consideran datos anónimos automáticamente",
+        "Se prohíbe su tratamiento salvo que concurra alguna de las excepciones previstas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 9 establece la prohibición general de tratar categorías especiales y enumera las excepciones aplicables.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 9",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué exige el artículo 32 del RGPD respecto de la seguridad del tratamiento?",
+      "opciones": [
+        "Conservar todos los datos en papel",
+        "Publicar el código fuente del sistema",
+        "Aplicar medidas técnicas y organizativas apropiadas al riesgo",
+        "Garantizar que nunca exista incidente"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 32 requiere medidas técnicas y organizativas apropiadas considerando el estado de la técnica, costes, naturaleza, alcance, contexto, fines y riesgos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 32",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Cuándo debe realizarse una evaluación de impacto relativa a la protección de datos?",
+      "opciones": [
+        "Únicamente en tratamientos de datos anónimos",
+        "Antes del tratamiento cuando sea probable que entrañe alto riesgo para derechos y libertades",
+        "Después de toda solicitud de acceso",
+        "Solo tras una sanción"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 35 exige evaluación previa cuando un tipo de tratamiento, por su naturaleza, alcance, contexto y fines, probablemente entrañe alto riesgo.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 35",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué responsable está obligado a designar delegado de protección de datos conforme al artículo 37.1.a?",
+      "opciones": [
+        "Una autoridad u organismo público, salvo los tribunales en el ejercicio de su función judicial",
+        "Toda persona física sin actividad empresarial",
+        "Solo una empresa con más de 500 empleados",
+        "Únicamente organizaciones que traten datos anónimos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 37.1.a obliga a autoridades y organismos públicos a designar delegado, con la excepción prevista para tribunales en su función judicial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RGPD Reglamento (UE) 2016/679, artículo 37.1.a",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T26-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "proteccion-datos-personales",
+      "temaNumero": 26,
+      "enunciado": "¿Qué exige la protección de datos desde el diseño conforme al artículo 25.1 del RGPD?",
+      "opciones": [
+        "Aplicar medidas técnicas y organizativas apropiadas al determinar los medios y durante el tratamiento para hacer efectivos los principios de protección de datos",
+        "Publicar los datos antes de iniciar el tratamiento",
+        "Conservar siempre todos los datos personales",
+        "Sustituir la base jurídica del tratamiento por una evaluación de impacto"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 25.1 exige medidas apropiadas para aplicar eficazmente los principios de protección de datos desde la determinación de los medios y durante el tratamiento.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Reglamento (UE) 2016/679, Reglamento General de Protección de Datos, artículo 25.1",
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

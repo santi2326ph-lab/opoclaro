@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "fuerzas-cuerpos-seguridad",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Fuerzas y Cuerpos de Seguridad · Tema 9",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en fuentes oficiales vigentes. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "FCS-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué cuerpos incluye la categoría de Fuerzas y Cuerpos de Seguridad según el artículo 2 de la Ley Orgánica 2/1986?",
+      "opciones": [
+        "Los dependientes del Estado, de las comunidades autónomas y de las corporaciones locales",
+        "Solo Policía Nacional y Guardia Civil",
+        "Solo los cuerpos dependientes del Gobierno de la Nación",
+        "Los cuerpos policiales y las Fuerzas Armadas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 incluye Fuerzas y Cuerpos de Seguridad del Estado, cuerpos de policía autonómicos y cuerpos de policía dependientes de corporaciones locales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué principio rige la actuación de los miembros de las Fuerzas y Cuerpos de Seguridad conforme al artículo 3 de la Ley Orgánica 2/1986?",
+      "opciones": [
+        "Cooperación recíproca, con coordinación mediante los órganos previstos en la Ley",
+        "Subordinación exclusiva a Europol",
+        "Separación absoluta entre cuerpos",
+        "Dependencia funcional de los tribunales en toda actuación policial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3 establece la cooperación recíproca y dispone que la coordinación se efectúe mediante los órganos previstos en la propia Ley.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué naturaleza atribuye la Ley Orgánica 2/1986 al Cuerpo Nacional de Policía?",
+      "opciones": [
+        "Instituto armado de naturaleza civil",
+        "Instituto armado de naturaleza militar",
+        "Cuerpo civil sin carácter armado",
+        "Cuerpo militar dependiente exclusivamente de Defensa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.a define al Cuerpo Nacional de Policía como instituto armado de naturaleza civil y dependiente del Ministro del Interior.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 9.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué naturaleza atribuye la Ley Orgánica 2/1986 a la Guardia Civil?",
+      "opciones": [
+        "Instituto armado de naturaleza militar",
+        "Instituto armado de naturaleza civil",
+        "Cuerpo de policía autonómico",
+        "Cuerpo policial local"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.b define a la Guardia Civil como instituto armado de naturaleza militar.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 9.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Cuál es la misión general de las Fuerzas y Cuerpos de Seguridad del Estado según el artículo 11.1?",
+      "opciones": [
+        "Proteger el libre ejercicio de derechos y libertades y garantizar la seguridad ciudadana",
+        "Dirigir la política interior del Gobierno",
+        "Ejercer la potestad jurisdiccional penal",
+        "Regular la seguridad privada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11.1 expresa esa misión general y enumera las funciones para llevarla a cabo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 11.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿A qué cuerpo corresponde, con carácter general, ejercer las funciones del artículo 11 en las capitales de provincia y núcleos urbanos que determine el Gobierno?",
+      "opciones": [
+        "Al Cuerpo Nacional de Policía",
+        "A la Guardia Civil exclusivamente",
+        "A las policías locales",
+        "Al cuerpo autonómico de mayor antigüedad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11.2.a atribuye al Cuerpo Nacional de Policía esas funciones en capitales provinciales y términos municipales y núcleos urbanos que determine el Gobierno.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 11.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué ámbito territorial atribuye el artículo 11.2.b a la Guardia Civil para las funciones allí previstas?",
+      "opciones": [
+        "El resto del territorio nacional y su mar territorial",
+        "Solo las capitales de provincia",
+        "Únicamente las instalaciones militares",
+        "El territorio de las comunidades autónomas sin policía propia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11.2.b señala que la Guardia Civil ejercerá esas funciones en el resto del territorio nacional y su mar territorial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 11.2.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué deben hacer los miembros de las Fuerzas y Cuerpos de Seguridad respecto de órdenes manifiestamente delictivas o contrarias a la Constitución o a las leyes?",
+      "opciones": [
+        "La obediencia debida no puede amparar su ejecución",
+        "Cumplirlas siempre por razón de jerarquía",
+        "Solicitar autorización judicial y ejecutarlas mientras tanto",
+        "Delegarlas en otro cuerpo policial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.d establece que la obediencia debida no ampara órdenes que manifiestamente constituyan delito o sean contrarias a la Constitución o a las leyes.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.1.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué principios deben regir el uso de los medios por los agentes en las intervenciones con la comunidad?",
+      "opciones": [
+        "Congruencia, oportunidad y proporcionalidad",
+        "Jerarquía, reserva y oportunidad política",
+        "Necesidad, secreto y discrecionalidad absoluta",
+        "Legalidad, rapidez y prioridad institucional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.2.c dispone que el uso de los medios se rija por congruencia, oportunidad y proporcionalidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.2.c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "FCS-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué obligación se aplica a las personas y entidades que ejercen vigilancia, seguridad o custodia de personal, bienes o servicios?",
+      "opciones": [
+        "Especial obligación de auxiliar o colaborar en todo momento con las Fuerzas y Cuerpos de Seguridad",
+        "Obligación de asumir funciones policiales en ausencia de agentes",
+        "Deber de dirigir las investigaciones penales",
+        "Obligación de comunicar únicamente sentencias firmes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4.2 establece una especial obligación de auxilio o colaboración en todo momento para las personas y entidades que ejercen esas funciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 4.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué criterio rige la utilización de armas por los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "Se permite siempre que el agente lo considere conveniente",
+        "Solo procede ante riesgo racionalmente grave para la vida o integridad, o grave riesgo para la seguridad ciudadana, conforme a los principios de actuación",
+        "Se limita a proteger bienes materiales",
+        "No está sujeta a principios de actuación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5.2.d exige riesgo racionalmente grave y respeto a congruencia, oportunidad y proporcionalidad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.2.d",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Cuándo deben identificarse debidamente los agentes como tales en relación con una detención?",
+      "opciones": [
+        "Únicamente si lo solicita un juez",
+        "Solo al llegar a dependencias policiales",
+        "En el momento de efectuarla",
+        "Al finalizar las diligencias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 5.3.a ordena identificarse debidamente en el momento de efectuar una detención.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.3.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué deben proteger los agentes respecto de personas detenidas o bajo custodia?",
+      "opciones": [
+        "La reserva de actuaciones frente al juez",
+        "Solo sus pertenencias",
+        "Únicamente su identidad procesal",
+        "Su vida e integridad física, respetando su honor y dignidad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 5.3.b impone velar por la vida e integridad física y respetar honor y dignidad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.3.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué dedicación exige la Ley Orgánica 2/1986 a los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "Total dedicación e intervención en cualquier tiempo y lugar, estén o no de servicio, en defensa de la ley y la seguridad ciudadana",
+        "Intervención solo durante el turno asignado",
+        "Disponibilidad únicamente en emergencias declaradas",
+        "Actuación fuera de servicio solo con autorización judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.4 establece total dedicación e intervención en cualquier tiempo y lugar, estén o no de servicio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué regla establece el secreto profesional policial sobre información conocida en el servicio?",
+      "opciones": [
+        "Publicar toda información al cerrar el expediente",
+        "Guardar riguroso secreto, salvo que la función o la ley impongan actuar de otro modo",
+        "Revelar siempre fuentes a cualquier interesado",
+        "Mantener secreto incluso ante un requerimiento legal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5.5 exige secreto riguroso, excepto cuando las funciones o la ley impongan otra actuación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Cómo configura la ley la responsabilidad por actuaciones profesionales contrarias a las normas?",
+      "opciones": [
+        "Solo colectiva y nunca individual",
+        "Exclusiva de la Administración en todos los casos",
+        "Personal y directa, sin perjuicio de la responsabilidad patrimonial que pueda corresponder a la Administración",
+        "Inexistente si se actuó durante el servicio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 5.6 establece responsabilidad personal y directa, sin excluir la responsabilidad patrimonial de la Administración.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué carácter debe tener la formación y el perfeccionamiento de los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "opciones": [
+        "Reservado a quienes cambien de escala",
+        "Voluntario y ocasional",
+        "Exclusivamente académico",
+        "Profesional y permanente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 6.2.a establece que la formación y el perfeccionamiento tendrán carácter profesional y permanente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 6.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿En qué ámbito actúan como regla general los cuerpos de policía de las comunidades autónomas?",
+      "opciones": [
+        "En el territorio de la comunidad autónoma respectiva",
+        "En todo el territorio nacional",
+        "Solo en la capital",
+        "En cualquier Estado de la Unión Europea"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 42 limita su actuación al territorio autonómico, salvo emergencia y previo requerimiento de autoridades estatales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 42",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué condiciones permiten actuar fuera de su territorio a una policía autonómica conforme al artículo 42?",
+      "opciones": [
+        "Solicitud de cualquier ciudadano",
+        "Una situación de emergencia y requerimiento previo de las autoridades estatales",
+        "Autorización de un ayuntamiento limítrofe",
+        "Que se trate siempre de una investigación penal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La excepción territorial del artículo 42 requiere emergencia y previo requerimiento de las autoridades estatales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 42",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T9-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "fuerzas-cuerpos-seguridad",
+      "temaNumero": 9,
+      "enunciado": "¿Qué atribución de organización reconoce la ley a las comunidades autónomas respecto de sus cuerpos policiales?",
+      "opciones": [
+        "Regular el ingreso en la Guardia Civil",
+        "Nombrar a los miembros de la Policía Nacional",
+        "Regular y organizar su selección, ingreso, promoción y formación dentro del marco legal y estatutario",
+        "Determinar la legislación penal estatal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 44 encomienda a cada comunidad autónoma regular y organizar selección, ingreso, promoción y formación conforme a sus estatutos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 44",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

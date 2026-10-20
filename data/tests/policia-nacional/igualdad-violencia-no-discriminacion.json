@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "igualdad-violencia-no-discriminacion",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Igualdad, violencia de género y no discriminación · Tema 23",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T23-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Cuál es el objeto principal de la Ley Orgánica 3/2007?",
+      "opciones": [
+        "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres",
+        "Regular exclusivamente el proceso penal por delitos de odio",
+        "Regular el acceso de extranjeros al territorio",
+        "Establecer el régimen disciplinario de la Policía"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué ámbito contempla la Ley Orgánica 1/2004 en su definición de violencia de género?",
+      "opciones": [
+        "Cualquier conflicto entre personas sin relación afectiva",
+        "Violencia ejercida sobre las mujeres por quienes sean o hayan sido sus cónyuges o estén ligados por relaciones análogas de afectividad, en los términos legales",
+        "Toda infracción administrativa cometida por una mujer",
+        "Solo violencia física realizada en presencia de menores"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1 de la LO 1/2004 delimita el objeto de protección en el ámbito de las relaciones de pareja o expareja descritas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué finalidad tiene la Ley 15/2022?",
+      "opciones": [
+        "Regular el régimen electoral general",
+        "Crear un sistema de protección internacional",
+        "Garantizar y promover la igualdad de trato y prevenir y combatir la discriminación",
+        "Regular exclusivamente igualdad salarial en el sector público"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 1 enuncia como objeto garantizar y promover el derecho a la igualdad de trato y no discriminación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 15/2022, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué debe orientar la actuación pública ante discriminación conforme al marco legal de igualdad?",
+      "opciones": [
+        "Aplicar diferencias de trato sin justificación objetiva",
+        "Exigir siempre condena penal previa para cualquier tutela",
+        "Limitar la protección a personas empleadas públicas",
+        "Prevenir, cesar y reparar la discriminación dentro de las garantías legales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Ley 15/2022 prevé garantías y tutela frente a la discriminación, incluida la declaración de nulidad, el cese, la reparación y la prevención.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 15/2022, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué define la LO 3/2007 como igualdad de trato por razón de sexo?",
+      "opciones": [
+        "Ausencia de discriminación directa o indirecta por razón de sexo",
+        "Identidad obligatoria de resultados",
+        "Diferencias de derechos por estado civil",
+        "Prohibición de políticas de igualdad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3 define igualdad como ausencia de discriminación directa e indirecta por razón de sexo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, artículo 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué efecto tienen los actos que constituyan discriminación por razón de sexo?",
+      "opciones": [
+        "Nulidad en los términos de la ley",
+        "Validez si constan por escrito",
+        "Suspensión de la tutela judicial",
+        "Solo una recomendación"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 10 declara nulos los actos y cláusulas que constituyan o causen discriminación por razón de sexo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, artículo 10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué es acoso por razón de sexo según la LO 3/2007?",
+      "opciones": [
+        "Conducta basada en el sexo que atenta contra la dignidad y crea un entorno intimidatorio, degradante u ofensivo",
+        "Cualquier discrepancia entre compañeros",
+        "Una diferencia salarial por sí sola",
+        "Toda comunicación profesional"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 7 define el acoso por razón de sexo y el acoso sexual.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, artículo 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué principio debe informar la actuación de los poderes públicos según el artículo 15?",
+      "opciones": [
+        "Transversalidad de la igualdad de trato",
+        "Neutralidad frente a la discriminación",
+        "Separación de la igualdad y las políticas públicas",
+        "Exclusión de la igualdad en la contratación"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 15 establece la transversalidad del principio de igualdad.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué protege la LO 1/2004 en su artículo 1?",
+      "opciones": [
+        "A las mujeres frente a la violencia ejercida por cónyuges o exparejas en los términos legales",
+        "A cualquier persona frente a todo delito patrimonial",
+        "Solo a menores en centros educativos",
+        "A empresas frente a conflictos comerciales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1 delimita el objeto de la ley integral contra la violencia de género.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, artículo 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué entiende la Ley 15/2022 por discriminación indirecta?",
+      "opciones": [
+        "Una disposición, criterio o práctica aparentemente neutros que ocasionen desventaja particular por causa protegida, salvo justificación objetiva y finalidad legítima",
+        "Una diferencia de trato siempre lícita",
+        "Una conducta exclusivamente física",
+        "Un acto realizado por una autoridad judicial"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 6 regula la discriminación directa e indirecta y sus condiciones.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 15/2022, artículo 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué permite el artículo 11 de la Ley Orgánica 3/2007 para hacer efectivo el derecho de igualdad?",
+      "opciones": [
+        "Adoptar medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres",
+        "Establecer diferencias permanentes sin relación con una desigualdad",
+        "Eliminar todas las medidas públicas de apoyo",
+        "Sustituir la igualdad de trato por cuotas obligatorias en todo supuesto"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11 permite medidas específicas razonables y proporcionadas para corregir desigualdades de hecho patentes mientras subsistan.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, Ley Orgánica 3/2007, artículo 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué criterio recoge el artículo 14 de la Ley Orgánica 3/2007 para la actuación de los poderes públicos?",
+      "opciones": [
+        "La actuación aislada de cada órgano sin coordinación",
+        "La igualdad solo en el empleo público",
+        "La supresión de medidas de protección frente a la violencia",
+        "La colaboración y cooperación entre las distintas Administraciones públicas en la aplicación del principio de igualdad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 14 incluye entre los criterios generales de actuación de los poderes públicos la colaboración y cooperación entre Administraciones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, Ley Orgánica 3/2007, artículo 14.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué principio debe integrarse de forma activa en la adopción y ejecución de disposiciones normativas y políticas públicas?",
+      "opciones": [
+        "La libertad de organización empresarial exclusivamente",
+        "La prioridad de los intereses privados",
+        "El principio de igualdad de trato y oportunidades entre mujeres y hombres",
+        "El principio de neutralidad frente a cualquier desigualdad detectada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 15 establece la transversalidad del principio de igualdad en la actuación de los poderes públicos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, Ley Orgánica 3/2007, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué dispone el artículo 16 sobre los nombramientos realizados por los poderes públicos?",
+      "opciones": [
+        "Reservar los nombramientos a quienes ya ocupan puestos equivalentes",
+        "Procurar atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de cargos de responsabilidad",
+        "Nombrar exclusivamente a mujeres en todos los cargos",
+        "Excluir el principio de igualdad de los nombramientos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 16 manda atender al principio de presencia equilibrada en los nombramientos y designaciones de cargos de responsabilidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, Ley Orgánica 3/2007, artículo 16",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Quién aprueba periódicamente el Plan Estratégico de Igualdad de Oportunidades previsto en el artículo 17?",
+      "opciones": [
+        "El Gobierno, en las materias de competencia estatal",
+        "Cada empresa privada de forma independiente",
+        "El Tribunal Constitucional",
+        "Las comunidades autónomas de manera conjunta"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 17 atribuye al Gobierno la aprobación periódica del Plan en materias de competencia estatal.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, Ley Orgánica 3/2007, artículo 17",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué protege el artículo 17 de la Ley Orgánica 1/2004?",
+      "opciones": [
+        "Solo los derechos de mujeres con nacionalidad española",
+        "Únicamente a quienes hayan obtenido sentencia condenatoria",
+        "Solo a las víctimas con hijos menores",
+        "El acceso de las mujeres víctimas de violencia de género a los derechos reconocidos en la ley con independencia de origen, religión u otra condición"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 17 garantiza los derechos reconocidos por la ley a todas las mujeres víctimas, con independencia de origen, religión u otras circunstancias.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, Ley Orgánica 1/2004, artículo 17",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué comprende el derecho a la información reconocido a las víctimas de violencia de género?",
+      "opciones": [
+        "Únicamente datos estadísticos anuales",
+        "Información exclusivamente después del juicio",
+        "Información sobre medidas de protección y seguridad, derechos, ayudas y servicios de atención, emergencia, apoyo y recuperación",
+        "Solo información sobre la denuncia penal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 18 reconoce el derecho a recibir información sobre medidas, derechos, ayudas y servicios disponibles.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, Ley Orgánica 1/2004, artículo 18",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué tipo de apoyo contempla la asistencia social integral del artículo 19?",
+      "opciones": [
+        "Una indemnización automática en todos los casos",
+        "Atención multidisciplinar que incluye información, atención psicológica, apoyo social y seguimiento de reclamaciones",
+        "Solo alojamiento temporal, sin otras prestaciones",
+        "Asistencia exclusivamente judicial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 19 configura una asistencia social integral con atención multidisciplinar y prestaciones enumeradas por la ley.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, Ley Orgánica 1/2004, artículo 19",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué coordinación exige el artículo 19 de la Ley Orgánica 1/2004?",
+      "opciones": [
+        "La actuación coordinada de servicios sociales con Fuerzas y Cuerpos de Seguridad, órganos judiciales, servicios sanitarios y asistencia jurídica",
+        "La intervención exclusiva de servicios sociales",
+        "La coordinación solo entre empresas privadas",
+        "La sustitución de órganos judiciales por servicios administrativos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 19 prevé que los servicios actúen coordinadamente con las instituciones y servicios que enumera.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, Ley Orgánica 1/2004, artículo 19",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T23-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "igualdad-violencia-no-discriminacion",
+      "temaNumero": 23,
+      "enunciado": "¿Qué garantiza el artículo 20 de la Ley Orgánica 1/2004?",
+      "opciones": [
+        "Asistencia jurídica solo si el denunciado la solicita",
+        "Representación obligatoria por un abogado privado elegido por el juzgado",
+        "La supresión del derecho de defensa en el procedimiento penal",
+        "Asistencia jurídica gratuita a las víctimas de violencia de género en los términos previstos legalmente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 20 regula asistencia jurídica a las víctimas y su acceso a la asistencia jurídica gratuita conforme a la normativa aplicable.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, Ley Orgánica 1/2004, artículo 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

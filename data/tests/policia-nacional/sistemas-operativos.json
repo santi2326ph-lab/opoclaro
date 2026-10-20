@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "sistemas-operativos",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Sistemas operativos · Tema 38",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T38-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "Según Microsoft Learn, ¿qué recursos proporciona cada proceso para ejecutar un programa?",
+      "opciones": [
+        "Un espacio virtual de direcciones, código ejecutable, recursos del sistema y al menos un hilo",
+        "Una dirección IP pública y un servidor DNS",
+        "Un núcleo de CPU dedicado en todos los casos",
+        "Una copia física completa del sistema operativo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Microsoft Learn describe cada proceso con su espacio virtual de direcciones, código ejecutable, identificador, recursos del sistema y al menos un hilo de ejecución.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/desktop/ProcThread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué componente del sistema operativo administra la asignación de tiempo de CPU a procesos?",
+      "opciones": [
+        "El sistema de archivos exclusivamente",
+        "El planificador o scheduler del sistema",
+        "El servidor DNS",
+        "El controlador de pantalla solamente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La planificación de procesos determina qué proceso obtiene tiempo de ejecución en la CPU.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Linux Kernel Documentation, Scheduler",
+        "url": "https://docs.kernel.org/scheduler/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué unidad puede programarse para ejecutarse por el planificador dentro de un proceso?",
+      "opciones": [
+        "Un hilo de ejecución",
+        "Un archivo de texto",
+        "Un dominio DNS",
+        "Un registro de impresora"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Microsoft Learn describe el hilo como entidad dentro del proceso que puede programarse para ejecución.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué comparten los hilos de un mismo proceso en Windows?",
+      "opciones": [
+        "El espacio virtual de direcciones y los recursos del sistema",
+        "Un identificador de proceso distinto para cada hilo",
+        "Un disco físico dedicado",
+        "Una dirección IP pública"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Los hilos de un proceso comparten su espacio virtual de direcciones y recursos del sistema.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Cuántos hilos de ejecución tiene como mínimo un proceso de Windows?",
+      "opciones": [
+        "Al menos uno",
+        "Siempre cero",
+        "Exactamente cuatro",
+        "Uno por cada archivo del programa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Microsoft Learn indica que cada proceso tiene al menos un hilo y comienza con un hilo primario.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué información posee cada hilo además de los recursos compartidos del proceso?",
+      "opciones": [
+        "Contexto de ejecución y prioridad de planificación propios",
+        "Un sistema operativo independiente",
+        "Una tabla DNS completa",
+        "Una copia exclusiva de la memoria física"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La documentación describe contexto, prioridad y otros datos propios de cada hilo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué permite gestionar un objeto de trabajo de Windows?",
+      "opciones": [
+        "Un grupo de procesos como una unidad",
+        "Solo un archivo individual",
+        "Una red de área local",
+        "La tabla de particiones del disco"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Microsoft Learn explica que los objetos de trabajo administran grupos de procesos conjuntamente.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué significa que Windows admite multitarea preventiva?",
+      "opciones": [
+        "El sistema puede interrumpir la ejecución de un hilo y planificar otros",
+        "Cada proceso controla en exclusiva el procesador",
+        "Las aplicaciones deben ceder siempre voluntariamente",
+        "Solo se ejecuta un proceso por arranque"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Microsoft Learn señala que Windows soporta multitarea preventiva y alterna hilos de varios procesos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué componente del kernel Linux asigna ejecución a tareas listas?",
+      "opciones": [
+        "El planificador de CPU",
+        "El servidor DNS",
+        "El sistema de archivos",
+        "El cargador de páginas web"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La planificación del kernel decide qué tarea ejecutable recibe tiempo de CPU.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Linux Kernel Documentation, Scheduler",
+        "url": "https://docs.kernel.org/scheduler/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué reúne la documentación del planificador del kernel Linux?",
+      "opciones": [
+        "Políticas y mecanismos de planificación, como clases de tiempo real y control de ancho de banda CFS",
+        "Normas de gramática del kernel",
+        "Registros DNS públicos",
+        "Reglas de enrutamiento de internet"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La documentación lista clases y mecanismos de planificación de Linux, incluidos real time y CFS.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Linux Kernel Documentation, Scheduler",
+        "url": "https://docs.kernel.org/scheduler/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué espacio utiliza el sistema para traducir las direcciones virtuales de un proceso a direcciones físicas?",
+      "opciones": [
+        "Una tabla DNS",
+        "Un registro TCP",
+        "Una tabla de páginas",
+        "Una lista de control de acceso"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La tabla de páginas es la estructura que mantiene el sistema para traducir direcciones virtuales a direcciones físicas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, Virtual Address Space",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/memory/virtual-address-space"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué afirmación sobre el espacio de direcciones virtuales de un proceso describe Microsoft para Windows?",
+      "opciones": [
+        "Es siempre idéntico al de todos los demás procesos",
+        "Es una dirección física permanente",
+        "Solo contiene archivos del sistema",
+        "Es privado y no puede accederse desde otros procesos salvo que se comparta"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El espacio virtual de cada proceso es privado, aunque puede compartirse de forma expresa.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, Virtual Address Space",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/memory/virtual-address-space"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué determina una dirección virtual por sí sola?",
+      "opciones": [
+        "No indica la ubicación física real del objeto en memoria",
+        "Indica siempre el sector físico del disco",
+        "Identifica un servidor DNS",
+        "Es el identificador único del proceso"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Una dirección virtual identifica una posición en el espacio virtual, no una ubicación física inmutable.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, Virtual Address Space",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/memory/virtual-address-space"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué datos comparten normalmente los hilos de un mismo proceso de Windows?",
+      "opciones": [
+        "Sus pilas de ejecución individuales",
+        "El espacio de direcciones virtuales y los recursos del proceso",
+        "Todos los identificadores de hilo",
+        "Sus contextos de CPU guardados"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los hilos de un proceso comparten el espacio virtual y los recursos del proceso.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué mantiene cada hilo como almacenamiento específico del propio hilo?",
+      "opciones": [
+        "La tabla de páginas de todos los procesos",
+        "La zona autoritativa DNS",
+        "Almacenamiento local de hilo",
+        "La tabla de particiones del disco"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cada hilo mantiene datos propios, incluido almacenamiento local de hilo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "Según Microsoft, ¿qué modo de ejecución usan las aplicaciones ordinarias de Windows?",
+      "opciones": [
+        "Modo de hipervisor exclusivamente",
+        "Modo de arranque",
+        "Modo de depuración del firmware",
+        "Modo de usuario"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las aplicaciones ejecutan normalmente en modo de usuario; los componentes centrales del sistema operan en modo kernel.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Microsoft Learn, User Mode and Kernel Mode",
+        "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué riesgo describe Microsoft para un controlador que ejecuta código en modo kernel?",
+      "opciones": [
+        "Un error puede afectar al sistema operativo u otros controladores porque comparten espacio virtual",
+        "Solo puede dañar su propio archivo de configuración",
+        "No puede acceder a memoria",
+        "El fallo se aísla siempre dentro del proceso de usuario"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El modo kernel comparte espacio de direcciones, por lo que un fallo de controlador puede comprometer el sistema.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Microsoft Learn, User Mode and Kernel Mode",
+        "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué hacen las API de servicios del sistema de Windows según Microsoft?",
+      "opciones": [
+        "Resuelven exclusivamente nombres de dominio",
+        "Dan acceso a recursos como memoria, sistemas de archivos, dispositivos, procesos e hilos",
+        "Asignan direcciones IP públicas",
+        "Sustituyen el planificador del procesador"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las API del sistema exponen servicios de memoria, archivos, dispositivos, procesos e hilos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, Windows API index: System Services",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué entidad programa el sistema operativo para su ejecución, según la descripción de Microsoft de los hilos?",
+      "opciones": [
+        "El archivo ejecutable como objeto pasivo",
+        "El volumen del sistema",
+        "El hilo",
+        "La dirección IP"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El hilo es la entidad que el sistema puede planificar para su ejecución.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Microsoft Learn, About Processes and Threads",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T38-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "sistemas-operativos",
+      "temaNumero": 38,
+      "enunciado": "¿Qué estructura utiliza Windows para traducir direcciones virtuales de un proceso?",
+      "opciones": [
+        "Un registro MX",
+        "Una tabla ARP global de usuarios",
+        "Un fichero hosts del kernel",
+        "Una tabla de páginas por proceso"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tabla de páginas traduce direcciones virtuales; no es un mecanismo de DNS, ARP ni de almacenamiento de archivos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Microsoft Learn, Virtual Address Space",
+        "url": "https://learn.microsoft.com/en-us/windows/win32/memory/virtual-address-space"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

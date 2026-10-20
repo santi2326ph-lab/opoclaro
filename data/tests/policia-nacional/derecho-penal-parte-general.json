@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "derecho-penal-parte-general",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Derecho Penal: parte general · Tema 16",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales de elaboración propia basadas en el Código Penal consolidado en el BOE. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "CP16-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "Según el Código Penal, ¿qué puede constituir delito?",
+      "opciones": [
+        "Una acción u omisión dolosa o imprudente penada por la ley",
+        "Cualquier conducta socialmente reprochable, aunque no esté penada por ley",
+        "Solo una acción intencional, nunca una omisión",
+        "Toda infracción administrativa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10 define los delitos como acciones y omisiones dolosas o imprudentes penadas por la ley.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cuándo se castigan las acciones u omisiones imprudentes?",
+      "opciones": [
+        "Siempre que produzcan un daño",
+        "Solo cuando la ley lo disponga expresamente",
+        "Cuando lo solicite la persona perjudicada",
+        "Únicamente si son muy graves"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 12 establece que la imprudencia solo se castiga cuando la ley lo disponga expresamente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 12",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué formas de ejecución del delito declara punibles el artículo 15?",
+      "opciones": [
+        "Solo el delito consumado",
+        "La tentativa y los actos preparatorios en todo caso",
+        "El delito consumado y la tentativa",
+        "La conspiración y la proposición exclusivamente"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 15 declara punibles el delito consumado y la tentativa; no convierte en punibles todos los actos preparatorios.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué elemento resulta necesario para que exista responsabilidad criminal por un delito, conforme al artículo 5?",
+      "opciones": [
+        "Una denuncia previa",
+        "Un resultado material en todos los delitos",
+        "La obtención de lucro",
+        "Dolo o imprudencia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 5 dispone que no hay pena sin dolo o imprudencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué caracteriza la tentativa según el artículo 16.1?",
+      "opciones": [
+        "El inicio directo de la ejecución mediante hechos exteriores, sin que el resultado se produzca por causas ajenas a la voluntad del autor",
+        "La mera decisión interna de delinquir",
+        "La realización de actos preparatorios sin comenzar la ejecución",
+        "La consumación del resultado perseguido"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.1 exige comienzo directo de ejecución por hechos exteriores y que el resultado no se produzca por causas independientes de la voluntad del autor.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 16",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué consecuencia prevé el artículo 16.2 para quien evita voluntariamente la consumación de un delito intentado?",
+      "opciones": [
+        "Responde siempre por tentativa con la pena completa",
+        "Queda exento por el delito intentado, sin perjuicio de responder por los actos ya ejecutados si constituyen otro delito",
+        "Queda exento de cualquier delito relacionado con los actos realizados",
+        "Solo queda exento si lo autoriza la víctima"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El desistimiento voluntario eficaz excluye la responsabilidad por el delito intentado, pero no por otros delitos ya consumados mediante los actos realizados.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 16",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cuál de estas conductas encaja en la autoría descrita en el artículo 28?",
+      "opciones": [
+        "Prestar cualquier ayuda posterior, aunque no se hubiera prometido",
+        "Conocer el delito sin intervenir",
+        "Realizar el hecho por sí solo, conjuntamente o por medio de otro del que se sirve como instrumento",
+        "Omitir denunciar cualquier infracción ajena"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 28 considera autores a quienes realizan el hecho por sí solos, conjuntamente o por medio de otro del que se sirven como instrumento; también contempla inducción directa y cooperación necesaria.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 28",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cómo define el artículo 29 al cómplice?",
+      "opciones": [
+        "Quien ejecuta directamente el hecho como único autor",
+        "Quien encubre siempre después de consumado el delito",
+        "Quien tiene conocimiento sin aportar cooperación",
+        "Quien, sin estar comprendido en el artículo 28, coopera en la ejecución con actos anteriores o simultáneos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 29 recoge la cooperación anterior o simultánea que no llega a las formas de autoría del artículo 28.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Código Penal, artículo 29",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "Una persona comienza directamente la ejecución, pero el resultado no se produce porque un tercero lo impide contra su voluntad. ¿Qué figura describe el artículo 16.1?",
+      "opciones": [
+        "Tentativa",
+        "Conspiración",
+        "Delito consumado",
+        "Desistimiento voluntario"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Al haberse iniciado la ejecución y no producirse el resultado por una causa independiente de la voluntad del autor, el artículo 16.1 describe tentativa.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 16",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CP16-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué regula principalmente el artículo 20 del Código Penal?",
+      "opciones": [
+        "Las penas accesorias",
+        "Circunstancias que eximen de responsabilidad criminal",
+        "La clasificación de las infracciones por gravedad",
+        "La prescripción de las penas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 20 enumera causas de exención de responsabilidad criminal, como determinadas alteraciones psíquicas o estados de necesidad bajo sus requisitos legales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Código Penal, artículo 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cuándo puede entenderse cometido por omisión un delito de resultado conforme al artículo 11?",
+      "opciones": [
+        "Cuando no evitar el resultado infringe un deber jurídico especial y equivale a causarlo",
+        "Siempre que el autor no estuviera presente",
+        "Solo si existe una sentencia civil previa",
+        "Cuando el resultado era imprevisible"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 11 exige un deber jurídico especial y que la no evitación equivalga a la causación; contempla obligación específica o creación precedente del riesgo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cuándo se castiga la imprudencia penal?",
+      "opciones": [
+        "Siempre que exista un daño material",
+        "Únicamente en delitos contra las personas",
+        "Cuando lo solicite la víctima",
+        "Solo cuando la ley lo dispone expresamente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 12 dispone que las acciones u omisiones imprudentes solo se castigan cuando expresamente lo establece la ley.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 12",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Cómo clasifica el artículo 13 los delitos según la pena prevista?",
+      "opciones": [
+        "Dolosos, imprudentes y mixtos",
+        "Principales y accesorios",
+        "Graves, menos graves y leves",
+        "Públicos, privados y semipúblicos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 13 clasifica como graves, menos graves o leves según la pena que la ley les asigne.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 13",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué efecto tiene el error invencible sobre un hecho constitutivo de la infracción penal?",
+      "opciones": [
+        "No produce efecto alguno",
+        "Excluye la responsabilidad criminal",
+        "Reduce siempre la pena en un grado",
+        "Convierte automáticamente el hecho en imprudente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 14.1 establece que el error invencible sobre un hecho constitutivo excluye la responsabilidad criminal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 14.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué efecto produce el error vencible sobre un hecho constitutivo del delito?",
+      "opciones": [
+        "La infracción se castiga, en su caso, como imprudente",
+        "Excluye siempre toda responsabilidad",
+        "Se convierte necesariamente en tentativa",
+        "Impide aplicar cualquier atenuante"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Si el error sobre un hecho es vencible, el artículo 14.1 prevé castigar, en su caso, la infracción como imprudente.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 14.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué efecto tiene el error invencible sobre la ilicitud del hecho?",
+      "opciones": [
+        "Atenúa automáticamente la pena en dos grados",
+        "Solo afecta a la responsabilidad civil",
+        "Transforma el delito en leve",
+        "Excluye la responsabilidad criminal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 14.3 excluye la responsabilidad criminal cuando el error sobre la ilicitud es invencible.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 14.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué relación con la pena establece el artículo 6.2 para las medidas de seguridad?",
+      "opciones": [
+        "Se fijan sin límite temporal por el juez",
+        "Se aplican sin atender a la peligrosidad",
+        "No pueden ser más gravosas ni durar más que la pena abstracta aplicable, ni exceder lo necesario para prevenir la peligrosidad",
+        "Deben durar siempre más que la pena"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 6.2 fija esos límites de gravedad, duración y necesidad preventiva.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 6.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué circunstancia atenuante general contempla el artículo 21.1?",
+      "opciones": [
+        "La ejecución con alevosía",
+        "Las causas del capítulo anterior cuando no concurran todos los requisitos para eximir de responsabilidad",
+        "La reincidencia",
+        "El precio o recompensa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 21.1 considera atenuantes las causas expresadas en el capítulo anterior cuando no concurren todos los requisitos para eximir.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 21.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué describe el artículo 22.1 como agravante?",
+      "opciones": [
+        "Ejecutar el hecho con alevosía",
+        "Reparar el daño antes del juicio",
+        "Confesar a las autoridades antes de conocer que el procedimiento se dirige contra el autor",
+        "Actuar bajo estímulos poderosos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La alevosía figura expresamente como circunstancia agravante en el artículo 22.1.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 22.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T16-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "derecho-penal-parte-general",
+      "temaNumero": 16,
+      "enunciado": "¿Qué regla general establece el artículo 61 para autores de un delito consumado?",
+      "opciones": [
+        "Se les impone siempre la pena inferior en un grado",
+        "Quedan exentos si no hubo violencia",
+        "Se aplica exclusivamente una medida de seguridad",
+        "Se les impone la pena prevista por la ley para el delito consumado"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 61 dispone que cuando la ley establece una pena, se entiende que la impone a los autores de la infracción consumada.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, artículo 61",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "prevencion-riesgos-seguridad-vial",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Prevención de riesgos en seguridad vial · Tema 45",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T45-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué principio preventivo establece primero el artículo 15 de la Ley 31/1995?",
+      "opciones": [
+        "Evitar los riesgos",
+        "Aceptar el riesgo si la tarea es urgente",
+        "Trasladar siempre el riesgo al trabajador",
+        "Priorizar la sanción frente a la prevención"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La ley ordena evitar los riesgos y evaluar los que no puedan evitarse.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué debe hacerse con los riesgos laborales que no se pueden evitar?",
+      "opciones": [
+        "Ignorarlos si el vehículo está en servicio urgente",
+        "Evaluarlos y planificar las medidas preventivas adecuadas",
+        "Esperar a que ocurra un accidente",
+        "Sustituir la evaluación por formación voluntaria"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los artículos 15 y 16 obligan a evaluar los riesgos no evitables y planificar la actividad preventiva.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículos 15 y 16",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué desplazamientos considera la DGT dentro de la seguridad vial laboral?",
+      "opciones": [
+        "Los realizados durante la jornada y los trayectos de ida y vuelta al trabajo (in itinere)",
+        "Solo los viajes de transporte de mercancías",
+        "Únicamente los desplazamientos entre provincias",
+        "Solo los trayectos hechos en vehículo de empresa"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT define la seguridad vial laboral como acciones, políticas y medidas para prevenir siniestros viales en el entorno de trabajo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Seguridad vial laboral, actualización 9 de julio de 2026",
+        "url": "https://www.dgt.es/muevete-con-seguridad/seguridad-vial-laboral/seguridad-vial-laboral/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué propósito atribuye la DGT a la seguridad vial en entornos laborales?",
+      "opciones": [
+        "Aumentar la velocidad media de los desplazamientos",
+        "Prevenir los siniestros viales ocurridos en el entorno de trabajo mediante acciones, políticas y medidas",
+        "Trasladar toda responsabilidad al conductor",
+        "Limitar la prevención a los vehículos pesados"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT incluye en el ámbito laboral tanto los trayectos durante la jornada como los desplazamientos de ida y vuelta al puesto, llamados in itinere.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Seguridad vial laboral, actualización 9 de julio de 2026",
+        "url": "https://www.dgt.es/muevete-con-seguridad/seguridad-vial-laboral/seguridad-vial-laboral/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "Según la DGT, ¿qué debe incorporarse a las políticas preventivas de las organizaciones?",
+      "opciones": [
+        "Únicamente la formación en primeros auxilios",
+        "Solo el control de combustible",
+        "La seguridad vial laboral",
+        "La revisión de multas individuales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La DGT recomienda integrar la seguridad vial laboral en las políticas preventivas de las organizaciones y promover una movilidad planificada y segura.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Seguridad vial laboral, actualización 9 de julio de 2026",
+        "url": "https://www.dgt.es/muevete-con-seguridad/seguridad-vial-laboral/seguridad-vial-laboral/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué factores personales de riesgo vial enumera la DGT en su enfoque laboral?",
+      "opciones": [
+        "Solo la titularidad pública del vehículo",
+        "Solo antigüedad del vehículo y tipo de combustible",
+        "Únicamente condiciones meteorológicas",
+        "Alcohol o drogas, fatiga, distracciones y velocidad inadecuada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La DGT identifica como factores personales alcohol o drogas, fatiga, distracciones —en particular el móvil— y velocidad inadecuada.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, noticia «Proteger a los trabajadores, también en la carretera», 18 de febrero de 2026",
+        "url": "https://www.dgt.es/comunicacion/noticias/20260218-proteger-a-los-trabajadores"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué medidas menciona la DGT para contrarrestar riesgos relacionados con las personas?",
+      "opciones": [
+        "Formación, concienciación y políticas estrictas sobre el uso del móvil, entre otras",
+        "Aumentar la jornada de conducción",
+        "Eliminar los descansos planificados",
+        "Confiar exclusivamente en la experiencia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La información de la DGT cita formación, concienciación y políticas estrictas sobre el uso del móvil como medidas frente a esos riesgos personales.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, noticia «Proteger a los trabajadores, también en la carretera», 18 de febrero de 2026",
+        "url": "https://www.dgt.es/comunicacion/noticias/20260218-proteger-a-los-trabajadores"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué función asigna la DGT al mantenimiento periódico y eficiente de los vehículos en seguridad vial laboral?",
+      "opciones": [
+        "Sustituir la evaluación de riesgos",
+        "Contribuir a disponer de vehículos más seguros",
+        "Evitar la necesidad de formar conductores",
+        "Eliminar todos los riesgos de la vía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT señala que tecnología de asistencia y mantenimiento periódico eficiente contribuyen a vehículos más seguros.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, noticia «Proteger a los trabajadores, también en la carretera», 18 de febrero de 2026",
+        "url": "https://www.dgt.es/comunicacion/noticias/20260218-proteger-a-los-trabajadores"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué ámbito destaca expresamente la DGT dentro de la movilidad asociada al trabajo?",
+      "opciones": [
+        "Únicamente los trayectos hechos fuera del horario laboral",
+        "Solo los viajes privados en vacaciones",
+        "Los desplazamientos in itinere como exposición vinculada a la relación laboral",
+        "Los desplazamientos sin relación con el puesto"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El marco estratégico de la DGT aplica la seguridad vial laboral también a los desplazamientos in itinere, por ser exposición al riesgo vinculada a la relación laboral.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DGT, Marco normativo y estratégico de seguridad vial laboral",
+        "url": "https://www.dgt.es/muevete-con-seguridad/seguridad-vial-laboral/marco-normativo-y-estrategico/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué enfoque integrado propone el Sistema Seguro descrito por la DGT?",
+      "opciones": [
+        "Limitar la intervención a reparar vehículos accidentados",
+        "Actuar exclusivamente sobre sanciones",
+        "Concentrar toda la prevención en el conductor",
+        "Intervenir sobre personas, vehículos, infraestructuras, velocidad, normativa y atención post-siniestro"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Sistema Seguro que expone la DGT integra acciones sobre personas, vehículos, infraestructuras, velocidad, normativa y atención posterior al siniestro.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DGT, Marco normativo y estratégico de seguridad vial laboral",
+        "url": "https://www.dgt.es/muevete-con-seguridad/seguridad-vial-laboral/marco-normativo-y-estrategico/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Cuáles son los cuatro pilares de los indicadores de seguridad vial 2030 citados por la DGT?",
+      "opciones": [
+        "Persona, vehículo, infraestructura y atención posaccidente",
+        "Velocidad, sanción, licencia y combustible",
+        "Vía, clima, población y edad",
+        "Policía, juzgados, seguros y hospitales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT sitúa sus indicadores en cuatro pilares: persona, vehículo, infraestructura y atención posaccidente.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué mide el indicador de exceso de velocidad descrito por la DGT?",
+      "opciones": [
+        "La velocidad media de todos los vehículos de una ciudad",
+        "El porcentaje de vehículos que circulan dentro de los límites establecidos",
+        "El número de radares instalados",
+        "El porcentaje de conductores con permiso profesional"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El indicador de la DGT se expresa como el porcentaje de vehículos que respetan los límites establecidos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué uso de sistemas de retención contempla la DGT como indicador de rendimiento?",
+      "opciones": [
+        "El número de vehículos matriculados",
+        "La antigüedad media del cinturón",
+        "El porcentaje de ocupantes que usan correctamente cinturones y sistemas infantiles",
+        "El porcentaje de asientos vacíos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La DGT incluye el uso correcto de cinturones y sistemas de retención infantil entre sus indicadores clave.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué condición expresa el indicador de alcohol de la DGT?",
+      "opciones": [
+        "El número de bebidas vendidas",
+        "La proporción de alcohol en el depósito",
+        "El porcentaje de peatones que cruzan correctamente",
+        "El porcentaje de conductores que conducen sin superar el límite legal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El KPI de alcohol mide el porcentaje de conductores que se ponen al volante sin superar el límite legal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Cómo mide la DGT la distracción relacionada con el teléfono?",
+      "opciones": [
+        "Por el porcentaje de conductores que no utilizan un dispositivo móvil al volante",
+        "Por el número de llamadas recibidas por la policía",
+        "Por el tiempo de uso de radio",
+        "Por el número de aplicaciones instaladas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La DGT formula el indicador de distracción como el porcentaje de conductores que no usan un dispositivo móvil al volante.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué elementos determinan la velocidad adecuada aparte del límite normativo?",
+      "opciones": [
+        "Solo potencia del motor",
+        "Condiciones de la vía, tráfico, vehículo y estado del conductor",
+        "Únicamente la experiencia del conductor",
+        "El tipo de combustible y el horario"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT señala que respetar el límite puede no bastar: hay que considerar vía, tráfico, vehículo y estado físico y psíquico del conductor.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducir con exceso de velocidad: distancias y velocidad adecuada",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-exceso-de-velocidad/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué efecto sobre la seguridad puede tener la fatiga al volante según la DGT?",
+      "opciones": [
+        "Mejora la concentración sostenida",
+        "Reduce la distancia de frenado",
+        "Dificulta mantener la atención y puede reducir la calidad de la información percibida",
+        "Aumenta el campo visual"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La DGT indica que la fatiga afecta a la atención y a la capacidad de recoger información del entorno, incrementando distracciones.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DGT, Conducir con fatiga",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/conducir-con-fatiga/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué efecto atribuye la DGT al alcohol sobre la conducción?",
+      "opciones": [
+        "Mejora la percepción de distancias",
+        "Reduce la fatiga sin consecuencias",
+        "No afecta si se conduce despacio",
+        "Altera aptitudes y actitud y aumenta el riesgo de siniestro"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La DGT explica que el alcohol es depresor del sistema nervioso central y altera la aptitud y actitud para conducir.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Consumo de alcohol y conducción",
+        "url": "https://www.dgt.es/muevete-con-seguridad/evita-conductas-de-riesgo/consumo-de-alcohol/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué medida preventiva frente a imprevistos recomienda la DGT?",
+      "opciones": [
+        "Observar, anticiparse y mantener una distancia de seguridad adecuada",
+        "Circular siempre junto al vehículo precedente",
+        "Confiar exclusivamente en los sistemas electrónicos",
+        "Mantener velocidad constante aunque cambien las condiciones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La conducción preventiva de la DGT se apoya en observación, anticipación y separación suficiente para disponer de margen de reacción.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DGT, Conducción preventiva",
+        "url": "https://www.dgt.es/muevete-con-seguridad/conviertete-en-un-buen-conductor/consejos-generales/conduccion-preventiva/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T45-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-seguridad-vial",
+      "temaNumero": 45,
+      "enunciado": "¿Qué caracteriza una aproximación de seguridad vial basada en riesgos según los indicadores de la DGT?",
+      "opciones": [
+        "Actuar solo después de un accidente grave",
+        "Medir factores de riesgo con indicadores comparables para orientar la gestión preventiva",
+        "Limitar la evaluación a sanciones impuestas",
+        "Usar únicamente el número anual de matriculaciones"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La DGT define indicadores clave medibles y comparables sobre velocidad, protección, alcohol, distracción, vehículos y vías para apoyar una gestión basada en riesgos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DGT, indicadores clave de rendimiento de seguridad vial",
+        "url": "https://seguridadvial2030.dgt.es/practicas-de-interes/datos-y-conocimiento-para-una-gestion-basada-en-riesgos/criterios-comunes-para-identificar-los-factores-que-inciden-en-la-seguridad-vial/index.html"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

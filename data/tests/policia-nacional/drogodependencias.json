@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "drogodependencias",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Drogodependencias · Tema 34",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T34-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué caracteriza a una sustancia psicoactiva según la terminología de la OMS?",
+      "opciones": [
+        "Puede afectar procesos mentales como la percepción, la conciencia, la cognición o el estado de ánimo",
+        "Solo produce efectos si es ilegal",
+        "Siempre causa dependencia en cualquier persona",
+        "Es necesariamente un medicamento con receta"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La OMS utiliza “sustancia psicoactiva” como término descriptivo para sustancias que actúan sobre procesos mentales; la legalidad no define por sí sola el concepto.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, Alcohol, Drugs and Addictive Behaviours: Terminology",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿La condición legal de una sustancia determina por sí sola si es psicoactiva?",
+      "opciones": [
+        "Sí, solo las sustancias prohibidas son psicoactivas",
+        "No; el término describe efectos sobre procesos mentales y puede abarcar sustancias lícitas e ilícitas",
+        "Sí, solo los medicamentos autorizados son psicoactivos",
+        "No; todas las sustancias son psicoactivas por definición"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OMS indica que el término es descriptivo y se aplica a sustancias lícitas e ilícitas de interés para las políticas sobre drogas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, terminología sobre sustancias psicoactivas",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Una sustancia psicoactiva necesariamente produce dependencia?",
+      "opciones": [
+        "No; “psicoactiva” describe efectos sobre procesos mentales y no implica necesariamente dependencia",
+        "Sí, en todos los casos",
+        "Solo si es ilegal",
+        "Únicamente si se administra por vía oral"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OMS indica que el carácter psicoactivo no implica necesariamente que la sustancia produzca dependencia.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, terminología sobre sustancias psicoactivas",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿La definición de sustancia psicoactiva de la OMS depende de que sea legal o ilegal?",
+      "opciones": [
+        "No; comprende sustancias lícitas e ilícitas",
+        "Sí, solo incluye sustancias prohibidas",
+        "Solo incluye medicamentos recetados",
+        "Solo se aplica a drogas de origen vegetal"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La OMS presenta el término como neutral y aplicable a sustancias lícitas e ilícitas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, terminología sobre sustancias psicoactivas",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué ejemplos de procesos mentales pueden verse afectados por sustancias psicoactivas según la OMS?",
+      "opciones": [
+        "Cognición o afectividad",
+        "Altura y grupo sanguíneo",
+        "Solo temperatura corporal",
+        "Únicamente visión periférica"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La definición de la OMS cita procesos como cognición y afecto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OMS, terminología sobre sustancias psicoactivas",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué clase de sustancias incluye la CIE-11 entre los trastornos debidos a su consumo?",
+      "opciones": [
+        "Cannabis",
+        "Vitaminas en general",
+        "Agua potable",
+        "Fibra alimentaria"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clasificación de la OMS incluye trastornos debidos al consumo de cannabis.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, ICD-11, trastornos debidos al uso de cannabis",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué grupo aparece como categoría propia de trastornos por consumo en la CIE-11?",
+      "opciones": [
+        "Opioides",
+        "Proteínas",
+        "Sales minerales",
+        "Antibióticos en general"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OMS incluye una categoría de trastornos debidos al uso de opioides.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11, trastornos debidos al uso de opioides",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué sustancia estimulante figura expresamente en las categorías de la CIE-11?",
+      "opciones": [
+        "Cocaína",
+        "Agua",
+        "Glucosa alimentaria",
+        "Vitamina C"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La CIE-11 contempla trastornos debidos al consumo de cocaína.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OMS, ICD-11, trastornos debidos al uso de cocaína",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué categoría contempla la CIE-11 además de alcohol, cannabis y opioides?",
+      "opciones": [
+        "Trastornos debidos al uso de sedantes, hipnóticos o ansiolíticos",
+        "Trastornos por uso de agua",
+        "Trastornos por lectura",
+        "Trastornos por actividad física ordinaria"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OMS enumera esa categoría entre los trastornos debidos al uso de sustancias.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, ICD-11, trastornos debidos a sedantes, hipnóticos o ansiolíticos",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Cuál es otra categoría de sustancia incluida en la CIE-11?",
+      "opciones": [
+        "Alucinógenos",
+        "Agua potable",
+        "Fibras textiles",
+        "Sales culinarias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La CIE-11 incluye trastornos debidos al uso de alucinógenos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11, trastornos debidos al uso de alucinógenos",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué patrón de consumo perjudicial reconoce la CIE-11 además de los patrones continuos?",
+      "opciones": [
+        "Únicamente patrones diarios",
+        "Solo el consumo experimental aislado",
+        "Patrones episódicos y recurrentes",
+        "Exclusivamente consumo prescrito"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La OMS señala que la CIE-11 especifica patrones perjudiciales que pueden ser continuos o episódicos y recurrentes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué categoría incorporó la CIE-11 para reflejar un episodio único de consumo perjudicial?",
+      "opciones": [
+        "Una categoría de consumo siempre inocuo",
+        "Una categoría de abstinencia voluntaria",
+        "Una categoría basada solo en la legalidad de la sustancia",
+        "Un episodio único de uso perjudicial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OMS describe entre los cambios de la CIE-11 una nueva categoría para episodios únicos de uso perjudicial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué categoría distingue la CIE-11 para describir una exposición que entraña riesgo sin equivaler necesariamente a un trastorno por dependencia?",
+      "opciones": [
+        "Uso peligroso de sustancias",
+        "Uso recreativo legal",
+        "Intoxicación alimentaria",
+        "Consumo terapéutico supervisado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La OMS indica que la CIE-11 incluye una categoría de uso peligroso, diferenciada de los trastornos por dependencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Cuál es una de las modificaciones que la OMS destaca en las pautas diagnósticas de dependencia de la CIE-11?",
+      "opciones": [
+        "Su sustitución por una prueba toxicológica única",
+        "Su simplificación",
+        "La exigencia de daño físico irreversible",
+        "La dependencia de que la sustancia esté fiscalizada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La OMS resume entre los cambios una simplificación de las pautas diagnósticas de dependencia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "Según la OMS, ¿qué sustancia aparece como una clase diferenciada en los trastornos debidos al consumo de la CIE-11?",
+      "opciones": [
+        "Cafeína alimentaria exclusivamente",
+        "Nicotina farmacéutica exclusivamente",
+        "Cannabis",
+        "Anestésicos locales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La lista de la OMS incluye una categoría propia de trastornos debidos al uso de cannabis.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué grupo de sustancias aparece expresamente en las categorías de trastornos por consumo de la CIE-11?",
+      "opciones": [
+        "Antibióticos betalactámicos",
+        "Antihistamínicos tópicos",
+        "Vitaminas hidrosolubles",
+        "Sedantes, hipnóticos o ansiolíticos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La clasificación de la OMS enumera trastornos debidos al uso de sedantes, hipnóticos o ansiolíticos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué clase de sustancias estimulantes incluye expresamente la clasificación de la OMS?",
+      "opciones": [
+        "Estimulantes, incluidas anfetaminas y metanfetamina",
+        "Solo analgésicos no opioides",
+        "Únicamente sustancias inhaladas de uso doméstico",
+        "Solo preparados de cannabis"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La lista de categorías de la OMS incluye trastornos por uso de estimulantes, entre ellos anfetaminas y metanfetamina.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué clase de trastorno aparece en la CIE-11 por el uso de disolventes?",
+      "opciones": [
+        "Trastorno debido al uso de antibióticos",
+        "Trastorno debido al uso de sustancias volátiles",
+        "Trastorno debido a la falta de sueño",
+        "Trastorno por consumo de alimentos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La clasificación de la OMS contempla los trastornos debidos al uso de sustancias volátiles.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Qué rasgo metodológico atribuye la OMS a la CIE-11 respecto a las clases de sustancias?",
+      "opciones": [
+        "Elimina toda clasificación por clase",
+        "Clasifica solo sustancias ilegales",
+        "Amplía y actualiza el rango de clases de sustancias",
+        "Limita los trastornos a tres sustancias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La OMS explica que la CIE-11 presenta un rango actualizado y ampliado de clases de sustancias.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T34-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "drogodependencias",
+      "temaNumero": 34,
+      "enunciado": "¿Cuál de estas afirmaciones describe correctamente el enfoque de la CIE-11 sobre trastornos por consumo?",
+      "opciones": [
+        "La clasificación depende exclusivamente de que el consumo sea delito",
+        "Solo contempla dependencia física",
+        "No distingue entre uso nocivo y uso peligroso",
+        "Incluye categorías separadas para distintas clases de sustancias y patrones de daño"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La OMS describe categorías por clases de sustancias y distingue, entre otros, patrones perjudiciales y uso peligroso.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "OMS, ICD-11: cambios en la clasificación de los trastornos por consumo de sustancias",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/alcohol-drugs-and-addictive-behaviours/terminology"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

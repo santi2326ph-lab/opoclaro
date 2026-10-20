@@ -29,3 +29,7 @@ Desktop.ini
 # Cachés de Python
 __pycache__/
 *.py[cod]
+
+# Material de estudio de terceros: solo uso local, nunca Git ni publicación
+/material-privado/
+/materia-privado/

@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import { performance } from 'node:perf_hooks';
+import { availableTestLengths, filterByTopic, selectQuestions } from '../assets/test-engine.mjs';
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
+const source=JSON.parse(await readFile(path.join(process.cwd(),'data/tests/policia-nacional/constitucion-espanola.json'),'utf8')).preguntas[0];
+const pool=Array.from({length:4500},(_,index)=>({...source,id:'PERF-'+index,temaNumero:(index%45)+1,dificultad:['facil','media','dificil'][index%3]}));
+const start=performance.now();
+const filtered=filterByTopic(pool,17).filter(q=>q.dificultad==='media');
+assert.equal(filtered.length,100);
+assert.ok(availableTestLengths(pool).includes(100));
+const selected=selectQuestions(pool,{count:100});
+assert.equal(selected.length,100);
+assert.equal(new Set(selected.map(q=>q.id)).size,100);
+const elapsed=performance.now()-start;
+assert.ok(elapsed<1000,'filtrado y selección con 4.500 preguntas tardó '+elapsed.toFixed(1)+' ms');
+console.log('OK: filtrado y selección de 100 entre 4.500 preguntas en '+elapsed.toFixed(1)+' ms.');

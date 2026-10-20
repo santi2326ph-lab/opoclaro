@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "derechos-humanos-tortura",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Derechos Humanos · Tema 27",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T27-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué proclama el artículo 1 de la Declaración Universal de Derechos Humanos?",
+      "opciones": [
+        "Todos los seres humanos nacen libres e iguales en dignidad y derechos",
+        "Los derechos dependen de la nacionalidad",
+        "Solo los ciudadanos de Estados miembros tienen dignidad jurídica",
+        "La igualdad se limita al acceso a cargos públicos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1 de la DUDH proclama libertad e igualdad en dignidad y derechos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Declaración Universal de Derechos Humanos, artículo 1",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué prohíbe expresamente el artículo 5 de la DUDH?",
+      "opciones": [
+        "La libertad de pensamiento",
+        "La tortura y las penas o tratos crueles, inhumanos o degradantes",
+        "El acceso a tribunales",
+        "La igualdad ante la ley"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5 contiene esa prohibición.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Declaración Universal de Derechos Humanos, artículo 5",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué derecho reconoce el artículo 9 de la DUDH?",
+      "opciones": [
+        "Recibir protección diplomática automática",
+        "Votar en elecciones de cualquier país",
+        "No ser objeto de detención, prisión o destierro arbitrarios",
+        "Obtener nacionalidad por nacimiento en cualquier territorio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 9 establece la prohibición de detención, prisión o destierro arbitrarios.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Declaración Universal de Derechos Humanos, artículo 9",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué exige el artículo 11.1 de la DUDH para la persona acusada de delito?",
+      "opciones": [
+        "Que pruebe su inocencia antes de ser oída",
+        "Que renuncie a ser juzgada públicamente",
+        "Que el proceso se resuelva sin tribunal",
+        "Que se presuma su inocencia hasta que se pruebe su culpabilidad con garantías de defensa"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 11.1 reconoce la presunción de inocencia y las garantías necesarias para la defensa en juicio público.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Declaración Universal de Derechos Humanos, artículo 11",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué reconoce el artículo 3 de la Declaración Universal?",
+      "opciones": [
+        "Derecho a la vida, libertad y seguridad personal",
+        "Derecho a imponer penas sin juicio",
+        "Derecho a censura general",
+        "Derecho a poseer personas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 3 recoge el derecho a la vida, la libertad y la seguridad de la persona.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH, artículo 3",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué prohíbe el artículo 4 de la DUDH?",
+      "opciones": [
+        "Esclavitud y servidumbre en todas sus formas",
+        "Libertad de circulación",
+        "Participación política",
+        "Libertad de opinión"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 4 prohíbe la esclavitud y la trata de esclavos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH, artículo 4",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué reconoce el artículo 6 de la DUDH?",
+      "opciones": [
+        "La personalidad jurídica de toda persona en todas partes",
+        "La ciudadanía automática",
+        "La inmunidad penal",
+        "La propiedad exclusiva de recursos naturales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 6 reconoce a todo ser humano como persona ante la ley.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DUDH, artículo 6",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué garantía enuncia el artículo 7 de la DUDH?",
+      "opciones": [
+        "Igualdad ante la ley y protección igual contra la discriminación",
+        "Igualdad automática de resultados económicos",
+        "Inmunidad de autoridades",
+        "Secreto de las leyes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 7 establece igualdad ante la ley y protección contra la discriminación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH, artículo 7",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué protege el artículo 12 de la DUDH frente a injerencias arbitrarias?",
+      "opciones": [
+        "Vida privada, familia, domicilio y correspondencia",
+        "Solo las comunicaciones oficiales",
+        "Únicamente la propiedad intelectual",
+        "La libertad de comercio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 12 protege esos ámbitos de la vida privada y reconoce amparo legal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH, artículo 12",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué libertad reconoce el artículo 18 de la DUDH?",
+      "opciones": [
+        "Pensamiento, conciencia y religión",
+        "Libertad de apropiarse de bienes ajenos",
+        "Libertad de incumplir resoluciones",
+        "Secreto de toda opinión publicada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 18 reconoce la libertad de pensamiento, conciencia y religión.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "DUDH, artículo 18",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué libertad reconoce el artículo 13 de la Declaración Universal de Derechos Humanos?",
+      "opciones": [
+        "Circular libremente y elegir residencia dentro de un Estado, así como salir de cualquier país y regresar al propio",
+        "Establecer fronteras sin restricciones para toda persona",
+        "Obtener automáticamente residencia en cualquier Estado",
+        "Viajar únicamente con autorización judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13 reconoce libertad de circulación y residencia dentro de cada Estado, así como salir de cualquier país y regresar al propio.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 13",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué derecho contempla el artículo 14 de la Declaración Universal?",
+      "opciones": [
+        "Obtener asilo automático por cualquier motivo",
+        "Elegir la nacionalidad del país de acogida",
+        "Exigir asilo diplomático en todo caso",
+        "Buscar y disfrutar asilo en otros países frente a persecución, con la excepción prevista para acciones judiciales por delitos comunes o actos contrarios a los propósitos de la ONU"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 14 reconoce buscar y disfrutar asilo frente a persecución y establece la excepción que recoge su apartado segundo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 14",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué derecho familiar reconoce el artículo 16 de la Declaración Universal?",
+      "opciones": [
+        "El matrimonio requiere autorización de una autoridad religiosa",
+        "El consentimiento puede sustituirse por el de familiares",
+        "Hombres y mujeres, a partir de la edad núbil, tienen derecho a casarse y fundar una familia con libre y pleno consentimiento",
+        "Solo las personas casadas pueden fundar una familia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 16 reconoce el derecho a casarse y fundar una familia con libre y pleno consentimiento de los futuros esposos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 16",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué libertad protege el artículo 19 de la Declaración Universal?",
+      "opciones": [
+        "Solo la libertad de prensa escrita",
+        "Opinión y expresión, incluida la posibilidad de investigar, recibir y difundir informaciones e ideas",
+        "Únicamente la opinión mantenida en privado",
+        "La difusión de información sin ninguna responsabilidad legal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 19 incluye libertad de opinión y expresión y el derecho a investigar, recibir y difundir informaciones e ideas por cualquier medio.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 19",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué derecho reconoce el artículo 20 de la Declaración Universal?",
+      "opciones": [
+        "Libertad de reunión y asociación pacíficas; nadie puede ser obligado a pertenecer a una asociación",
+        "Obligación de pertenecer a una asociación estatal",
+        "Libertad de reunión solo en propiedad privada",
+        "Prohibición de toda asociación política"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 20 reconoce reunión y asociación pacíficas y prohíbe obligar a una persona a pertenecer a una asociación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 20",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué participación política reconoce el artículo 21 de la Declaración Universal?",
+      "opciones": [
+        "Ser elegido para cualquier cargo sin condiciones legales",
+        "Participar solo mediante consulta no vinculante",
+        "Formar parte del gobierno como derecho exclusivo",
+        "Participar en el gobierno del propio país, directamente o por medio de representantes libremente escogidos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 21 reconoce el derecho a participar en el gobierno, directamente o por representantes libremente escogidos, y el acceso igual a funciones públicas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 21",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué derecho social reconoce el artículo 22 de la Declaración Universal?",
+      "opciones": [
+        "La exención universal de obligaciones fiscales",
+        "Un derecho exclusivo a la vivienda en propiedad",
+        "La seguridad social y la satisfacción de derechos económicos, sociales y culturales indispensables para la dignidad",
+        "Una prestación idéntica e ilimitada para todas las personas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 22 reconoce el derecho a la seguridad social y a la satisfacción de derechos indispensables para la dignidad, conforme a la organización y recursos de cada Estado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 22",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué elementos del derecho al trabajo recoge el artículo 23?",
+      "opciones": [
+        "Prohibición de fundar sindicatos",
+        "Libre elección de trabajo, condiciones equitativas, protección contra el desempleo e igual salario por trabajo igual",
+        "Asignación obligatoria del puesto por el Estado",
+        "Salario diferente según nacionalidad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 23 contempla trabajo, libre elección, condiciones equitativas, protección contra desempleo, igual salario por trabajo igual y sindicación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "DUDH Declaración Universal de Derechos Humanos, artículo 23",
+        "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué regla absoluta establece el artículo 2 de la Convención contra la Tortura?",
+      "opciones": [
+        "Ninguna circunstancia excepcional puede invocarse para justificar la tortura",
+        "La tortura se admite durante una emergencia nacional",
+        "La orden de un superior siempre justifica la tortura",
+        "La tortura se permite para proteger el orden público"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2.2 de la Convención establece que ninguna circunstancia excepcional, incluida guerra o emergencia pública, puede invocarse para justificar la tortura.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Convención de las Naciones Unidas contra la Tortura Convención contra la Tortura, artículo 2.2",
+        "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T27-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "derechos-humanos-tortura",
+      "temaNumero": 27,
+      "enunciado": "¿Qué obligación de formación recoge el artículo 10 de la Convención contra la Tortura?",
+      "opciones": [
+        "Formar solo a jueces y fiscales tras una denuncia",
+        "Permitir que cada cuerpo decida si informa sobre la prohibición",
+        "Limitar la formación a personal sanitario",
+        "Incluir información y educación sobre la prohibición de la tortura en la formación del personal encargado de hacer cumplir la ley y de otras personas pertinentes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 10 exige que la educación e información sobre la prohibición de la tortura se incluya en la formación del personal indicado.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Convención de las Naciones Unidas contra la Tortura Convención contra la Tortura, artículo 10.1",
+        "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "prevencion-riesgos-laborales-conceptos",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Prevención de riesgos laborales: conceptos · Tema 24",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes normativas e institucionales oficiales. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T24-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué se considera riesgo laboral según la Ley 31/1995?",
+      "opciones": [
+        "La posibilidad de que una persona trabajadora sufra un daño derivado del trabajo",
+        "Cualquier daño ocurrido fuera del trabajo",
+        "Una sanción disciplinaria",
+        "Una enfermedad sin relación posible con la actividad laboral"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 4 define el riesgo laboral como la posibilidad de que un trabajador sufra un daño derivado del trabajo.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué derecho reconoce el artículo 14 de la Ley 31/1995 a las personas trabajadoras?",
+      "opciones": [
+        "La exención general de cumplir medidas preventivas",
+        "Una protección eficaz en materia de seguridad y salud en el trabajo",
+        "La elección individual de no recibir información",
+        "Una indemnización automática sin daño ni incumplimiento"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 14 reconoce el derecho a una protección eficaz y atribuye correlativos deberes de protección.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 14",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué principio preventivo debe aplicarse primero según el artículo 15?",
+      "opciones": [
+        "Trasladar siempre el riesgo a la persona trabajadora",
+        "Evaluar solo después de ocurrido un accidente",
+        "Evitar los riesgos",
+        "Priorizar medidas de protección individual sobre cualquier medida colectiva"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 15 comienza por evitar los riesgos y después evaluar los que no puedan evitarse, entre otros principios.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe hacerse con los riesgos que no se puedan evitar?",
+      "opciones": [
+        "Ignorarlos si todavía no han causado un accidente",
+        "Comunicarlo solo verbalmente a compañeros",
+        "Sustituir la evaluación por una sanción",
+        "Evaluarlos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 15 establece expresamente evaluar los riesgos que no se puedan evitar.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Cómo define la Ley 31/1995 la prevención?",
+      "opciones": [
+        "Actividades o medidas destinadas a evitar o disminuir riesgos derivados del trabajo",
+        "La reparación posterior del daño exclusivamente",
+        "La selección de trabajadores",
+        "La vigilancia del centro por terceros"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4 define prevención como actividades o medidas para evitar o disminuir riesgos laborales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué es un equipo de protección individual según la ley?",
+      "opciones": [
+        "Equipo llevado o sujetado por el trabajador para protegerlo de uno o varios riesgos, con las exclusiones legales",
+        "Cualquier herramienta de trabajo",
+        "Una señal de evacuación",
+        "Un equipo destinado a proteger solo bienes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La definición de EPI está en el artículo 4.8 de la Ley 31/1995.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 4.8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe hacerse primero con un riesgo conforme al artículo 15?",
+      "opciones": [
+        "Evitarlo; si no es posible, evaluarlo",
+        "Aceptar el riesgo sin evaluación",
+        "Esperar al accidente",
+        "Trasladarlo al trabajador"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 15 ordena evitar los riesgos y evaluar los que no se puedan evitar.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué indica el principio de combatir el riesgo en su origen?",
+      "opciones": [
+        "Actuar sobre la fuente que lo produce, cuando sea posible",
+        "Limitarse a compensar el daño",
+        "Ocultar la evaluación",
+        "Actuar solo sobre el trabajador expuesto"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 15 incluye combatir los riesgos en su origen entre los principios preventivos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué elemento debe integrarse en la planificación preventiva?",
+      "opciones": [
+        "Técnica, organización, condiciones de trabajo y relaciones sociales",
+        "Solo el coste de equipos",
+        "Únicamente el calendario laboral",
+        "La opinión de clientes externos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 15 exige planificar la prevención buscando coherencia entre esos factores.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe tenerse en cuenta al adaptar el trabajo a la persona?",
+      "opciones": [
+        "La concepción de puestos, elección de equipos y métodos de trabajo",
+        "Solo la antigüedad del trabajador",
+        "La preferencia de la empresa por un proveedor",
+        "El número de visitantes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 15 incluye adaptar el trabajo a la persona para atenuar efectos perjudiciales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, artículo 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué comprende la evaluación de riesgos que debe realizar el empresario?",
+      "opciones": [
+        "La evaluación inicial de los riesgos para la seguridad y salud, teniendo en cuenta la actividad, puestos y características de las personas trabajadoras",
+        "Solo un informe cuando ya ha ocurrido un accidente",
+        "Únicamente los riesgos de las instalaciones exteriores",
+        "Una encuesta voluntaria anual"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16 dispone la evaluación inicial de los riesgos para la seguridad y salud, atendiendo a la naturaleza de la actividad y puestos de trabajo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 16.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Cuándo debe actualizarse la evaluación de riesgos?",
+      "opciones": [
+        "Solo cuando lo ordene un tribunal",
+        "Únicamente cada diez años",
+        "Nunca después de la evaluación inicial",
+        "Cuando cambien las condiciones de trabajo y, en todo caso, con ocasión de daños para la salud producidos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 16 exige revisar la evaluación cuando cambien las condiciones de trabajo y realizar investigación cuando haya daños para la salud.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 16.2.a y 16.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe hacer el empresario cuando la evaluación revela riesgos?",
+      "opciones": [
+        "Trasladar siempre la responsabilidad a la persona trabajadora",
+        "Limitarse a archivar la evaluación",
+        "Realizar las actividades preventivas necesarias para eliminar o reducir y controlar esos riesgos",
+        "Esperar a que se produzca un daño para actuar"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 16.2.b establece actividades preventivas para eliminar, reducir y controlar los riesgos detectados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 16.2.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Cómo deben tenerse en cuenta los equipos de trabajo y medios de protección?",
+      "opciones": [
+        "No forman parte de la evaluación de riesgos",
+        "Deben ser adecuados al trabajo y convenientemente adaptados, considerando el riesgo y el puesto",
+        "Se eligen solo por su coste",
+        "Se utilizan únicamente cuando la persona trabajadora lo solicita"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 17 exige que los equipos de trabajo sean adecuados y adaptados, garantizando seguridad y salud.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 17.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué regla se aplica a los equipos de protección individual?",
+      "opciones": [
+        "Deben utilizarse cuando los riesgos no puedan evitarse o limitarse suficientemente por medios de protección colectiva o medidas organizativas",
+        "Se priorizan siempre sobre cualquier medida colectiva",
+        "Son opcionales aunque persista un riesgo grave",
+        "Se entregan solo tras un accidente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 17.2 reserva el EPI a riesgos que no puedan evitarse o limitarse suficientemente por medios colectivos o medidas organizativas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 17.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué información deben recibir las personas trabajadoras sobre riesgos y medidas?",
+      "opciones": [
+        "Solo la evaluación económica del puesto",
+        "Únicamente instrucciones verbales tras un accidente",
+        "Información sobre los riesgos de puestos ajenos exclusivamente",
+        "Información sobre riesgos para su seguridad y salud, medidas de protección y actuación de emergencia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 18.1 exige información sobre riesgos y medidas de protección y prevención, así como las medidas de emergencia.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 18.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué deben hacer los representantes de las personas trabajadoras respecto de la información preventiva recibida por la empresa?",
+      "opciones": [
+        "Autorizar cada equipo de protección individual",
+        "Publicar los datos personales médicos",
+        "Transmitir a sus representados la información sobre riesgos y medidas en los términos legales",
+        "Sustituir al servicio de prevención y evaluar los riesgos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 18.1 contempla la transmisión de información por los representantes, sin perjuicio de la información directa a cada trabajador.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 18.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe incluir la planificación de la actividad preventiva?",
+      "opciones": [
+        "Una lista de sanciones disciplinarias",
+        "Plazo para llevarla a cabo, responsables y recursos humanos y materiales necesarios",
+        "Solo el nombre de la persona que redactó el documento",
+        "Únicamente el presupuesto del último ejercicio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 16.2.b exige planificar la actividad preventiva, incluyendo plazo, responsables y recursos necesarios.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 16.2.b",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué función tienen los controles periódicos previstos en el artículo 16?",
+      "opciones": [
+        "Comprobar la efectividad de las medidas preventivas",
+        "Sustituir la evaluación inicial de riesgos",
+        "Determinar la productividad individual",
+        "Reemplazar la vigilancia de la salud"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16 prevé controles periódicos de las condiciones de trabajo y de la actividad para detectar situaciones potencialmente peligrosas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 16.2.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T24-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "prevencion-riesgos-laborales-conceptos",
+      "temaNumero": 24,
+      "enunciado": "¿Qué debe hacerse con los riesgos que no se puedan evitar, conforme al principio general preventivo?",
+      "opciones": [
+        "Ignorarlos si afectan a pocas personas",
+        "Trasladarlos exclusivamente a un seguro",
+        "Esperar a que la autoridad imponga una sanción",
+        "Evaluarlos y combatirlos en su origen en la medida posible"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 15 establece evaluar los riesgos inevitables y combatirlos en su origen.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, artículo 15.1.b y c",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

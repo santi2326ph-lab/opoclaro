@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "principios-eticos-valores-sociedad",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Principios éticos y valores de la sociedad · Tema 30",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T30-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué principio de actuación policial recoge el artículo 5 de la LO 2/1986?",
+      "opciones": [
+        "Actuar con absoluta neutralidad política e imparcialidad, sin discriminación por razón de raza, religión u opinión",
+        "Adoptar decisiones según preferencias personales",
+        "Priorizar instrucciones privadas frente a la ley",
+        "Aplicar un trato distinto por opiniones políticas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 5.1.a exige adecuación al ordenamiento, neutralidad política, imparcialidad y ausencia de discriminación en los términos legales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.1.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué conducta exige el artículo 5.3 de la LO 2/1986 respecto de las personas detenidas?",
+      "opciones": [
+        "Impedir que el detenido conozca la identidad profesional",
+        "Identificarse debidamente como agente en el momento de la detención",
+        "Publicar inmediatamente su identidad y datos",
+        "Mantenerlo incomunicado en todo caso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5.3.a ordena a los miembros de las Fuerzas y Cuerpos de Seguridad identificarse debidamente como tales en el momento de efectuar una detención.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Ley Orgánica 2/1986, artículo 5.3.a",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deben hacer los empleados públicos conforme al artículo 52 del EBEP?",
+      "opciones": [
+        "Desempeñar con diligencia las tareas y velar por los intereses generales con sujeción a la Constitución y al ordenamiento",
+        "Actuar según intereses particulares",
+        "Rechazar instrucciones legales",
+        "Divulgar información reservada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 52 establece deberes de diligencia y servicio a los intereses generales conforme al ordenamiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "TREBEP, artículo 52",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué principio ético exige el artículo 53 del EBEP?",
+      "opciones": [
+        "Respeto a la Constitución y al resto del ordenamiento jurídico",
+        "Obediencia a cualquier orden aunque sea ilegal",
+        "Preferencia de intereses privados",
+        "Uso de recursos públicos para fines personales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 53 recoge principios éticos de conducta de los empleados públicos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "TREBEP, artículo 53",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué exige el principio de imparcialidad en el EBEP?",
+      "opciones": [
+        "Abstenerse de intervenir en asuntos cuando concurra un conflicto de interés en los términos legales",
+        "Favorecer a amistades",
+        "Aceptar regalos que condicionen la decisión",
+        "Difundir datos protegidos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 53 incluye imparcialidad y prevención de conflictos de interés.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "TREBEP, artículo 53",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué obligación ética recoge el artículo 53 respecto de la información conocida por razón del cargo?",
+      "opciones": [
+        "Guardar discreción y no usarla en beneficio propio o de terceros",
+        "Publicarla siempre",
+        "Compartirla con cualquier empresa",
+        "Conservarla para uso privado"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 53 impide usar información obtenida por el cargo para beneficio propio o de terceros.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "TREBEP, artículo 53",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué conducta exige el artículo 54 del EBEP en el trato con la ciudadanía?",
+      "opciones": [
+        "Atención respetuosa y diligente",
+        "Trato desigual por opinión política",
+        "Negativa a informar sobre servicios públicos",
+        "Preferencia por relaciones personales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 54 incluye deberes de respeto, atención y diligencia en la relación con ciudadanos y superiores.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "TREBEP, artículo 54",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deben hacer los empleados públicos con los recursos y bienes públicos?",
+      "opciones": [
+        "Utilizarlos para los fines a los que están destinados",
+        "Destinarlos a actividades privadas",
+        "Cederlos sin autorización",
+        "Destruirlos al terminar la jornada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 54 exige administrar y utilizar los recursos y bienes públicos con austeridad y para los fines previstos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "TREBEP, artículo 54",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué principio de conducta aparece en el artículo 54 del EBEP respecto de las órdenes?",
+      "opciones": [
+        "Cumplir las instrucciones profesionales salvo que constituyan una infracción manifiesta del ordenamiento",
+        "Cumplir toda instrucción aunque sea manifiestamente ilegal",
+        "Ignorar las instrucciones del superior",
+        "Publicar las órdenes antes de ejecutarlas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 54.3 establece el deber de obedecer instrucciones profesionales salvo infracción manifiesta del ordenamiento.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "TREBEP, artículo 54",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deben evitar los empleados públicos según los principios éticos del EBEP?",
+      "opciones": [
+        "Actividades privadas que puedan generar conflictos de intereses con sus obligaciones públicas",
+        "La formación continua",
+        "La atención imparcial",
+        "El cumplimiento de la Constitución"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 53 exige evitar actividades privadas que puedan comprometer la imparcialidad o generar conflicto de intereses.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "TREBEP, artículo 53",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deben hacer los empleados públicos si tienen un interés personal en un asunto?",
+      "opciones": [
+        "Abstenerse de intervenir en él",
+        "Resolverlo con prioridad",
+        "Delegar informalmente la decisión en un particular",
+        "Informarlo únicamente después de su resolución"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 53.5 ordena abstenerse en asuntos en los que se tenga interés personal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deben evitar los empleados públicos respecto de intereses privados?",
+      "opciones": [
+        "La formación profesional fuera del horario laboral",
+        "La colaboración con otros órganos públicos",
+        "La atención a la ciudadanía",
+        "Actividades o intereses que puedan plantear conflictos de intereses con su puesto público"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 53.5 exige abstenerse de actividades privadas o intereses que puedan suponer riesgo de conflicto con el puesto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué prohíbe el artículo 53.6 respecto de operaciones económicas?",
+      "opciones": [
+        "Realizar compras ordinarias con fondos personales",
+        "Solicitar formación sobre contratación pública",
+        "Contraer obligaciones o intervenir en negocios jurídicos que puedan crear conflicto con las obligaciones del puesto público",
+        "Administrar recursos públicos conforme a su destino"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 53.6 prohíbe obligaciones económicas u operaciones patrimoniales que puedan suponer conflicto con las obligaciones del puesto.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué conducta deben seguir ante un trato de favor o ventaja injustificada?",
+      "opciones": [
+        "Comunicarlo solo al finalizar el año",
+        "No aceptarlo",
+        "Aceptarlo si no supera una cuantía determinada",
+        "Aceptarlo cuando provenga de un usuario habitual"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 53.7 establece que no se aceptará ningún trato de favor, privilegio o ventaja injustificada.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué prohíbe el artículo 53.9 en la tramitación de expedientes?",
+      "opciones": [
+        "Influir sin justa causa en su agilización o resolución, especialmente para obtener privilegios o perjudicar a terceros",
+        "Resolver dentro del plazo legal",
+        "Informar sobre los trámites que puede conocer la ciudadanía",
+        "Priorizar una actuación por una razón legal objetiva"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 53.9 prohíbe influir en la agilización sin justa causa y hacerlo para lograr privilegios o perjudicar a terceros.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.9",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué deber establece el artículo 53.10 respecto de los procedimientos de su competencia?",
+      "opciones": [
+        "Resolver siempre antes que cualquier otro expediente",
+        "Delegar automáticamente los expedientes complejos",
+        "Mantenerlos abiertos hasta que lo solicite la ciudadanía",
+        "Cumplir con diligencia las tareas y resolver dentro de plazo los procedimientos o expedientes que correspondan"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 53.10 exige diligencia y, en su caso, resolución dentro de plazo de los procedimientos o expedientes de competencia propia.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.10",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Cómo debe actuar el empleado público respecto de información que conoce por su cargo?",
+      "opciones": [
+        "Usarla para obtener una ventaja profesional",
+        "Publicarla para demostrar transparencia, aunque esté protegida",
+        "Mantener discreción y no usarla en beneficio propio o de terceros ni contra el interés público",
+        "Compartirla con cualquier solicitante"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 53.12 exige guardar secreto sobre materias clasificadas, discreción y no usar la información en beneficio propio o ajeno ni contra el interés público.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 53.12",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué debe hacer un empleado público con documentos de su unidad?",
+      "opciones": [
+        "Conservarlos solo en dispositivos personales",
+        "Garantizar que consten y permanezcan para su transmisión y entrega a quienes le sucedan",
+        "Retirarlos al cambiar de puesto",
+        "Destruirlos al finalizar cada ejercicio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 54.7 dispone garantizar la constancia y permanencia de los documentos para transmitirlos y entregarlos a sus posteriores responsables.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 54.7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿Qué exige el artículo 54.8 a los empleados públicos?",
+      "opciones": [
+        "Mantener actualizada su formación y cualificación",
+        "Realizar formación únicamente al ingresar",
+        "Renovar sus conocimientos solo cuando haya una sanción",
+        "Limitarse a la formación que imponga un superior"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 54.8 establece el deber de mantener actualizada la formación y cualificación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 54.8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T30-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "principios-eticos-valores-sociedad",
+      "temaNumero": 30,
+      "enunciado": "¿En qué lengua debe garantizarse la atención al ciudadano conforme al artículo 54.11?",
+      "opciones": [
+        "Solo en castellano, con independencia del territorio",
+        "En cualquier lengua extranjera elegida por el ciudadano",
+        "Únicamente en la lengua usada por la Administración",
+        "En la lengua oficial en el territorio que solicite"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El artículo 54.11 exige garantizar atención en la lengua que el ciudadano solicite, siempre que sea oficial en el territorio.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido del Estatuto Básico del Empleado Público, artículo 54.11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

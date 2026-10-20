@@ -1,0 +1,1019 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "constitucion-espanola",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Constitución Española",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas de elaboración propia basadas en el texto constitucional. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "CE-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "Según el artículo 1.1, ¿cuáles son valores superiores del ordenamiento jurídico?",
+      "opciones": [
+        "Libertad, justicia, igualdad y pluralismo político",
+        "Unidad, autonomía, solidaridad y seguridad",
+        "Legalidad, jerarquía, publicidad y responsabilidad",
+        "Dignidad, libertad, seguridad y propiedad"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 1.1 enumera la libertad, la justicia, la igualdad y el pluralismo político como valores superiores.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 1.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a1"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Dónde reside la soberanía nacional, según el artículo 1.2?",
+      "opciones": [
+        "En las Cortes Generales",
+        "En el pueblo español",
+        "En el Rey",
+        "En el Gobierno"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1.2 establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 1.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a1"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál es la forma política del Estado español?",
+      "opciones": [
+        "República federal",
+        "Monarquía parlamentaria",
+        "Monarquía constitucional ejecutiva",
+        "Estado presidencialista"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 1.3 dispone que la forma política del Estado español es la Monarquía parlamentaria.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 1.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a1"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "Además de la unidad de la Nación española, ¿qué reconoce y garantiza el artículo 2?",
+      "opciones": [
+        "El derecho a la autonomía de nacionalidades y regiones y la solidaridad entre ellas",
+        "La soberanía de cada comunidad autónoma",
+        "La independencia de las regiones que la integran",
+        "La igualdad de competencias en todos los municipios"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 2 reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran la Nación española y la solidaridad entre todas ellas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a2"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué lengua declara oficial en todo el Estado el artículo 3.1?",
+      "opciones": [
+        "El castellano",
+        "Todas las lenguas españolas por igual en todo el Estado",
+        "La lengua que determine cada comunidad autónoma",
+        "El castellano y las demás lenguas oficiales autonómicas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 3.1 declara el castellano lengua española oficial del Estado; las demás lenguas españolas también serán oficiales en sus respectivas comunidades autónomas de acuerdo con sus estatutos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 3.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a3"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cómo se describe la bandera de España en el artículo 4.1?",
+      "opciones": [
+        "Tres franjas verticales: roja, amarilla y roja, de igual anchura",
+        "Tres franjas horizontales: roja, amarilla y roja, con la amarilla de doble anchura que cada roja",
+        "Tres franjas horizontales: amarilla, roja y amarilla, con la central más ancha",
+        "Dos franjas horizontales: roja y amarilla, de igual anchura"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 4.1 describe tres franjas horizontales roja, amarilla y roja; la amarilla tiene doble anchura que cada una de las rojas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 4.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a4"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál es la capital del Estado, según el artículo 5?",
+      "opciones": [
+        "Barcelona",
+        "Madrid",
+        "Sevilla",
+        "La villa que determine el Congreso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 5 establece que la capital del Estado es la villa de Madrid.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a5"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál es una misión de las Fuerzas Armadas que recoge el artículo 8.1?",
+      "opciones": [
+        "Garantizar la seguridad ciudadana bajo dependencia del Gobierno",
+        "Defender la integridad territorial y el ordenamiento constitucional",
+        "Controlar la acción del Gobierno",
+        "Administrar justicia en nombre del Rey"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 8.1 atribuye a las Fuerzas Armadas garantizar la soberanía e independencia de España y defender su integridad territorial y el ordenamiento constitucional.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 8.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a8"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿A qué edad alcanzan la mayoría de edad los españoles?",
+      "opciones": [
+        "A los dieciséis años",
+        "A los dieciocho años",
+        "A los veintiún años",
+        "A la edad que determine cada ley autonómica"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 12 dispone que los españoles son mayores de edad a los dieciocho años.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 12",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a12"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué principio general proclama el artículo 14?",
+      "opciones": [
+        "La igualdad de los españoles ante la ley y la prohibición de discriminación en los términos que enumera",
+        "La igualdad de resultados económicos entre todas las personas",
+        "La igualdad exclusiva en el acceso a cargos públicos",
+        "La igualdad entre comunidades autónomas en cualquier materia"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 14 proclama que los españoles son iguales ante la ley y prohíbe la discriminación por las causas que enumera y cualquier otra condición o circunstancia personal o social.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 14",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a14"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Quiénes están sujetos a la Constitución y al resto del ordenamiento jurídico, conforme al artículo 9.1?",
+      "opciones": [
+        "Solo los poderes públicos",
+        "Solo los ciudadanos",
+        "Los ciudadanos y los poderes públicos",
+        "Únicamente los órganos judiciales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 9.1 sujeta tanto a los ciudadanos como a los poderes públicos a la Constitución y al resto del ordenamiento jurídico.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 9.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a9"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué deben hacer los poderes públicos para que la libertad y la igualdad sean reales y efectivas?",
+      "opciones": [
+        "Limitar la participación política a los procesos electorales",
+        "Promover condiciones y remover obstáculos que impidan o dificulten su plenitud",
+        "Delegar esa tarea exclusivamente en los tribunales",
+        "Garantizar únicamente la igualdad formal ante la ley"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 9.2 encarga a los poderes públicos promover las condiciones para que libertad e igualdad sean reales y efectivas, remover obstáculos y facilitar la participación de todos los ciudadanos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 9.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a9"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "Según el artículo 10.1, ¿qué fundamento tiene el orden político y la paz social?",
+      "opciones": [
+        "La dignidad de la persona, sus derechos inviolables, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos ajenos",
+        "La soberanía de las Cortes y la unidad administrativa",
+        "La seguridad ciudadana y la defensa nacional",
+        "La libertad de empresa y la propiedad privada"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 10.1 enumera la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 10.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a10"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Puede privarse de su nacionalidad a un español de origen?",
+      "opciones": [
+        "Sí, por decisión administrativa motivada",
+        "Sí, mediante ley ordinaria",
+        "No, el artículo 11.2 dispone que no podrá ser privado de ella",
+        "Solo en caso de doble nacionalidad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 11.2 establece literalmente que ningún español de origen podrá ser privado de su nacionalidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 11.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a11"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "De acuerdo con el artículo 13.3, ¿qué principio se atiende para conceder la extradición?",
+      "opciones": [
+        "El principio de reciprocidad",
+        "El principio de jerarquía normativa",
+        "El principio de oportunidad administrativa",
+        "El principio de autonomía territorial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 13.3 prevé que la extradición se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 13.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a13"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Sobre qué no puede ser obligado a declarar nadie, según el artículo 16.2?",
+      "opciones": [
+        "Su ideología, religión o creencias",
+        "Su domicilio o lugar de trabajo",
+        "Su participación en asuntos públicos",
+        "Su nacionalidad de origen"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 16.2 dispone que nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 16.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a16"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál es el plazo máximo general de la detención preventiva que señala el artículo 17.2?",
+      "opciones": [
+        "Veinticuatro horas",
+        "Cuarenta y ocho horas",
+        "Setenta y dos horas",
+        "Cinco días"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El artículo 17.2 indica que, en todo caso, en el plazo máximo de setenta y dos horas el detenido debe quedar en libertad o a disposición de la autoridad judicial.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 17.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a17"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "Según el artículo 18.2, ¿cuál es una excepción a la inviolabilidad del domicilio?",
+      "opciones": [
+        "La mera solicitud de un agente",
+        "El consentimiento del titular, una resolución judicial o un caso de flagrante delito",
+        "Una orden verbal de cualquier autoridad",
+        "La existencia de una investigación administrativa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 18.2 impide la entrada o registro sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 18.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a18"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué establece el artículo 20.2 sobre el ejercicio de los derechos que reconoce?",
+      "opciones": [
+        "Puede restringirse mediante censura administrativa previa",
+        "No puede restringirse mediante ningún tipo de censura previa",
+        "Requiere autorización judicial previa",
+        "Solo excluye la censura en medios públicos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 20.2 establece que el ejercicio de los derechos reconocidos en ese artículo no puede restringirse mediante ningún tipo de censura previa.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 20.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a20"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿En qué condiciones reconoce el artículo 23.2 el acceso a las funciones y cargos públicos?",
+      "opciones": [
+        "En condiciones de igualdad y con los requisitos que señalen las leyes",
+        "En condiciones fijadas por cada cámara parlamentaria",
+        "Solo mediante elección directa",
+        "Sin requisitos legales cuando se trate de funciones públicas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 23.2 reconoce el derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 23.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a23"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-021",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál de estos principios aparece expresamente entre las garantías del artículo 9.3?",
+      "opciones": [
+        "La interdicción de la arbitrariedad de los poderes públicos",
+        "La oportunidad de las decisiones administrativas",
+        "La primacía de los reglamentos sobre las leyes",
+        "La retroactividad general de las disposiciones sancionadoras"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 9.3 garantiza, entre otros principios, la interdicción de la arbitrariedad de los poderes públicos. También enumera legalidad, jerarquía normativa, publicidad de las normas, seguridad jurídica y responsabilidad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 9.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a9"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-022",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Conforme a qué referencias deben interpretarse las normas sobre derechos fundamentales y libertades reconocidos por la Constitución?",
+      "opciones": [
+        "Solo conforme a las leyes orgánicas españolas",
+        "Conforme a la Declaración Universal de Derechos Humanos y a los tratados sobre esas materias ratificados por España",
+        "Conforme a cualquier tratado internacional firmado, aunque no esté ratificado",
+        "Conforme a la jurisprudencia de cada comunidad autónoma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 10.2 ordena interpretar esas normas de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 10.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a10"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-023",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué finalidad atribuye el artículo 17.4 al procedimiento de «habeas corpus»?",
+      "opciones": [
+        "Revisar las sentencias firmes de prisión",
+        "Poner inmediatamente a disposición judicial a toda persona detenida ilegalmente",
+        "Autorizar la prisión provisional durante un plazo constitucional fijo",
+        "Sustituir la asistencia de abogado durante la detención"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 17.4 dispone que la ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. El mismo apartado remite a la ley el plazo máximo de prisión provisional.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 17.4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a17"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-024",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué comunicaciones menciona especialmente el artículo 18.3 al garantizar su secreto?",
+      "opciones": [
+        "Las postales, telegráficas y telefónicas",
+        "Las comunicaciones internas de las administraciones",
+        "Las comunicaciones exclusivamente audiovisuales",
+        "Las comunicaciones entre representantes parlamentarios"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 18.3 garantiza el secreto de las comunicaciones y menciona especialmente las postales, telegráficas y telefónicas, salvo resolución judicial.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 18.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a18"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-025",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "En reuniones en lugares de tránsito público y manifestaciones, ¿cuándo permite el artículo 21.2 que la autoridad las prohíba?",
+      "opciones": [
+        "Siempre que no se haya solicitado autorización previa",
+        "Solo por razones fundadas de alteración del orden público con peligro para personas o bienes",
+        "Cuando lo solicite cualquier persona afectada",
+        "Cuando la reunión tenga más de veinte asistentes"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 21.2 exige comunicación previa en esos casos y permite prohibirlos solo si existen razones fundadas de alteración del orden público con peligro para personas o bienes.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 21.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a21"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-026",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cuál de estas garantías procesales menciona expresamente el artículo 24.2?",
+      "opciones": [
+        "El derecho a no declarar contra uno mismo y a la presunción de inocencia",
+        "El derecho a elegir al juez que conocerá del caso",
+        "El derecho a que todo proceso sea secreto",
+        "El derecho a no comparecer ante un órgano judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 24.2 incluye, entre otras garantías, el derecho a no declarar contra sí mismo, a no confesarse culpable y a la presunción de inocencia.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 24.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a24"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-027",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿A qué colectivos permite el artículo 28.1 que la ley limite o exceptúe el ejercicio del derecho a sindicarse libremente?",
+      "opciones": [
+        "A todos los funcionarios públicos",
+        "A las Fuerzas o Institutos armados o a otros cuerpos sometidos a disciplina militar",
+        "A cualquier persona que trabaje en el sector público",
+        "A los representantes elegidos por sufragio universal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 28.1 permite que la ley limite o exceptúe ese ejercicio a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar; también prevé regular peculiaridades para funcionarios públicos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 28.1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a28"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-028",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Cómo pueden ejercer el derecho de petición los miembros de las Fuerzas o Institutos armados o de cuerpos sometidos a disciplina militar?",
+      "opciones": [
+        "Individual o colectivamente, según la ley ordinaria",
+        "Solo individualmente y con arreglo a su legislación específica",
+        "Únicamente por medio de sus representantes sindicales",
+        "No pueden ejercerlo en ningún caso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 29.2 establece que podrán ejercer ese derecho solo individualmente y conforme a lo dispuesto en su legislación específica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 29.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a29"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 2
+    },
+    {
+      "id": "CE-CNP-029",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "Según el artículo 56.3, ¿qué condición se aplica a los actos del Rey, salvo la excepción que cita ese apartado?",
+      "opciones": [
+        "Son válidos sin refrendo cuando los apruebe el Gobierno",
+        "Deben estar refrendados y carecen de validez sin dicho refrendo",
+        "Requieren siempre autorización de las Cortes Generales",
+        "No están sujetos a ninguna regla constitucional"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El artículo 56.3 declara inviolable a la persona del Rey y dispone que sus actos estarán siempre refrendados y carecerán de validez sin refrendo, salvo lo dispuesto en el artículo 65.2.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 56.3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a56"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 3
+    },
+    {
+      "id": "CE-CNP-030",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "enunciado": "¿Qué función corresponde a las Cortes Generales según el artículo 66.2?",
+      "opciones": [
+        "Ejercer la potestad legislativa del Estado, aprobar sus Presupuestos y controlar la acción del Gobierno",
+        "Dirigir la política interior y exterior y la Administración civil y militar",
+        "Administrar justicia y ejecutar lo juzgado",
+        "Nombrar a todos los miembros de las comunidades autónomas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 66.2 atribuye a las Cortes Generales la potestad legislativa del Estado, la aprobación de sus Presupuestos, el control de la acción del Gobierno y las demás competencias constitucionales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 66.2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a66"
+      },
+      "fechaRevision": "2026-10-19",
+      "temaNumero": 3
+    },
+    {
+      "id": "CE-CNP-031",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué función atribuye el artículo 69 al Senado?",
+      "opciones": [
+        "Representar territorialmente al pueblo español",
+        "Ejercer en exclusiva la potestad ejecutiva",
+        "Elegir al presidente del Tribunal Supremo",
+        "Aprobar los estatutos de autonomía"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 69 define el Senado como Cámara de representación territorial.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 69",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a69"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-032",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Quién debe regular las causas de inelegibilidad e incompatibilidad de diputados y senadores, según el artículo 70?",
+      "opciones": [
+        "Una ley electoral",
+        "Un reglamento del Gobierno",
+        "Una orden ministerial",
+        "Los estatutos de autonomía"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 70 remite a la ley electoral para determinar las causas de inelegibilidad e incompatibilidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 70",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a70"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-033",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué materias deben regularse mediante ley orgánica según el artículo 81.1?",
+      "opciones": [
+        "El desarrollo de los derechos fundamentales y libertades públicas, los Estatutos de Autonomía, el régimen electoral general y las demás previstas en la Constitución",
+        "Todas las materias tributarias",
+        "Únicamente los presupuestos generales",
+        "Cualquier reglamento administrativo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 81.1 enumera esas materias reservadas a ley orgánica.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 81",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a81"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-034",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿A quién reconoce el artículo 87 iniciativa legislativa?",
+      "opciones": [
+        "Al Gobierno, al Congreso y al Senado, entre otros sujetos y en los términos constitucionales",
+        "Solo al Rey",
+        "Exclusivamente al Congreso",
+        "Únicamente al Tribunal Constitucional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 87 reconoce iniciativa legislativa al Gobierno, Congreso y Senado, así como a las Asambleas autonómicas y a la iniciativa popular con límites constitucionales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 87",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a87"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-035",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué plazo establece el artículo 91 para que el Rey sancione las leyes aprobadas por las Cortes Generales?",
+      "opciones": [
+        "Quince días",
+        "Treinta días",
+        "Un mes",
+        "No fija plazo"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 91 dispone que el Rey sancionará las leyes en el plazo de quince días.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 91",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a91"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-036",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué dirige el Gobierno conforme al artículo 97?",
+      "opciones": [
+        "La política interior y exterior, la Administración civil y militar y la defensa del Estado",
+        "La potestad jurisdiccional",
+        "La actividad de las Cortes Generales",
+        "La organización del Tribunal Constitucional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 97 atribuye al Gobierno la dirección de la política interior y exterior, de la Administración civil y militar y de la defensa del Estado.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 97",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a97"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-037",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué mayoría se exige en la primera votación de investidura del candidato a la Presidencia del Gobierno?",
+      "opciones": [
+        "Mayoría absoluta del Congreso",
+        "Mayoría simple del Senado",
+        "Dos tercios del Congreso",
+        "Mayoría absoluta de ambas Cámaras"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 99.3 exige mayoría absoluta del Congreso en primera votación.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 99",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a99"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-038",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "Si el candidato no obtiene mayoría absoluta en la primera votación de investidura, ¿cuándo se celebra la segunda?",
+      "opciones": [
+        "Cuarenta y ocho horas después",
+        "Veinticuatro horas después",
+        "Siete días después",
+        "Al mes siguiente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 99.3 prevé una nueva votación cuarenta y ocho horas después; basta mayoría simple.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 99",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a99"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-039",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Ante qué Cámara responde solidariamente el Gobierno en su gestión política, según el artículo 108?",
+      "opciones": [
+        "Ante el Congreso de los Diputados",
+        "Ante el Senado exclusivamente",
+        "Ante el Tribunal Supremo",
+        "Ante el Consejo de Estado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 108 establece la responsabilidad solidaria del Gobierno en su gestión política ante el Congreso de los Diputados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 108",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a108"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-040",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Cuál es la duración máxima inicial del estado de alarma declarado por el Gobierno?",
+      "opciones": [
+        "Quince días",
+        "Treinta días",
+        "Sesenta días",
+        "Noventa días"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 116.2 limita la declaración inicial a quince días; su prórroga requiere autorización del Congreso.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 116",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a116"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-041",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿En nombre de quién se administra la justicia conforme al artículo 117.1?",
+      "opciones": [
+        "Del Rey",
+        "Del Congreso",
+        "Del Gobierno",
+        "Del Consejo General del Poder Judicial"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 117.1 dispone que la justicia emana del pueblo y se administra en nombre del Rey por jueces y magistrados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 117",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a117"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-042",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué órgano es el órgano de gobierno del Poder Judicial?",
+      "opciones": [
+        "El Consejo General del Poder Judicial",
+        "El Tribunal Constitucional",
+        "El Consejo de Estado",
+        "La Fiscalía General del Estado"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 122.2 configura al Consejo General del Poder Judicial como órgano de gobierno del Poder Judicial.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 122",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a122"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-043",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué misión constitucional tiene el Ministerio Fiscal?",
+      "opciones": [
+        "Promover la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público tutelado por la ley",
+        "Dictar sentencias penales",
+        "Aprobar leyes orgánicas",
+        "Dirigir las Fuerzas Armadas"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 124.1 establece las funciones constitucionales del Ministerio Fiscal.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 124",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a124"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-044",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿En qué entidades se organiza territorialmente el Estado según el artículo 137?",
+      "opciones": [
+        "Municipios, provincias y comunidades autónomas que se constituyan",
+        "Comarcas, diputaciones y delegaciones ministeriales únicamente",
+        "Provincias y partidos judiciales",
+        "Municipios y regiones históricas exclusivamente"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 137 enumera municipios, provincias y comunidades autónomas como entidades de organización territorial.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 137",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a137"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-045",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Quiénes integran el ayuntamiento según el artículo 140?",
+      "opciones": [
+        "El alcalde y los concejales",
+        "El gobernador civil y los diputados",
+        "El presidente autonómico y los consejeros",
+        "El alcalde y los senadores"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 140 garantiza la autonomía municipal y dispone que el gobierno y administración municipales corresponden a ayuntamientos integrados por alcalde y concejales.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 140",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a140"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-046",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿A quién atribuye el artículo 149.1.6 la competencia exclusiva sobre legislación penal?",
+      "opciones": [
+        "Al Estado",
+        "A los municipios",
+        "A las comunidades autónomas sin excepción",
+        "A las diputaciones provinciales"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 149.1.6 atribuye al Estado competencia exclusiva sobre legislación penal, entre otras materias.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 149",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a149"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-047",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Qué mayoría del Senado exige el artículo 155 para adoptar las medidas previstas en él?",
+      "opciones": [
+        "Mayoría absoluta",
+        "Mayoría simple",
+        "Tres quintos",
+        "Dos tercios"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 155.1 exige aprobación por mayoría absoluta del Senado, tras el requerimiento previo al presidente de la comunidad autónoma.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 155",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a155"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "CE-CNP-048",
+      "oposicion": "policia-nacional",
+      "tema": "constitucion-espanola",
+      "temaNumero": 3,
+      "enunciado": "¿Cuántos miembros componen el Tribunal Constitucional según el artículo 159.1?",
+      "opciones": [
+        "Doce",
+        "Diez",
+        "Quince",
+        "Veinte"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El artículo 159.1 establece que el Tribunal Constitucional se compone de doce miembros nombrados por el Rey.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Constitución Española, artículo 159",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a159"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ],
+  "convocatoria": "BOE-A-2026-15055"
+}

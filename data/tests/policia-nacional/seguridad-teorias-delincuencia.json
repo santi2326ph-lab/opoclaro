@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "seguridad-teorias-delincuencia",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Seguridad y teorías de la delincuencia · Tema 33",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T33-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué objetivo atribuyen las Directrices de Naciones Unidas a la prevención del delito?",
+      "opciones": [
+        "Reducir el riesgo de que se cometan delitos y sus efectos perjudiciales en las personas y la sociedad",
+        "Aumentar las oportunidades de comisión delictiva",
+        "Sustituir siempre el proceso penal por medidas informales",
+        "Limitar la prevención a la vigilancia de fronteras"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Las Directrices de Naciones Unidas para la prevención del delito describen como objetivo reducir el riesgo de delincuencia y sus efectos dañinos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention",
+        "url": "https://www.unodc.org/unodc/en/justice-and-prison-reform/crimeprevention.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué enfoque preventivo reconoce Naciones Unidas como parte de una política integral de prevención?",
+      "opciones": [
+        "Únicamente el aumento de penas de prisión",
+        "Medidas sociales, comunitarias, situacionales y de reinserción, adaptadas al contexto",
+        "Solo vigilancia tecnológica masiva",
+        "La respuesta posterior al delito sin prevención"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las directrices de Naciones Unidas contemplan enfoques de prevención social, comunitaria, situacional y de reintegración.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention Guidelines",
+        "url": "https://www.unodc.org/unodc/en/justice-and-prison-reform/crimeprevention.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué significa la prevención situacional del delito?",
+      "opciones": [
+        "Reducir oportunidades delictivas modificando situaciones y condiciones que facilitan el delito",
+        "Aumentar penas para todos los delitos",
+        "Intervenir solo después de una condena",
+        "Sustituir toda política social por vigilancia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "UNODC distingue la prevención situacional, orientada a reducir oportunidades, de otros enfoques preventivos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention and Criminal Justice Module 2",
+        "url": "https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-2/key-issues/summary.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿En qué se centra la prevención del delito de carácter evolutivo o developmental?",
+      "opciones": [
+        "En factores de riesgo y protección a lo largo del desarrollo, incluida la infancia",
+        "Solo en el diseño de cerraduras",
+        "En la ejecución de penas de prisión",
+        "En impedir el tránsito internacional"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "UNODC describe la prevención evolutiva mediante intervenciones tempranas y factores asociados al desarrollo.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention and Criminal Justice Module 2",
+        "url": "https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-2/key-issues/summary.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué caracteriza a la prevención comunitaria del delito?",
+      "opciones": [
+        "La participación de comunidades y organizaciones locales en iniciativas preventivas",
+        "La actuación exclusiva de tribunales superiores",
+        "La ausencia de colaboración ciudadana",
+        "La sustitución de servicios sociales por sanciones"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las directrices de UNODC consideran la participación comunitaria y los enfoques multisectoriales componentes de prevención.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "UNODC, Guidelines for the Prevention of Crime",
+        "url": "https://www.unodc.org/unodc/en/justice-and-prison-reform/crimeprevention.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué es el desplazamiento del delito?",
+      "opciones": [
+        "El traslado de la actividad delictiva a otro lugar, momento, objetivo o método tras una intervención preventiva",
+        "La reducción automática de delitos en toda la región",
+        "La denuncia trasladada a otro juzgado",
+        "La movilidad de la población entre municipios"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "UNODC advierte que algunas medidas preventivas pueden generar desplazamiento del delito.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention and Criminal Justice Module 2",
+        "url": "https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-2/key-issues/summary.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué describe la difusión de beneficios preventivos?",
+      "opciones": [
+        "Que los efectos de una intervención pueden extenderse más allá del lugar o conducta directamente intervenidos",
+        "Que toda prevención aumenta el delito",
+        "Que la condena se publica en medios",
+        "Que se difunden datos personales de víctimas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "UNODC examina tanto el desplazamiento como posibles efectos de difusión de las medidas preventivas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention and Criminal Justice Module 2",
+        "url": "https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-2/key-issues/summary.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué finalidad tiene la prevención social del delito?",
+      "opciones": [
+        "Actuar sobre condiciones sociales y factores de riesgo que pueden contribuir a la delincuencia",
+        "Regular únicamente la prueba penal",
+        "Sustituir todas las políticas de salud",
+        "Evitar la investigación de infracciones"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "UNODC incluye iniciativas de educación, planificación urbana y políticas públicas dentro de los enfoques preventivos.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "UNODC, Handbook on Crime Prevention Guidelines",
+        "url": "https://www.unodc.org/pdf/criminal_justice/Handbook_on_Crime_Prevention_Guidelines_-_Making_them_work.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué caracteriza a una política de prevención basada en evidencia?",
+      "opciones": [
+        "Utiliza información, planificación, seguimiento y evaluación de resultados",
+        "Se basa solo en intuiciones no revisables",
+        "Evita medir resultados",
+        "Aplica idéntica intervención en cualquier contexto"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las guías de UNODC recomiendan prevención basada en conocimiento, planificación y evaluación.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "UNODC, Handbook on Crime Prevention Guidelines",
+        "url": "https://www.unodc.org/pdf/criminal_justice/Handbook_on_Crime_Prevention_Guidelines_-_Making_them_work.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué enfoque reconoce UNODC como parte del sistema de justicia penal preventivo?",
+      "opciones": [
+        "Policía, tribunales y otros mecanismos de justicia junto con iniciativas multisectoriales",
+        "Exclusivamente medidas arquitectónicas",
+        "Solo tratamiento penitenciario",
+        "Únicamente campañas publicitarias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "UNODC incluye mecanismos policiales y judiciales dentro del conjunto amplio de iniciativas preventivas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "UNODC, Crime Prevention and Criminal Justice Module 2",
+        "url": "https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-2/key-issues/summary.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿A quién atribuyen las Directrices de la ONU la responsabilidad de crear y mantener un contexto favorable a la prevención del delito?",
+      "opciones": [
+        "Exclusivamente a los tribunales",
+        "A todos los niveles de gobierno",
+        "Solo a las organizaciones vecinales",
+        "Únicamente a los cuerpos policiales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las Directrices afirman que corresponde a todos los niveles de gobierno crear, mantener y promover el contexto en el que instituciones y sociedad civil puedan contribuir a prevenir el delito.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué enfoque transversal señalan las Directrices de la ONU para las estrategias de prevención del delito?",
+      "opciones": [
+        "Sustitución de la legalidad por acuerdos informales",
+        "Aplicación exclusiva de medidas coercitivas",
+        "Respeto de los derechos humanos y del Estado de derecho",
+        "Reserva de la prevención al sector privado"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los principios de las Directrices vinculan la prevención con los derechos humanos y el Estado de derecho.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué principio institucional es coherente con las Directrices de la ONU sobre prevención del delito?",
+      "opciones": [
+        "El trabajo aislado de cada institución",
+        "La exclusión de la sociedad civil",
+        "La prohibición de evaluar programas",
+        "La coordinación de organismos y sectores pertinentes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las Directrices promueven coordinación y alianzas entre instituciones públicas, sociedad civil y otros sectores para dar una respuesta integral.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué condición deben reunir los programas de prevención para sostenerse en el tiempo, conforme a las Directrices?",
+      "opciones": [
+        "Ser sostenibles y contar con rendición de cuentas",
+        "Cambiar de objetivo cada año",
+        "Depender exclusivamente de financiación ocasional",
+        "Evitar indicadores de seguimiento"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Sostenibilidad y rendición de cuentas forman parte de los principios rectores señalados para una prevención eficaz.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué base deben utilizar las políticas de prevención del delito según los principios de Naciones Unidas?",
+      "opciones": [
+        "Percepciones aisladas sin evaluación",
+        "Acción basada en conocimientos y evidencia",
+        "Únicamente estadísticas policiales de un día",
+        "Modelos importados sin adaptación local"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las Directrices recogen la necesidad de una acción basada en conocimiento, diagnóstico y evaluación, adaptada al contexto.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué dimensión de inclusión recomienda integrar la prevención del delito en las Directrices de la ONU?",
+      "opciones": [
+        "La segregación de grupos vulnerables",
+        "La exclusión de jóvenes de los programas",
+        "La inclusión social y económica de las poblaciones",
+        "La clasificación de barrios como zonas permanentes de riesgo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las Directrices y su desarrollo por UNODC vinculan la prevención con la inclusión social y económica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué función asignan las Directrices a la comunidad en la prevención local?",
+      "opciones": [
+        "Asumir potestades jurisdiccionales",
+        "Sustituir toda actuación pública",
+        "Realizar investigaciones penales sin habilitación",
+        "Aportar iniciativas, experiencia y compromiso para mejorar las condiciones del vecindario"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La prevención local se apoya en las iniciativas, experiencia y compromiso de quienes integran la comunidad.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Cuál es la relación entre prevención del delito y desarrollo sostenible que describen las Directrices?",
+      "opciones": [
+        "Una prevención bien planificada puede contribuir al desarrollo sostenible",
+        "La prevención se limita a objetivos económicos",
+        "El desarrollo sostenible excluye políticas de seguridad",
+        "No existe relación entre ambos ámbitos"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Las Directrices señalan que estrategias bien planificadas previenen delitos y victimización y contribuyen al desarrollo sostenible.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué dimensión temporal destaca la ONU al describir beneficios de una prevención eficaz?",
+      "opciones": [
+        "Solo produce efectos durante la intervención policial",
+        "Puede producir beneficios a largo plazo y reducir costes sociales asociados al delito",
+        "Sus beneficios desaparecen al terminar la financiación",
+        "Solo reduce el coste de las condenas firmes"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La introducción de las Directrices señala beneficios a largo plazo y reducción de costes del sistema de justicia penal y de otros costes sociales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T33-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "seguridad-teorias-delincuencia",
+      "temaNumero": 33,
+      "enunciado": "¿Qué papel debe tener la sociedad civil en el marco preventivo descrito por la ONU?",
+      "opciones": [
+        "Debe quedar al margen de toda prevención",
+        "Solo participa tras una condena judicial",
+        "Puede contribuir junto con las instituciones públicas y otros sectores",
+        "Puede sustituir la responsabilidad de los gobiernos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las Directrices incluyen a todos los segmentos de la sociedad civil, incluido el sector empresarial, dentro del marco en que instituciones y ciudadanía contribuyen a prevenir delitos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "Naciones Unidas, Directrices para la prevención del delito, ECOSOC Res. 2002/13",
+        "url": "https://www.unodc.org/pdf/res_2002-13.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

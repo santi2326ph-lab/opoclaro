@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "ortografia-lengua-espanola",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Ortografía de la lengua española · Tema 37",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T37-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Cuándo llevan tilde las palabras agudas según las reglas generales?",
+      "opciones": [
+        "Cuando terminan en vocal, -n o -s, con las salvedades ortográficas aplicables",
+        "Siempre",
+        "Solo cuando terminan en consonante distinta de n o s",
+        "Nunca si tienen más de una sílaba"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La RAE establece que las agudas se tildan si terminan en vocal, n o s, con excepciones específicas como ciertas terminaciones en más de una consonante o en y.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía, reglas generales de acentuación",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué regla se aplica a las palabras esdrújulas?",
+      "opciones": [
+        "Solo llevan tilde si terminan en vocal",
+        "Siempre llevan tilde",
+        "Solo llevan tilde si terminan en n o s",
+        "Nunca llevan tilde"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las palabras esdrújulas y sobresdrújulas llevan siempre tilde gráfica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía, reglas generales de acentuación",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Cuándo se tildan, por regla general, las palabras agudas?",
+      "opciones": [
+        "Cuando terminan en vocal, n o s",
+        "Cuando terminan en cualquier consonante",
+        "Nunca",
+        "Solo si tienen más de tres sílabas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las reglas generales de la RAE tildan las agudas terminadas en vocal, n o s.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, reglas de acentuación",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Cuándo llevan tilde las palabras llanas según la regla general?",
+      "opciones": [
+        "Cuando terminan en consonante distinta de n o s, con las reglas para grupos consonánticos",
+        "Siempre que terminan en vocal",
+        "Nunca",
+        "Solo si terminan en n o s"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La regla general de las llanas depende de la consonante final.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, reglas de acentuación",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué regla general se aplica a las palabras esdrújulas?",
+      "opciones": [
+        "Siempre llevan tilde",
+        "Solo llevan tilde si acaban en consonante",
+        "Nunca llevan tilde",
+        "Se tildan únicamente en mayúscula"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las palabras esdrújulas se tildan siempre según las reglas generales.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, reglas de acentuación",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué es un diptongo a efectos silábicos?",
+      "opciones": [
+        "Dos vocales que forman parte de una misma sílaba",
+        "Dos vocales siempre separadas en sílabas distintas",
+        "Tres consonantes seguidas",
+        "Una vocal tónica aislada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La RAE define el diptongo como secuencia de dos vocales en la misma sílaba.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, secuencias vocálicas",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué es un hiato?",
+      "opciones": [
+        "Secuencia de vocales que pertenece a sílabas distintas",
+        "Dos consonantes en una sílaba",
+        "Tres vocales en la misma sílaba",
+        "Una tilde diacrítica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La RAE define el hiato como secuencia de vocales en sílabas sucesivas distintas.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, secuencias vocálicas",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué ocurre con el hiato formado por vocal cerrada tónica y vocal abierta átona?",
+      "opciones": [
+        "La vocal cerrada lleva siempre tilde, al margen de las reglas generales",
+        "Nunca lleva tilde",
+        "La tilde va siempre en la vocal abierta",
+        "Se escribe siempre con diéresis"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La RAE establece tilde obligatoria en la vocal cerrada tónica de ese hiato.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, hiatos",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿La h intercalada impide que dos vocales formen hiato o diptongo?",
+      "opciones": [
+        "No; la h no determina por sí sola esa separación ni impide la tilde requerida",
+        "Sí, siempre forma una sílaba aparte",
+        "Sí, elimina cualquier tilde",
+        "Solo impide los diptongos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La RAE señala que la h intercalada no cambia la clasificación ortográfica del encuentro vocálico.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía básica, secuencias vocálicas",
+        "url": "https://www.rae.es/ortograf%C3%ADa-b%C3%A1sica/uso-de-la-tilde/las-reglas-de-acentuaci%C3%B3n-gr%C3%A1fica/la-acentuaci%C3%B3n-gr%C3%A1fica-de-las-palabras-con-secuencias-voc%C3%A1licas"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "Si un triptongo debe llevar tilde, ¿sobre qué vocal se coloca?",
+      "opciones": [
+        "Sobre la vocal abierta",
+        "Sobre la primera vocal cerrada",
+        "Sobre la última vocal cerrada siempre",
+        "Sobre la consonante anterior"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La RAE establece que la tilde de un triptongo recae sobre la vocal abierta.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Ortografía, palabras con triptongo",
+        "url": "https://www.rae.es/ortograf%C3%ADa/palabras-con-triptongo"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué función cumple la tilde diacrítica según la Ortografía académica?",
+      "opciones": [
+        "Marcar todas las palabras polisílabas",
+        "Distinguir ciertas palabras tónicas de otras formalmente iguales pero átonas",
+        "Indicar siempre la sílaba final",
+        "Separar vocales de un diptongo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tilde diacrítica distingue palabras tónicas de formas iguales átonas en los casos establecidos por la Ortografía académica.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: tilde diacrítica",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Cuál lleva tilde diacrítica cuando funciona como pronombre personal?",
+      "opciones": [
+        "El artículo",
+        "Tu posesivo",
+        "Él",
+        "Mi posesivo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "«Él» pronombre personal lleva tilde diacrítica; «el» artículo no la lleva.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: tilde diacrítica en monosílabos",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué pareja diferencia la tilde diacrítica por la categoría gramatical?",
+      "opciones": [
+        "«casa» sustantivo y «casas» plural",
+        "«alto» adjetivo y «alta» femenino",
+        "«comer» infinitivo y «comiendo» gerundio",
+        "«tú» pronombre y «tu» posesivo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tilde distingue el pronombre personal «tú» del posesivo átono «tu».",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: tilde diacrítica en monosílabos",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué establece la recomendación académica actual sobre la conjunción «o» entre cifras?",
+      "opciones": [
+        "Se escribe sin tilde",
+        "Debe llevar tilde para evitar confusión",
+        "Se escribe siempre en cursiva",
+        "Se sustituye obligatoriamente por «u»"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La recomendación académica eliminó la tilde de la conjunción «o» incluso entre cifras.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Principales novedades de la Ortografía",
+        "url": "https://www.rae.es/sites/default/files/Principales_novedades_de_la_Ortografia_de_la_lengua_espanola.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Cuál es la forma académica recomendada para el sustantivo monosílabo formado por diptongo ortográfico?",
+      "opciones": [
+        "guion, sin tilde",
+        "guión, con tilde obligatoria",
+        "guión, solo en textos antiguos",
+        "guïon, con diéresis"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "«Guion» se considera monosílabo ortográfico y se escribe sin tilde.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE-ASALE, Principales novedades de la Ortografía",
+        "url": "https://www.rae.es/sites/default/files/Principales_novedades_de_la_Ortografia_de_la_lengua_espanola.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué ocurre con la «h» intercalada cuando una secuencia vocálica constituye hiato y corresponde tilde?",
+      "opciones": [
+        "Elimina siempre la tilde",
+        "Convierte automáticamente el hiato en diptongo",
+        "No impide aplicar la tilde que exijan las reglas del hiato",
+        "Obliga a escribir diéresis"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La h intercalada no altera las reglas de acentuación de los hiatos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: acentuación de hiatos",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿Qué tratamiento reciben los monosílabos tónicos que no forman parte de una oposición de tilde diacrítica?",
+      "opciones": [
+        "Llevan tilde siempre",
+        "Llevan tilde si terminan en vocal",
+        "Llevan tilde si comienzan por consonante",
+        "No llevan tilde gráfica por regla general"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los monosílabos no llevan tilde gráfica salvo cuando corresponde aplicar tilde diacrítica.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: tilde diacrítica",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "En «María», ¿por qué se escribe tilde sobre la vocal cerrada?",
+      "opciones": [
+        "El hiato formado por vocal cerrada tónica y abierta átona lleva tilde en la cerrada",
+        "Toda palabra llana termina en tilde",
+        "La «a» abierta siempre lleva tilde",
+        "La tilde distingue un nombre propio"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "En un hiato de vocal cerrada tónica y vocal abierta átona, la tilde se coloca sobre la vocal cerrada.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RAE, Ortografía de la lengua española: acentuación de hiatos",
+        "url": "https://www.rae.es/diccionario-estudiante/docs/ortografia.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "Según la Ortografía académica, ¿qué clase de palabras son «guion» y «truhan» a efectos de acentuación?",
+      "opciones": [
+        "Esdrújulas",
+        "Monosílabas y, por ello, se escriben sin tilde salvo que proceda tilde diacrítica",
+        "Llanas terminadas en consonante distinta de n o s",
+        "Diptongos que siempre llevan tilde"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La convención ortográfica considera monosílabas estas voces y no las tilda, salvo tilde diacrítica.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Principales novedades de la Ortografía",
+        "url": "https://www.rae.es/sites/default/files/Principales_novedades_de_la_Ortografia_de_la_lengua_espanola.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T37-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "ortografia-lengua-espanola",
+      "temaNumero": 37,
+      "enunciado": "¿La RAE exige actualmente tilde en el adverbio «solo» en todos los casos?",
+      "opciones": [
+        "Sí, siempre que equivalga a «solamente»",
+        "Sí, por ser palabra llana terminada en vocal",
+        "No; admite prescindir de ella incluso cuando pueda haber ambigüedad, conforme a la recomendación académica",
+        "No; nunca se puede tildar en ningún contexto"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La RAE admite escribir «solo» sin tilde incluso en casos de posible ambigüedad.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RAE-ASALE, Presentación de la Ortografía básica: novedades sobre «solo»",
+        "url": "https://www.rae.es/sites/default/files/Prologo_Ortografia_basica.pdf"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}

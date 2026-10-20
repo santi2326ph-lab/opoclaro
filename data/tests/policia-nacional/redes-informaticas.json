@@ -1,0 +1,430 @@
+{
+  "oposicion": "policia-nacional",
+  "tema": "redes-informaticas",
+  "nombreOposicion": "Policía Nacional (CNP)",
+  "nombreTema": "Redes informáticas · Tema 39",
+  "tipoBanco": "demostrativo",
+  "nota": "Preguntas originales basadas en fuentes oficiales verificables. No son preguntas oficiales ni se atribuyen a convocatorias.",
+  "preguntas": [
+    {
+      "id": "T39-CNP-001",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué función cumple DNS en Internet?",
+      "opciones": [
+        "Asocia nombres de dominio con información de recursos de Internet, como direcciones IP",
+        "Cifra todo el tráfico web por defecto",
+        "Asigna direcciones MAC a tarjetas de red",
+        "Transporta exclusivamente correo electrónico"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "RFC 1034 describe el sistema de nombres de dominio como una base de datos distribuida para nombres y datos asociados.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RFC 1034, Domain Names: Concepts and Facilities",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-002",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué característica define TCP frente a UDP?",
+      "opciones": [
+        "TCP es un protocolo de resolución de nombres",
+        "TCP proporciona un servicio de transporte fiable y orientado a conexión",
+        "TCP no utiliza puertos",
+        "TCP solo funciona en redes locales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La especificación TCP define un servicio de transporte orientado a conexión con entrega fiable y ordenada.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-003",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué componente del DNS atiende solicitudes de programas cliente y consulta servidores de nombres?",
+      "opciones": [
+        "El resolver",
+        "El compilador",
+        "El controlador de pantalla",
+        "El servidor de impresión"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "RFC 1034 describe resolvers como programas que obtienen información de servidores de nombres para clientes.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RFC 1034, sección 2.4",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-004",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Cómo organiza el DNS su espacio de nombres?",
+      "opciones": [
+        "Como una estructura jerárquica en forma de árbol",
+        "Como una lista plana sin niveles",
+        "Como una tabla de direcciones MAC únicamente",
+        "Como una secuencia aleatoria de números"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "RFC 1034 define el espacio de nombres de dominio como estructura jerárquica arbórea.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RFC 1034, sección 2.1",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-005",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué función cumple un servidor de nombres en DNS?",
+      "opciones": [
+        "Mantiene información sobre partes del árbol de dominios y puede referir a otros servidores",
+        "Asigna direcciones MAC a tarjetas",
+        "Cifra todo el tráfico web",
+        "Sustituye al sistema operativo cliente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "RFC 1034 describe servidores de nombres como programas que mantienen información del árbol y zonas.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RFC 1034, sección 2.4",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-006",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué es una zona DNS?",
+      "opciones": [
+        "Unidad de información autoritativa organizada y servida por servidores de nombres",
+        "Un cable de red",
+        "Una dirección de correo",
+        "Una conexión TCP individual"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "RFC 1034 explica que la información autoritativa se organiza en unidades llamadas zonas.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RFC 1034, sección 2.4",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-007",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué permite un registro de recurso DNS?",
+      "opciones": [
+        "Asociar información tipada a un nombre de dominio",
+        "Guardar archivos ejecutables en el router",
+        "Asignar claves privadas a usuarios",
+        "Mantener el historial del navegador"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "RFC 1034 describe nombres y registros de recursos como espacio de nombres y datos asociados.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RFC 1034, sección 2.4",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-008",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué servicio de transporte ofrece TCP a las aplicaciones?",
+      "opciones": [
+        "Un flujo de bytes fiable y ordenado entre extremos",
+        "Entrega de mensajes sin conexión ni orden",
+        "Resolución de nombres de dominio",
+        "Asignación de direcciones IP"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "RFC 9293 define TCP como protocolo de transporte fiable y orientado a conexión.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-009",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué identifican los números de secuencia de TCP?",
+      "opciones": [
+        "La posición de los bytes en el flujo transmitido",
+        "El nombre del dominio remoto",
+        "La dirección física del router",
+        "La velocidad del procesador"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "TCP usa números de secuencia para ordenar bytes y gestionar la confirmación de datos.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-010",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué indica el establecimiento de una conexión TCP?",
+      "opciones": [
+        "El inicio de una asociación lógica entre extremos antes de intercambiar el flujo",
+        "La traducción de un nombre DNS",
+        "La creación de una red inalámbrica",
+        "La asignación permanente de una dirección MAC"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "TCP establece conexión lógica entre los extremos antes de la transferencia de datos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-011",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Cómo organiza el espacio de nombres DNS el RFC 1034?",
+      "opciones": [
+        "Como una lista plana de direcciones IP",
+        "Como una tabla única sin delegaciones",
+        "Como una red de difusión local",
+        "Como una estructura jerárquica en forma de árbol"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "RFC 1034 describe el espacio de nombres de dominio como una estructura de árbol.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "IETF, RFC 1034, Domain Concepts and Facilities",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-012",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué representa una etiqueta de un nodo DNS según RFC 1034?",
+      "opciones": [
+        "Una parte de la ruta jerárquica que forma un nombre de dominio",
+        "Una dirección MAC",
+        "Un número de puerto TCP",
+        "Una clave de cifrado TLS"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "Cada nombre de dominio se compone de etiquetas que forman una ruta dentro de la jerarquía.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 1034, Domain Concepts and Facilities",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-013",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué es una zona DNS en el sentido del RFC 1034?",
+      "opciones": [
+        "Un equipo cliente que guarda toda Internet",
+        "Una parte conectada del espacio de nombres cuyos datos son autoritativos para esa zona",
+        "Una dirección IPv6 privada",
+        "Un segmento de TCP"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una zona reúne un área conectada del árbol para la cual los servidores de nombres mantienen datos autoritativos.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 1034, Domain Concepts and Facilities",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-014",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué dato contiene un registro SOA en una zona DNS según RFC 1034?",
+      "opciones": [
+        "La clave privada del servidor web",
+        "El número de secuencia de TCP",
+        "Información de gestión de la zona",
+        "La máscara IPv4 del cliente"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El registro SOA contiene parámetros de gestión de la zona.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 1034, Domain Concepts and Facilities",
+        "url": "https://www.rfc-editor.org/rfc/rfc1034.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-015",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué indica el número de secuencia de un segmento TCP ordinario?",
+      "opciones": [
+        "El número de paquetes DNS pendientes",
+        "La dirección del siguiente router",
+        "El tamaño máximo del mensaje TLS",
+        "El número del primer octeto de datos de ese segmento"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El número de secuencia TCP identifica el primer octeto de datos del segmento, salvo el tratamiento especial de SYN.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-016",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "En TCP, ¿qué indica una confirmación con número X?",
+      "opciones": [
+        "Que se han recibido acumulativamente todos los octetos anteriores a X",
+        "Que el receptor ha cerrado el puerto X",
+        "Que se ha cambiado la dirección IP",
+        "Que el siguiente segmento es siempre de tamaño X"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "TCP confirma acumulativamente los datos recibidos hasta, sin incluir, el número indicado.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "IETF, RFC 9293, Transmission Control Protocol",
+        "url": "https://www.rfc-editor.org/rfc/rfc9293.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-017",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué tamaño tiene una dirección IPv6 según RFC 8200?",
+      "opciones": [
+        "32 bits",
+        "128 bits",
+        "48 bits",
+        "64 bits"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "IPv6 utiliza direcciones de 128 bits, ampliando el espacio frente a IPv4.",
+      "dificultad": "facil",
+      "fuente": {
+        "referencia": "IETF, RFC 8200, Internet Protocol Version 6",
+        "url": "https://www.rfc-editor.org/info/rfc8200/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-018",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué bloques reserva RFC 1918 para direccionamiento IPv4 privado?",
+      "opciones": [
+        "127/8, 169.254/16 y 224/4",
+        "192.0.2/24, 198.51.100/24 y 203.0.113/24",
+        "10/8, 172.16/12 y 192.168/16",
+        "0/8, 100.64/10 y 240/4"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "RFC 1918 reserva tres bloques IPv4 para redes privadas: 10/8, 172.16/12 y 192.168/16.",
+      "dificultad": "dificil",
+      "fuente": {
+        "referencia": "IETF, RFC 1918, Address Allocation for Private Internets",
+        "url": "https://www.rfc-editor.org/rfc/rfc1918.html"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-019",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Qué protocolo especifica TLS 1.3 en RFC 8446?",
+      "opciones": [
+        "El protocolo de nombres DNS",
+        "El protocolo de transporte TCP",
+        "El protocolo de direccionamiento IPv6",
+        "El protocolo de seguridad de la capa de transporte, TLS, versión 1.3"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "RFC 8446 especifica la versión 1.3 del protocolo Transport Layer Security.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 8446, The Transport Layer Security Protocol Version 1.3",
+        "url": "https://www.rfc-editor.org/info/rfc8446/"
+      },
+      "fechaRevision": "2026-10-20"
+    },
+    {
+      "id": "T39-CNP-020",
+      "oposicion": "policia-nacional",
+      "tema": "redes-informaticas",
+      "temaNumero": 39,
+      "enunciado": "¿Cuál es una mejora de direccionamiento de IPv6 descrita en RFC 8200?",
+      "opciones": [
+        "Amplía la longitud de las direcciones IP de 32 a 128 bits",
+        "Reduce las direcciones a 16 bits",
+        "Sustituye las direcciones por nombres DNS",
+        "Elimina el enrutamiento entre redes"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "RFC 8200 establece una longitud de 128 bits para direcciones IPv6 frente a 32 bits en IPv4.",
+      "dificultad": "media",
+      "fuente": {
+        "referencia": "IETF, RFC 8200, Internet Protocol Version 6",
+        "url": "https://www.rfc-editor.org/info/rfc8200/"
+      },
+      "fechaRevision": "2026-10-20"
+    }
+  ]
+}
